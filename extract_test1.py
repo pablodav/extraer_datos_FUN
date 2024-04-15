@@ -17,6 +17,19 @@ resultado_prueba_pdf = path.join(data_path, 'res_731_2125.pdf')
 # Reader pdf
 reader = PdfReader(resultado_prueba_pdf)
 page = reader.pages[0]
-print(page.extract_text(), layout_mode_scale_weight=0.5)
+print(page.extract_text(extraction_mode='layout', layout_mode_scale_weight=0.5))
 
+# create a dataframe with the extracted text
+# Extract text
+extracted_text = page.extract_text(extraction_mode='layout', layout_mode_scale_weight=0.5)
+lines = extracted_text.splitlines()
+lines_after_removal = lines[4:]
+
+# Join the lines back together
+extracted_text = '\n'.join(lines_after_removal)
+
+# Create a dataframe with the extracted text
+data = {'Extracted Text': [extracted_text]}
+df = pd.DataFrame(data)
+print(df)
 
