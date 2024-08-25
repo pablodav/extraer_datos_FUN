@@ -1,3 +1,6 @@
 pandas
 ipdb
 requests
+tabula
+pdfplumber
+camelot-py
