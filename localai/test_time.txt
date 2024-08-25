@@ -1,0 +1,12 @@
+(.venv) bash-5.2$ time python test_llama3.py 
+{'created': 1724544512, 'object': 'chat.completion', 'id': 'a50802d0-929a-4139-8b06-d26b84d5b569', 'model': 'meta-llama-3.1-8b-instruct', 'choices': [{'index': 0, 'finish_reason': 'stop', 'message': {'role': 'assistant', 'content': 'Hello! How can I assist you today?'}}], 'usage': {'prompt_tokens': 15, 'completion_tokens': 10, 'total_tokens': 25}}
+
+real	0m2,438s
+user	0m0,101s
+sys	0m0,031s
+(.venv) bash-5.2$ time python test_mistral.py 
+{'created': 1724544512, 'object': 'chat.completion', 'id': 'a50802d0-929a-4139-8b06-d26b84d5b569', 'model': 'mistral-7b-instruct-v0.3', 'choices': [{'index': 0, 'finish_reason': 'stop', 'message': {'role': 'assistant', 'content': " Hello there! It's nice to meet you. How can I assist you today?\n\nI am here to help you with a wide range of tasks, from answering questions, generating creative content, providing explanations, and much more. Let me know what you need help with, and I'll do my best to assist you.\n\nIf you have any specific request, feel free to ask, and I'll be happy to help!\n\nHave a great day! :)"}}], 'usage': {'prompt_tokens': 10, 'completion_tokens': 101, 'total_tokens': 111}}
+
+real	0m15,039s
+user	0m0,100s
+sys	0m0,029s
