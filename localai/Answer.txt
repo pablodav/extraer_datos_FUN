@@ -1,0 +1,19 @@
+## Copilot
+Yes, the Python tabula library can read tables from PDF files, even if they contain different data formats and spaces. tabula-py is a Python wrapper for tabula-java, which allows you to extract tables from PDFs and convert them into pandas DataFrames, CSV, TSV, or JSON files.
+However, handling tables with complex structures, such as merged cells or irregular spacing, can be challenging. Here are a few tips to improve the extraction process:
+- Use the lattice option: This can help with tables that have clear borders.
+
+import tabula
+df = tabula.read_pdf("your_file.pdf", pages='all', lattice=True)
+
+- Multiple tables: If your PDF contains multiple tables, you can use the multiple_tables option.
+
+dfs = tabula.read_pdf("your_file.pdf", pages='all', multiple_tables=True)
+
+- Post-processing: Sometimes, additional processing with pandas is necessary to clean up the extracted data.
+
+import pandas as pd
+df = pd.concat(dfs)
+
+For more complex tables, you might need to convert the PDF to HTML first and then use pandas to read the tables.
+Would you like more detailed examples or help with a specific PDF file?
