@@ -1,7 +1,7 @@
 pandas
 ipdb
 requests
-tabula
+tabula-py
 pdfplumber
 camelot-py[cv]
 PyPDF2==2.12.1
