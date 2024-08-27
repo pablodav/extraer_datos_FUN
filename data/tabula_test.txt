@@ -36,3 +36,18 @@ Table 22:
 33  1169          Burgos, Nicolas  M  10   CSL  Hombres 10 Anos de Edad 100 CC Metro CI F 2:35,23           31
 34  1170          Burgos, Nicolas  M  10   CSL  Hombres 10 Anos de Edad 50 CC Metro EstiloF de...           24
 35  1171            Dati, Benicio  M  10   CSL  Hombres 10 Anos de Edad 50 CC Metro EstiloF de...           23
+
+
+Next:
+
+pdf_path = "https://github.com/chezou/tabula-py/raw/master/tests/resources/data.pdf"
+dfs = tabula.read_pdf(pdf_path, stream=True)
+
+tabula.convert_into("Sample.pdf", "output.csv", output_format="csv", pages='all')
+
+from tabula import convert_into
+table_file = r"ActualPathtoPDF"
+output_csv = r"DestinationDirectory/file.csv"
+df = convert_into(table_file, output_csv, output_format='csv', lattice=True, stream=False, pages="all")
+
+convert_into(pdfPath, outputCSV, output_format='csv', pages='all', lattice=True, area='[1.0,1.0,10.5,40.2]')
