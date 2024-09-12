@@ -1,4 +1,6 @@
 pandas
+matplotlib
+seaborn     
 ipdb
 requests
 tabula-py
