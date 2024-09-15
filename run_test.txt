@@ -1,0 +1,1265 @@
+Analyzing Evento 2  Hombres 16-18 200 CC Metro Estilo Libre,,,,,
+Number of participants: 15
+Average time: 0 days 00:02:34.330666666
+Fastest time: 0 days 00:02:12.770000
+Slowest time: 0 days 00:03:00.580000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 3  Niñas 12 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 45
+Average time: 0 days 00:00:50.767777777
+Fastest time: 0 days 00:00:42.770000
+Slowest time: 0 days 00:00:59.290000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 3  Niñas 13 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:48.779230769
+Fastest time: 0 days 00:00:42.770000
+Slowest time: 0 days 00:00:58.170000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 4  Niños 12 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 19
+Average time: 0 days 00:00:52.760526315
+Fastest time: 0 days 00:00:42.900000
+Slowest time: 0 days 00:01:04.300000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 4  Niños 12-13 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 33
+Average time: 0 days 00:00:52.263333333
+Fastest time: 0 days 00:00:42.120000
+Slowest time: 0 days 00:01:04.300000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 4  Niños 13 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 14
+Average time: 0 days 00:00:51.588571428
+Fastest time: 0 days 00:00:42.120000
+Slowest time: 0 days 00:00:58.120000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 5  Mujeres 19 & Mayores 100 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 11
+Average time: 0 days 00:01:22.260000
+Fastest time: 0 days 00:01:17.090000
+Slowest time: 0 days 00:01:31.640000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 6  Hombres 19 & Mayores 100 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 59
+Average time: 0 days 00:00:50.248813559
+Fastest time: 0 days 00:00:33.890000
+Slowest time: 0 days 00:01:14.700000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time '1.0'. Returning NaT.
+Warning: Unable to parse time '2.0'. Returning NaT.
+Warning: Unable to parse time '3.0'. Returning NaT.
+Warning: Unable to parse time '4.0'. Returning NaT.
+Warning: Unable to parse time '5.0'. Returning NaT.
+Warning: Unable to parse time '6.0'. Returning NaT.
+Warning: Unable to parse time '7.0'. Returning NaT.
+Warning: Unable to parse time '8.0'. Returning NaT.
+Warning: Unable to parse time '9.0'. Returning NaT.
+Warning: Unable to parse time '10.0'. Returning NaT.
+Warning: Unable to parse time '11.0'. Returning NaT.
+Warning: Unable to parse time '12.0'. Returning NaT.
+Warning: Unable to parse time '13.0'. Returning NaT.
+Warning: Unable to parse time '14.0'. Returning NaT.
+Warning: Unable to parse time '15.0'. Returning NaT.
+Warning: Unable to parse time '16.0'. Returning NaT.
+
+Skipping analysis for Evento 10  Hombres 11 Años de Edad 50 CC Metro Estilo Libre,,,,, due to parsing issues.
+
+Skipping plotting for Evento 10  Hombres 11 Años de Edad 50 CC Metro Estilo Libre,,,,, due to parsing issues.
+Warning: Unable to parse time '1.0'. Returning NaT.
+Warning: Unable to parse time '2.0'. Returning NaT.
+Warning: Unable to parse time '3.0'. Returning NaT.
+Warning: Unable to parse time '4.0'. Returning NaT.
+Warning: Unable to parse time '5.0'. Returning NaT.
+Warning: Unable to parse time '6.0'. Returning NaT.
+Warning: Unable to parse time '7.0'. Returning NaT.
+Warning: Unable to parse time '8.0'. Returning NaT.
+Warning: Unable to parse time '9.0'. Returning NaT.
+Warning: Unable to parse time '10.0'. Returning NaT.
+Warning: Unable to parse time '11.0'. Returning NaT.
+Warning: Unable to parse time '12.0'. Returning NaT.
+Warning: Unable to parse time '13.0'. Returning NaT.
+Warning: Unable to parse time '14.0'. Returning NaT.
+Warning: Unable to parse time '15.0'. Returning NaT.
+
+Skipping analysis for Evento 11  Mujeres 14-15 100 CC Metro Estilo de Espalda,,,,, due to parsing issues.
+
+Skipping plotting for Evento 11  Mujeres 14-15 100 CC Metro Estilo de Espalda,,,,, due to parsing issues.
+Warning: Unable to parse time '1:17,29 6'. Returning NaT.
+Warning: Unable to parse time '1:17,44 5'. Returning NaT.
+Warning: Unable to parse time '1:18,18 4'. Returning NaT.
+Warning: Unable to parse time '1:20,38 3'. Returning NaT.
+Warning: Unable to parse time '1:20,95 2'. Returning NaT.
+Warning: Unable to parse time '1:22,98 1'. Returning NaT.
+
+Analyzing Evento 12  Hombres 14-15 100 CC Metro Estilo de Espalda,,,,,
+Number of participants: 7
+Average time: 0 days 00:01:29.672857142
+Fastest time: 0 days 00:01:23.140000
+Slowest time: 0 days 00:01:42.990000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Tiempo de Finales Puntos'. Returning NaT.
+Warning: Unable to parse time '1:56,08 18'. Returning NaT.
+Warning: Unable to parse time '3) Estol, Lucia W16 4) Vidiella, Federica W17'. Returning NaT.
+Warning: Unable to parse time '1:57,30 14'. Returning NaT.
+Warning: Unable to parse time '3) Zecca, Natalia W16 4) Puyol, Caio M18'. Returning NaT.
+Warning: Unable to parse time '1:59,31 12'. Returning NaT.
+Warning: Unable to parse time '3) Velazquez, Federica W18 4) Sonderegger, Saskia W17'. Returning NaT.
+Warning: Unable to parse time '2:00,73 10'. Returning NaT.
+Warning: Unable to parse time '3) Keiran, Julieta W17 4) Quincke, Bautista M18'. Returning NaT.
+Warning: Unable to parse time '2:06,26 8'. Returning NaT.
+Warning: Unable to parse time '3) Gallino, Camila W17 4) Cavalheiro, Federico M17'. Returning NaT.
+Warning: Unable to parse time '2:12,51 6'. Returning NaT.
+Warning: Unable to parse time '3) Centurion, Matilde W18 4) Garcia, Rodrigo M17'. Returning NaT.
+
+Skipping analysis for Evento 13  Mixto 16-18 4x50 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+
+Skipping plotting for Evento 13  Mixto 16-18 4x50 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+Warning: Unable to parse time 'Tiempo de Finales Puntos'. Returning NaT.
+Warning: Unable to parse time '2:32,58 18'. Returning NaT.
+Warning: Unable to parse time '3) Timote, Priscila W13 4) Menini, Benjamin M13'. Returning NaT.
+Warning: Unable to parse time '2:35,47 14'. Returning NaT.
+Warning: Unable to parse time '3) Ferres, Justino M13 4) Beron, Joaquin M12'. Returning NaT.
+Warning: Unable to parse time '2:35,50 12'. Returning NaT.
+Warning: Unable to parse time '3) Novak, Elena W13 4) Grassi, Jeronimo M13'. Returning NaT.
+Warning: Unable to parse time '2:39,89 10'. Returning NaT.
+Warning: Unable to parse time '3) Centurion, Maimo M12 4) García, Joaquín M13'. Returning NaT.
+Warning: Unable to parse time '2:59,19 8'. Returning NaT.
+Warning: Unable to parse time '3) Sonderegger, Ian M12 4) Gonzalez, Josefina W12'. Returning NaT.
+
+Skipping analysis for Evento 14  Mixto 12-13 4x50 CC Metro Combinado Relevo,,, due to parsing issues.
+
+Skipping plotting for Evento 14  Mixto 12-13 4x50 CC Metro Combinado Relevo,,, due to parsing issues.
+Warning: Unable to parse time 'Nombre'. Returning NaT.
+Warning: Unable to parse time '1 Cuadra, Sebastian'. Returning NaT.
+Warning: Unable to parse time '2 Puyol, Caio'. Returning NaT.
+Warning: Unable to parse time '3 Cavalheiro, Federico'. Returning NaT.
+Warning: Unable to parse time '4 Quincke, Bautista'. Returning NaT.
+Warning: Unable to parse time '5 Rostan, Matias'. Returning NaT.
+Warning: Unable to parse time '6 Vittori, Giuliano'. Returning NaT.
+Warning: Unable to parse time '7 Stemphet, Iann Paul'. Returning NaT.
+Warning: Unable to parse time '8 Martinez, Alan'. Returning NaT.
+Warning: Unable to parse time '9 Hartwich, Ian'. Returning NaT.
+Warning: Unable to parse time '10 Garcia, Rodrigo'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2.0'. Returning NaT.
+Warning: Unable to parse time '3.0'. Returning NaT.
+Warning: Unable to parse time '4.0'. Returning NaT.
+Warning: Unable to parse time '5.0'. Returning NaT.
+Warning: Unable to parse time '6.0'. Returning NaT.
+Warning: Unable to parse time 'Unnamed: 0'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10'. Returning NaT.
+Warning: Unable to parse time '11'. Returning NaT.
+Warning: Unable to parse time '12'. Returning NaT.
+Warning: Unable to parse time 'nto 20  Hombres 14-15 100 CC Metro Estilo de Mariposa'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time 'nto 21  Niñas 12 Años de Edad 100 CC Metro CI'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10'. Returning NaT.
+Warning: Unable to parse time '11'. Returning NaT.
+Warning: Unable to parse time '12'. Returning NaT.
+Warning: Unable to parse time '13'. Returning NaT.
+Warning: Unable to parse time 'nto 21  Niñas 12-13 100 CC Metro CI'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10 Salaberry, Ana Clara'. Returning NaT.
+Warning: Unable to parse time '11 Rodriguez, Candelaria'. Returning NaT.
+Warning: Unable to parse time '12 Stemphet, Nahiara'. Returning NaT.
+Warning: Unable to parse time '13 Cerrudo, Sol'. Returning NaT.
+Warning: Unable to parse time '14 DE Souza, Guadalupe'. Returning NaT.
+Warning: Unable to parse time '15 Rimoldi, Josefina'. Returning NaT.
+Warning: Unable to parse time '16 Bianchini, Anabela'. Returning NaT.
+Warning: Unable to parse time '17 Taramasco, Barbara'. Returning NaT.
+Warning: Unable to parse time '18 Gerfauo, Aitana'. Returning NaT.
+Warning: Unable to parse time '19 Vieito, Luzmila'. Returning NaT.
+Warning: Unable to parse time '20 Vespa, Olivia'. Returning NaT.
+Warning: Unable to parse time '21 Monterroso, Ines'. Returning NaT.
+Warning: Unable to parse time '22 Ingold, Luisina'. Returning NaT.
+Warning: Unable to parse time '23 Timote, Priscila'. Returning NaT.
+Warning: Unable to parse time '24 Piriz, Ines'. Returning NaT.
+Warning: Unable to parse time '25 Gonzalez, Emilia'. Returning NaT.
+Warning: Unable to parse time '26 Acosta, Stefania'. Returning NaT.
+
+Skipping analysis for Evento 18  Hombres 16-18 100 CC Metro Estilo de Espalda,,,,, due to parsing issues.
+
+Skipping plotting for Evento 18  Hombres 16-18 100 CC Metro Estilo de Espalda,,,,, due to parsing issues.
+
+Analyzing Evento 21  Niñas 13 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 13
+Average time: 0 days 00:01:38.280769230
+Fastest time: 0 days 00:01:29.350000
+Slowest time: 0 days 00:02:03.730000
+Skipping line 13: expected 4 fields, saw 6
+Skipping line 14: expected 4 fields, saw 6
+Skipping line 15: expected 4 fields, saw 6
+Skipping line 16: expected 4 fields, saw 6
+Skipping line 17: expected 4 fields, saw 6
+Skipping line 18: expected 4 fields, saw 6
+Skipping line 19: expected 4 fields, saw 6
+Skipping line 20: expected 4 fields, saw 6
+Skipping line 21: expected 4 fields, saw 6
+Skipping line 22: expected 4 fields, saw 6
+Skipping line 23: expected 4 fields, saw 6
+Skipping line 24: expected 4 fields, saw 6
+Skipping line 25: expected 4 fields, saw 6
+Skipping line 26: expected 4 fields, saw 6
+
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 22  Niños 12 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 13
+Average time: 0 days 00:01:39.382307692
+Fastest time: 0 days 00:01:22.100000
+Slowest time: 0 days 00:01:50.420000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 22  Niños 12-13 100 CC Metro CI,,,,,
+Number of participants: 28
+Average time: 0 days 00:01:39.443214285
+Fastest time: 0 days 00:01:18.940000
+Slowest time: 0 days 00:01:51.140000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 22  Niños 13 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 15
+Average time: 0 days 00:01:39.496000
+Fastest time: 0 days 00:01:18.940000
+Slowest time: 0 days 00:01:51.140000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 23  Mujeres 10 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 16
+Average time: 0 days 00:00:59.243125
+Fastest time: 0 days 00:00:49.270000
+Slowest time: 0 days 00:01:21.130000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 24  Hombres 10 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 14
+Average time: 0 days 00:01:04.391428571
+Fastest time: 0 days 00:00:51
+Slowest time: 0 days 00:01:27.350000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 25  Mujeres 11 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 11
+Average time: 0 days 00:00:57.144545454
+Fastest time: 0 days 00:00:47.870000
+Slowest time: 0 days 00:01:24.660000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 26  Hombres 11 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:57.453076923
+Fastest time: 0 days 00:00:49.430000
+Slowest time: 0 days 00:01:06.690000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 27  Mujeres 19 & Mayores 200 CC Metro Estilo Libre,,,,,
+Number of participants: 13
+Average time: 0 days 00:02:35.763076923
+Fastest time: 0 days 00:02:27.260000
+Slowest time: 0 days 00:02:48.470000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Edad'. Returning NaT.
+Warning: Unable to parse time '26'. Returning NaT.
+Warning: Unable to parse time '32'. Returning NaT.
+Warning: Unable to parse time '21'. Returning NaT.
+Warning: Unable to parse time '19'. Returning NaT.
+Warning: Unable to parse time '29'. Returning NaT.
+Warning: Unable to parse time '32'. Returning NaT.
+Warning: Unable to parse time '22'. Returning NaT.
+Warning: Unable to parse time '24'. Returning NaT.
+Warning: Unable to parse time '19.0'. Returning NaT.
+Warning: Unable to parse time '20.0'. Returning NaT.
+Warning: Unable to parse time '20.0'. Returning NaT.
+Warning: Unable to parse time '21.0'. Returning NaT.
+Warning: Unable to parse time '23.0'. Returning NaT.
+Warning: Unable to parse time '35.0'. Returning NaT.
+Warning: Unable to parse time '19.0'. Returning NaT.
+
+Skipping analysis for Evento 28  Hombres 19 & Mayores 200 CC Metro Estilo Libre,,,,, due to parsing issues.
+
+Skipping plotting for Evento 28  Hombres 19 & Mayores 200 CC Metro Estilo Libre,,,,, due to parsing issues.
+Warning: Unable to parse time '5:23,27 18'. Returning NaT.
+Warning: Unable to parse time '4) Sonderegger, Saskia 17'. Returning NaT.
+Warning: Unable to parse time '5:28,91 14'. Returning NaT.
+Warning: Unable to parse time '4) Ruggiero, Giuliana 15'. Returning NaT.
+Warning: Unable to parse time '5:29,46 12'. Returning NaT.
+Warning: Unable to parse time '4) Keiran, Pia 18'. Returning NaT.
+Warning: Unable to parse time '5:44,16 10'. Returning NaT.
+Warning: Unable to parse time '4) Zecca, Natalia 16'. Returning NaT.
+Warning: Unable to parse time '4) Sonderegger, Anika 17'. Returning NaT.
+
+Analyzing Evento 29  Mujeres 16-18 4x100 CC Metro Combinado Relevo,,,,,
+Number of participants: 1
+Average time: 0 days 00:05:23.270000
+Fastest time: 0 days 00:05:23.270000
+Slowest time: 0 days 00:05:23.270000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '4:38,76 18'. Returning NaT.
+Warning: Unable to parse time '4) Cairus, Facundo 17'. Returning NaT.
+Warning: Unable to parse time '4:39,76 14'. Returning NaT.
+Warning: Unable to parse time '4) Paez, Juan Pedro 15'. Returning NaT.
+Warning: Unable to parse time '4:57,16 12'. Returning NaT.
+Warning: Unable to parse time '4) Gandulfo, Mateo 15'. Returning NaT.
+Warning: Unable to parse time '5:23,35 10'. Returning NaT.
+Warning: Unable to parse time '4) Garcia, Rodrigo 17'. Returning NaT.
+Warning: Unable to parse time '5:37,10 8'. Returning NaT.
+Warning: Unable to parse time '4) Elizarzu, Tim 17'. Returning NaT.
+
+Skipping analysis for Evento 30  Hombres 16-18 4x100 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 30  Hombres 16-18 4x100 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:15,86 18'. Returning NaT.
+Warning: Unable to parse time '4) Irigoyen, Tomas M14'. Returning NaT.
+Warning: Unable to parse time '2:19,90 14'. Returning NaT.
+Warning: Unable to parse time '4) Voelker, Felipe M15'. Returning NaT.
+Warning: Unable to parse time '2:24,01 12'. Returning NaT.
+Warning: Unable to parse time '4) Paez, Juan Pedro M15'. Returning NaT.
+Warning: Unable to parse time '2:26,18 10'. Returning NaT.
+Warning: Unable to parse time '4) Espindola, Aldana W15'. Returning NaT.
+Warning: Unable to parse time '2:37,12 8'. Returning NaT.
+Warning: Unable to parse time '4) Salayeta, Santiago M15'. Returning NaT.
+Warning: Unable to parse time '2:50,88 6'. Returning NaT.
+Warning: Unable to parse time '4) Furtado, Camila W14'. Returning NaT.
+Warning: Unable to parse time '2:19,39 18'. Returning NaT.
+Warning: Unable to parse time '4) Yaquinta, Guadalupe 12'. Returning NaT.
+Warning: Unable to parse time '2:20,34 14'. Returning NaT.
+Warning: Unable to parse time '4) Dornel, Matilda 12'. Returning NaT.
+Warning: Unable to parse time '2:26,62 12'. Returning NaT.
+Warning: Unable to parse time '4) Sagari, Belen 12'. Returning NaT.
+Warning: Unable to parse time '2:26,63 10'. Returning NaT.
+Warning: Unable to parse time '4) Gonzalez, Josefina 12'. Returning NaT.
+Warning: Unable to parse time '2:30,31 8'. Returning NaT.
+Warning: Unable to parse time '4) Salaberry, Ana Clara 13'. Returning NaT.
+Warning: Unable to parse time '2:39,36 6'. Returning NaT.
+Warning: Unable to parse time '4) Suarez, Emilia 13'. Returning NaT.
+
+Skipping analysis for Evento 31  Mixto 14-15 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 31  Mixto 14-15 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:09,41 18'. Returning NaT.
+Warning: Unable to parse time '4) Menini, Benjamin 13'. Returning NaT.
+Warning: Unable to parse time '2:17,14 14'. Returning NaT.
+Warning: Unable to parse time '4) Beron, Joaquin 12'. Returning NaT.
+Warning: Unable to parse time '2:24,47 12'. Returning NaT.
+Warning: Unable to parse time '4) Grassi, Jeronimo 13'. Returning NaT.
+Warning: Unable to parse time '2:27,60 10'. Returning NaT.
+Warning: Unable to parse time '4) Centurion, Maimo 12'. Returning NaT.
+Warning: Unable to parse time '2:28,68 8'. Returning NaT.
+Warning: Unable to parse time '4) Alvarino, Ignacio 12'. Returning NaT.
+Warning: Unable to parse time '2:34,28 6'. Returning NaT.
+Warning: Unable to parse time '4) Torres, Luciano 13'. Returning NaT.
+Warning: Unable to parse time '2:39,53 4'. Returning NaT.
+Warning: Unable to parse time '4) Filipini, Miguel 13'. Returning NaT.
+
+Skipping analysis for Evento 33  Niños 12-13 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 33  Niños 12-13 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time 'X2:46,58'. Returning NaT.
+Warning: Unable to parse time '4) Urrutia, Francesca W10'. Returning NaT.
+Warning: Unable to parse time 'X2:52,58'. Returning NaT.
+Warning: Unable to parse time '4) Cubas, Catalina W10'. Returning NaT.
+Warning: Unable to parse time 'X2:57,53'. Returning NaT.
+Warning: Unable to parse time '4) Barrett, Joaquin M10'. Returning NaT.
+Warning: Unable to parse time 'X3:01,91'. Returning NaT.
+Warning: Unable to parse time '4) Bosco, Ana Julia W10'. Returning NaT.
+Warning: Unable to parse time 'X3:10,88'. Returning NaT.
+Warning: Unable to parse time '4) Pintos, Ignacio M10'. Returning NaT.
+
+Skipping analysis for Evento 34  Mixto 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 34  Mixto 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:29,54 18'. Returning NaT.
+Warning: Unable to parse time '4) Bertinat, Guillermo M11'. Returning NaT.
+Warning: Unable to parse time '2:32,06 14'. Returning NaT.
+Warning: Unable to parse time '4) Cairus, Valentino M11'. Returning NaT.
+Warning: Unable to parse time '2:37,88 12'. Returning NaT.
+Warning: Unable to parse time '4) Frascheri, Lara W11'. Returning NaT.
+Warning: Unable to parse time '2:45,58 10'. Returning NaT.
+
+Skipping analysis for Evento 34  Mixto 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 34  Mixto 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Analyzing Evento 36  Hombres 19 & Mayores 200 CC Metro CI,,,,,
+Number of participants: 16
+Average time: 0 days 00:02:39.658125
+Fastest time: 0 days 00:02:20.860000
+Slowest time: 0 days 00:03:31.400000
+Skipping line 9: expected 5 fields, saw 6
+Skipping line 10: expected 5 fields, saw 6
+Skipping line 11: expected 5 fields, saw 6
+Skipping line 12: expected 5 fields, saw 6
+Skipping line 13: expected 5 fields, saw 6
+Skipping line 14: expected 5 fields, saw 6
+Skipping line 15: expected 5 fields, saw 6
+Skipping line 16: expected 5 fields, saw 6
+Skipping line 17: expected 5 fields, saw 6
+Skipping line 18: expected 5 fields, saw 6
+Skipping line 19: expected 5 fields, saw 6
+Skipping line 20: expected 5 fields, saw 6
+Skipping line 21: expected 5 fields, saw 6
+
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 37  Mujeres 14-15 50 CC Metro Estilo Libre,,,,,
+Number of participants: 20
+Average time: 0 days 00:00:36.016499999
+Fastest time: 0 days 00:00:30.850000
+Slowest time: 0 days 00:00:48.480000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 38  Hombres 14-15 50 CC Metro Estilo Libre,,,,,
+Number of participants: 20
+Average time: 0 days 00:00:31.584500
+Fastest time: 0 days 00:00:27.500000
+Slowest time: 0 days 00:00:38.890000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 39  Niñas 12 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 15
+Average time: 0 days 00:00:48.346666666
+Fastest time: 0 days 00:00:37.920000
+Slowest time: 0 days 00:01:07.400000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 39  Niñas 12-13 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 27
+Average time: 0 days 00:00:48.198888888
+Fastest time: 0 days 00:00:37.920000
+Slowest time: 0 days 00:01:07.400000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 39  Niñas 13 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:47.138461538
+Fastest time: 0 days 00:00:36.630000
+Slowest time: 0 days 00:01:06.280000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 40  Niños 12 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:45.387692307
+Fastest time: 0 days 00:00:33.250000
+Slowest time: 0 days 00:00:55.540000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 40  Niños 12-13 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 24
+Average time: 0 days 00:00:44.096666666
+Fastest time: 0 days 00:00:33.250000
+Slowest time: 0 days 00:00:55.540000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 40  Niños 13 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 11
+Average time: 0 days 00:00:42.570909090
+Fastest time: 0 days 00:00:34.210000
+Slowest time: 0 days 00:00:55.070000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 41  Mujeres 16-18 50 CC Metro Estilo Libre,,,,,
+Number of participants: 17
+Average time: 0 days 00:00:33.316470588
+Fastest time: 0 days 00:00:31.040000
+Slowest time: 0 days 00:00:36.700000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 42  Hombres 16-18 50 CC Metro Estilo Libre,,,,,
+Number of participants: 20
+Average time: 0 days 00:00:28.995000
+Fastest time: 0 days 00:00:25.500000
+Slowest time: 0 days 00:00:32.270000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 43  Mujeres 10 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:55.049230769
+Fastest time: 0 days 00:00:48.860000
+Slowest time: 0 days 00:01:07.690000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 44  Hombres 10 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 12
+Average time: 0 days 00:00:53.084166666
+Fastest time: 0 days 00:00:44.960000
+Slowest time: 0 days 00:01:02.710000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 45  Mujeres 11 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 9
+Average time: 0 days 00:00:50.896666666
+Fastest time: 0 days 00:00:39.960000
+Slowest time: 0 days 00:01:09.880000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 46  Hombres 11 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 14
+Average time: 0 days 00:00:50.665000
+Fastest time: 0 days 00:00:43.400000
+Slowest time: 0 days 00:00:59.320000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 47  Mujeres 19 & Mayores 50 CC Metro Estilo Libre,,,,,
+Number of participants: 18
+Average time: 0 days 00:00:32.172222222
+Fastest time: 0 days 00:00:29.790000
+Slowest time: 0 days 00:00:37.640000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 48  Hombres 19 & Mayores 50 CC Metro Estilo Libre,,,,,
+Number of participants: 35
+Average time: 0 days 00:00:51.039714285
+Fastest time: 0 days 00:00:24.660000
+Slowest time: 0 days 00:01:31.710000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Nombre'. Returning NaT.
+Warning: Unable to parse time '1 Cuadra, Sebastian'. Returning NaT.
+Warning: Unable to parse time '2 Puyol, Caio'. Returning NaT.
+Warning: Unable to parse time '3 Quincke, Bautista'. Returning NaT.
+Warning: Unable to parse time '4 Cairus, Facundo'. Returning NaT.
+Warning: Unable to parse time '5 Vittori, Giuliano'. Returning NaT.
+Warning: Unable to parse time '6 Silvera, Emiliano'. Returning NaT.
+Warning: Unable to parse time '7 Grassi, Valentin'. Returning NaT.
+Warning: Unable to parse time '8 Cavalheiro, Federico'. Returning NaT.
+Warning: Unable to parse time '9 Demaria, Aaron'. Returning NaT.
+Warning: Unable to parse time '10 Stemphet, Iann Paul'. Returning NaT.
+Warning: Unable to parse time '11 Morales, Tomas'. Returning NaT.
+Warning: Unable to parse time '12 Soto, Maimo'. Returning NaT.
+Warning: Unable to parse time '13 Elizarzu, Tim'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2.0'. Returning NaT.
+Warning: Unable to parse time '3.0'. Returning NaT.
+Warning: Unable to parse time '4.0'. Returning NaT.
+Warning: Unable to parse time '5.0'. Returning NaT.
+Warning: Unable to parse time '6.0'. Returning NaT.
+Warning: Unable to parse time 'Unnamed: 0'. Returning NaT.
+Warning: Unable to parse time '14'. Returning NaT.
+Warning: Unable to parse time '15'. Returning NaT.
+Warning: Unable to parse time '16'. Returning NaT.
+Warning: Unable to parse time '17'. Returning NaT.
+Warning: Unable to parse time '18'. Returning NaT.
+Warning: Unable to parse time 'nto 56  Mujeres 14-15 200 CC Metro CI'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10'. Returning NaT.
+Warning: Unable to parse time '11'. Returning NaT.
+Warning: Unable to parse time '12'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time 'nto 57  Hombres 14-15 200 CC Metro CI'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time '---'. Returning NaT.
+Warning: Unable to parse time 'nto 58  Mujeres 19 & Mayores 100 CC Metro Estilo Libre'. Returning NaT.
+Warning: Unable to parse time '1'. Returning NaT.
+Warning: Unable to parse time '2'. Returning NaT.
+Warning: Unable to parse time '3'. Returning NaT.
+Warning: Unable to parse time '4'. Returning NaT.
+Warning: Unable to parse time '5'. Returning NaT.
+Warning: Unable to parse time '6'. Returning NaT.
+Warning: Unable to parse time '7'. Returning NaT.
+Warning: Unable to parse time '8'. Returning NaT.
+Warning: Unable to parse time '9'. Returning NaT.
+Warning: Unable to parse time '10'. Returning NaT.
+Warning: Unable to parse time '11'. Returning NaT.
+Warning: Unable to parse time '12'. Returning NaT.
+Warning: Unable to parse time '13 Cufre, María Lucía'. Returning NaT.
+Warning: Unable to parse time '14 Lepratti, Manuela'. Returning NaT.
+
+Skipping analysis for Evento 55  Hombres 16-18 100 CC Metro Estilo Libre,,,,, due to parsing issues.
+
+Skipping plotting for Evento 55  Hombres 16-18 100 CC Metro Estilo Libre,,,,, due to parsing issues.
+
+Analyzing Evento 59  Hombres 19 & Mayores 100 CC Metro Estilo Libre,,,,,
+Number of participants: 18
+Average time: 0 days 00:01:01.068888888
+Fastest time: 0 days 00:00:54.700000
+Slowest time: 0 days 00:01:11.550000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 60  Niñas 12 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Number of participants: 16
+Average time: 0 days 00:00:38.324374999
+Fastest time: 0 days 00:00:33.979999999
+Slowest time: 0 days 00:00:45.530000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 60  Niñas 12-13 50 CC Metro Estilo Libre,,,,,
+Number of participants: 29
+Average time: 0 days 00:00:38.443448275
+Fastest time: 0 days 00:00:33.890000
+Slowest time: 0 days 00:00:50.450000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 60  Niñas 13 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Number of participants: 13
+Average time: 0 days 00:00:38.590000
+Fastest time: 0 days 00:00:33.890000
+Slowest time: 0 days 00:00:50.450000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 61  Niños 12 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Number of participants: 18
+Average time: 0 days 00:00:38.510555555
+Fastest time: 0 days 00:00:30.330000
+Slowest time: 0 days 00:00:50.330000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 61  Niños 12-13 50 CC Metro Estilo Libre,,,,,
+Number of participants: 54
+Average time: 0 days 00:00:37.417592592
+Fastest time: 0 days 00:00:29.590000
+Slowest time: 0 days 00:00:50.330000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 62  Mujeres 16-18 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 16
+Average time: 0 days 00:01:41.072500
+Fastest time: 0 days 00:01:32.120000
+Slowest time: 0 days 00:01:55.630000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time '2:35,28 18'. Returning NaT.
+Warning: Unable to parse time '4) Viera, Nataly 11'. Returning NaT.
+Warning: Unable to parse time '2:40,11 14'. Returning NaT.
+Warning: Unable to parse time '4) Delgrosso, Isabella 11'. Returning NaT.
+Warning: Unable to parse time '2:43,04 12'. Returning NaT.
+Warning: Unable to parse time '4) Trigo, Julia 11'. Returning NaT.
+Warning: Unable to parse time '2:57,49 10'. Returning NaT.
+Warning: Unable to parse time '4) Fleurquin, María 11'. Returning NaT.
+
+Analyzing Evento 63  Hombres 16-18 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 14
+Average time: 0 days 00:01:29.287142857
+Fastest time: 0 days 00:01:20.270000
+Slowest time: 0 days 00:01:44.180000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time 'X2:40,57'. Returning NaT.
+Warning: Unable to parse time '4) Barrett, Joaquin 10'. Returning NaT.
+Warning: Unable to parse time 'X2:54,71'. Returning NaT.
+Warning: Unable to parse time '4) Sanchez Varela, Antonio 10'. Returning NaT.
+Warning: Unable to parse time 'X3:09,43'. Returning NaT.
+Warning: Unable to parse time '4) Masalles, Jacinto 10'. Returning NaT.
+
+Skipping analysis for Evento 65  Niños 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 65  Niños 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:30,56 18'. Returning NaT.
+Warning: Unable to parse time '4) Cairus, Valentino 11'. Returning NaT.
+Warning: Unable to parse time '2:30,85 14'. Returning NaT.
+Warning: Unable to parse time '4) Bertinat, Guillermo 11'. Returning NaT.
+Warning: Unable to parse time '2:45,57 12'. Returning NaT.
+Warning: Unable to parse time '4) Licio, Faustino 11'. Returning NaT.
+Warning: Unable to parse time '2:58,49 10'. Returning NaT.
+Warning: Unable to parse time '4) Mantinian, Timoteo 11'. Returning NaT.
+Warning: Unable to parse time 'X2:48,11'. Returning NaT.
+Warning: Unable to parse time '2:03,90 14'. Returning NaT.
+Warning: Unable to parse time '4) Sonderegger, Paulino M15'. Returning NaT.
+Warning: Unable to parse time '2:04,30 12'. Returning NaT.
+Warning: Unable to parse time '4) Martinez, Ignacio M14'. Returning NaT.
+Warning: Unable to parse time '2:04,97 10'. Returning NaT.
+Warning: Unable to parse time '4) Paez, Juan Pedro M15'. Returning NaT.
+Warning: Unable to parse time '2:21,07 8'. Returning NaT.
+Warning: Unable to parse time '4) García, Facundo M14'. Returning NaT.
+Warning: Unable to parse time '2:22,47 6'. Returning NaT.
+Warning: Unable to parse time '4) Salayeta, Santiago M15'. Returning NaT.
+Warning: Unable to parse time '4) Benitez, Clemente M14'. Returning NaT.
+
+Skipping analysis for Evento 65  Niños 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 65  Niños 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:07,60 18'. Returning NaT.
+Warning: Unable to parse time '4) Rossotti, Lucia W21'. Returning NaT.
+Warning: Unable to parse time '2:08,55 14'. Returning NaT.
+Warning: Unable to parse time '4) Wansart, Erik M26'. Returning NaT.
+Warning: Unable to parse time '2:10,17 12'. Returning NaT.
+Warning: Unable to parse time '4) Urtazu, Agustín M25'. Returning NaT.
+Warning: Unable to parse time '2:11,76 10'. Returning NaT.
+Warning: Unable to parse time '4) Pessi, Lucas M19'. Returning NaT.
+Warning: Unable to parse time '2:13,04 8'. Returning NaT.
+Warning: Unable to parse time '4) Castroman, Nicolas M20'. Returning NaT.
+Warning: Unable to parse time '4) Muniz, Soledad W26'. Returning NaT.
+
+Skipping analysis for Evento 67  Mixto 19 & Mayores 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 67  Mixto 19 & Mayores 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '2:47,52 18'. Returning NaT.
+Warning: Unable to parse time '4) Frascheri, Lara 11'. Returning NaT.
+Warning: Unable to parse time '2:48,31 14'. Returning NaT.
+Warning: Unable to parse time '4) Perez, Danna 13'. Returning NaT.
+Warning: Unable to parse time '3:03,08 12'. Returning NaT.
+Warning: Unable to parse time '4) Gonzalez, Emilia 12'. Returning NaT.
+Warning: Unable to parse time '3:19,41 10'. Returning NaT.
+Warning: Unable to parse time '4) Hoffman, Lara 11'. Returning NaT.
+Warning: Unable to parse time '4) Rodriguez, Candelaria 13'. Returning NaT.
+
+Skipping analysis for Evento 68  Niñas 12-13 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 68  Niñas 12-13 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time '4) Frascheri, Lara 11'. Returning NaT.
+Warning: Unable to parse time '4) Perez, Danna 13'. Returning NaT.
+Warning: Unable to parse time '4) Gonzalez, Emilia 12'. Returning NaT.
+Warning: Unable to parse time '4) Hoffman, Lara 11'. Returning NaT.
+
+Analyzing Evento 68  Niñas 13 Años de Edad 4x50 CC Metro Combinado Relevo,,,,
+Number of participants: 4
+Average time: 0 days 00:02:59.580000
+Fastest time: 0 days 00:02:47.520000
+Slowest time: 0 days 00:03:19.410000
+Skipping line 11: expected 5 fields, saw 6
+Skipping line 12: expected 5 fields, saw 6
+Skipping line 13: expected 5 fields, saw 6
+Skipping line 14: expected 5 fields, saw 6
+Skipping line 15: expected 5 fields, saw 6
+Skipping line 16: expected 5 fields, saw 6
+Skipping line 17: expected 5 fields, saw 6
+Skipping line 18: expected 5 fields, saw 6
+Skipping line 19: expected 5 fields, saw 6
+Skipping line 20: expected 5 fields, saw 6
+Skipping line 21: expected 5 fields, saw 6
+Skipping line 22: expected 5 fields, saw 6
+Skipping line 23: expected 5 fields, saw 6
+Skipping line 24: expected 5 fields, saw 6
+Skipping line 25: expected 5 fields, saw 6
+Skipping line 26: expected 5 fields, saw 6
+
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Tiempo de Finales Puntos'. Returning NaT.
+Warning: Unable to parse time '2:34,32 18'. Returning NaT.
+Warning: Unable to parse time '4) Brun, Elias 12'. Returning NaT.
+Warning: Unable to parse time '2:43,80 14'. Returning NaT.
+Warning: Unable to parse time '4) Beron, Joaquin 12'. Returning NaT.
+Warning: Unable to parse time '2:43,81 12'. Returning NaT.
+Warning: Unable to parse time '4) Paez, Tomas 12'. Returning NaT.
+Warning: Unable to parse time '2:54,97 10'. Returning NaT.
+Warning: Unable to parse time '4) Rodriguez, Joaquin 12'. Returning NaT.
+Warning: Unable to parse time '2:55,38 8'. Returning NaT.
+Warning: Unable to parse time '4) Stemphelet, Genaro 13'. Returning NaT.
+Warning: Unable to parse time '2:58,72 6'. Returning NaT.
+Warning: Unable to parse time '4) Torres, Luciano 13'. Returning NaT.
+Warning: Unable to parse time '4) Filipini, Miguel 13'. Returning NaT.
+
+Skipping analysis for Evento 69  Niños 12-13 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 69  Niños 12-13 4x50 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time '4) Brun, Elias 12'. Returning NaT.
+Warning: Unable to parse time '4) Beron, Joaquin 12'. Returning NaT.
+Warning: Unable to parse time '4) Paez, Tomas 12'. Returning NaT.
+Warning: Unable to parse time '4) Rodriguez, Joaquin 12'. Returning NaT.
+Warning: Unable to parse time '4) Stemphelet, Genaro 13'. Returning NaT.
+Warning: Unable to parse time '4) Torres, Luciano 13'. Returning NaT.
+
+Analyzing Evento 69  Niños 13 Años de Edad 4x50 CC Metro Combinado Relevo,,,,
+Number of participants: 6
+Average time: 0 days 00:02:48.500000
+Fastest time: 0 days 00:02:34.320000
+Slowest time: 0 days 00:02:58.720000
+Skipping line 15: expected 5 fields, saw 6
+Skipping line 16: expected 5 fields, saw 6
+Skipping line 17: expected 5 fields, saw 6
+Skipping line 18: expected 5 fields, saw 6
+Skipping line 19: expected 5 fields, saw 6
+Skipping line 20: expected 5 fields, saw 6
+Skipping line 21: expected 5 fields, saw 6
+Skipping line 22: expected 5 fields, saw 6
+Skipping line 23: expected 5 fields, saw 6
+Skipping line 24: expected 5 fields, saw 6
+Skipping line 25: expected 5 fields, saw 6
+Skipping line 26: expected 5 fields, saw 6
+Skipping line 27: expected 5 fields, saw 6
+Skipping line 28: expected 5 fields, saw 6
+Skipping line 29: expected 5 fields, saw 6
+Skipping line 30: expected 5 fields, saw 6
+
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 72  Mujeres 19 & Mayores 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 12
+Average time: 0 days 00:01:32.789166666
+Fastest time: 0 days 00:01:25.930000
+Slowest time: 0 days 00:01:39.160000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 73  Hombres 19 & Mayores 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 31
+Average time: 0 days 00:01:38.457419354
+Fastest time: 0 days 00:01:08.069999999
+Slowest time: 0 days 00:02:37.170000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 75  Hombres 10 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 12
+Average time: 0 days 00:01:55.102500
+Fastest time: 0 days 00:01:41
+Slowest time: 0 days 00:02:35.230000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 76  Mujeres 11 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 9
+Average time: 0 days 00:01:48.127777777
+Fastest time: 0 days 00:01:30.810000
+Slowest time: 0 days 00:02:14.009999999
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 77  Hombres 11 Años de Edad 100 CC Metro CI,,,,,
+Number of participants: 45
+Average time: 0 days 00:01:18.243333333
+Fastest time: 0 days 00:00:37.820000
+Slowest time: 0 days 00:01:59.270000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 80  Niñas 12-13 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 24
+Average time: 0 days 00:00:44.898750
+Fastest time: 0 days 00:00:37.820000
+Slowest time: 0 days 00:00:53.360000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 80  Niñas 13 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 11
+Average time: 0 days 00:00:44.606363636
+Fastest time: 0 days 00:00:39.160000
+Slowest time: 0 days 00:00:47.530000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 81  Niños 12 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 16
+Average time: 0 days 00:00:46.493750
+Fastest time: 0 days 00:00:38.360000
+Slowest time: 0 days 00:00:56.710000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 81  Niños 12-13 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 29
+Average time: 0 days 00:00:46.032068965
+Fastest time: 0 days 00:00:34.640000
+Slowest time: 0 days 00:00:56.710000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 81  Niños 13 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Number of participants: 12
+Average time: 0 days 00:00:46.365833333
+Fastest time: 0 days 00:00:35.890000
+Slowest time: 0 days 00:00:55.380000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Tiempo de Finales Puntos'. Returning NaT.
+Warning: Unable to parse time '4:57,73 18'. Returning NaT.
+Warning: Unable to parse time '3) Borsani, Bianca 15 4) Ashby, Julieta 14'. Returning NaT.
+Warning: Unable to parse time '4:59,12 14'. Returning NaT.
+Warning: Unable to parse time '3) Gomensoro, Malena 15 4) Ruggiero, Giuliana 15'. Returning NaT.
+Warning: Unable to parse time '4:59,20 12'. Returning NaT.
+Warning: Unable to parse time '3) Rodriguez, Maria Pia 15 4) Bertinat, Fiorella 14'. Returning NaT.
+Warning: Unable to parse time '5:06,30 10'. Returning NaT.
+Warning: Unable to parse time '3) Espindola, Aldana 15 4) Vazquez, Pierina 14'. Returning NaT.
+Warning: Unable to parse time '5:58,60 8'. Returning NaT.
+Warning: Unable to parse time '3) Negrin, Martina 14 4) Hernandez, Mia 14'. Returning NaT.
+
+Skipping analysis for Evento 82  Mujeres 14-15 4x100 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+
+Skipping plotting for Evento 82  Mujeres 14-15 4x100 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+Warning: Unable to parse time 'Tiempo de Finales Puntos'. Returning NaT.
+Warning: Unable to parse time '4:19,65 18'. Returning NaT.
+Warning: Unable to parse time '3) Voelker, Felipe 15 4) Coll, Sebastian 15'. Returning NaT.
+Warning: Unable to parse time '4:26,28 14'. Returning NaT.
+Warning: Unable to parse time '3) Rodriguez, Juan Segundo 15 4) Paez, Juan Pedro 15'. Returning NaT.
+Warning: Unable to parse time '4:30,70 12'. Returning NaT.
+Warning: Unable to parse time '3) Biardo, Benjamin 15 4) Martinez, Ignacio 14'. Returning NaT.
+Warning: Unable to parse time '4:57,01 10'. Returning NaT.
+Warning: Unable to parse time '5:30,72 8'. Returning NaT.
+Warning: Unable to parse time '5:33,01 6'. Returning NaT.
+
+Skipping analysis for Evento 83  Hombres 14-15 4x100 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+
+Skipping plotting for Evento 83  Hombres 14-15 4x100 CC Metro Estilo Libre Relevo,,, due to parsing issues.
+
+Analyzing Evento 86  Mujeres 14-15 100 CC Metro Estilo Libre,,,,
+Number of participants: 19
+Average time: 0 days 00:01:19.546842105
+Fastest time: 0 days 00:01:07.709999999
+Slowest time: 0 days 00:01:45.100000
+Skipping line 12: expected 4 fields, saw 5
+Skipping line 13: expected 4 fields, saw 5
+Skipping line 14: expected 4 fields, saw 5
+Skipping line 15: expected 4 fields, saw 5
+Skipping line 16: expected 4 fields, saw 5
+Skipping line 17: expected 4 fields, saw 5
+Skipping line 18: expected 4 fields, saw 5
+Skipping line 19: expected 4 fields, saw 5
+Skipping line 20: expected 4 fields, saw 5
+Skipping line 21: expected 4 fields, saw 5
+Skipping line 22: expected 4 fields, saw 5
+Skipping line 23: expected 4 fields, saw 5
+Skipping line 24: expected 4 fields, saw 5
+Skipping line 25: expected 4 fields, saw 5
+Skipping line 26: expected 4 fields, saw 5
+Skipping line 27: expected 4 fields, saw 5
+Skipping line 28: expected 4 fields, saw 5
+Skipping line 29: expected 4 fields, saw 5
+Skipping line 30: expected 4 fields, saw 5
+Skipping line 31: expected 4 fields, saw 5
+Skipping line 32: expected 4 fields, saw 5
+Skipping line 33: expected 4 fields, saw 5
+
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Skipping line 18: expected 5 fields, saw 6
+Skipping line 19: expected 5 fields, saw 6
+Skipping line 20: expected 5 fields, saw 6
+Skipping line 21: expected 5 fields, saw 6
+Skipping line 22: expected 5 fields, saw 6
+
+
+Analyzing Evento 87  Hombres 14-15 100 CC Metro Estilo Libre,,,,
+Number of participants: 16
+Average time: 0 days 00:01:07.938124999
+Fastest time: 0 days 00:00:59.480000
+Slowest time: 0 days 00:01:16.790000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 88  Mujeres 16-18 200 CC Metro CI,,,,,
+Number of participants: 12
+Average time: 0 days 00:03:11.020000
+Fastest time: 0 days 00:02:53.490000
+Slowest time: 0 days 00:03:42.920000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 89  Hombres 16-18 200 CC Metro CI,,,,,
+Number of participants: 12
+Average time: 0 days 00:02:49.582500
+Fastest time: 0 days 00:02:30.290000
+Slowest time: 0 days 00:03:07.650000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 90  Mujeres 10 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 27
+Average time: 0 days 00:00:25.111481481
+Fastest time: 0 days 00:00:19.650000
+Slowest time: 0 days 00:00:34.730000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 92  Mujeres 11 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 12
+Average time: 0 days 00:00:22.480000
+Fastest time: 0 days 00:00:17.650000
+Slowest time: 0 days 00:00:32.780000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 93  Hombres 11 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Number of participants: 15
+Average time: 0 days 00:00:22.191333333
+Fastest time: 0 days 00:00:17.980000
+Slowest time: 0 days 00:00:29.350000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 94  Mujeres 19 & Mayores 100 CC Metro Estilo de Espalda,,,,,
+Number of participants: 64
+Average time: 0 days 00:01:23.244062499
+Fastest time: 0 days 00:01:03.330000
+Slowest time: 0 days 00:01:58.260000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 96  Niñas 13 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Number of participants: 12
+Average time: 0 days 00:01:27.921666666
+Fastest time: 0 days 00:01:17.650000
+Slowest time: 0 days 00:01:58.260000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 97  Niños 12 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Number of participants: 18
+Average time: 0 days 00:01:30.037777777
+Fastest time: 0 days 00:01:09.390000
+Slowest time: 0 days 00:01:58.470000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 97  Niños 12-13 100 CC Metro Estilo Libre,,,,,
+Number of participants: 33
+Average time: 0 days 00:01:26.541818181
+Fastest time: 0 days 00:01:06.530000
+Slowest time: 0 days 00:01:58.470000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 97  Niños 13 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Number of participants: 15
+Average time: 0 days 00:01:22.346666666
+Fastest time: 0 days 00:01:06.530000
+Slowest time: 0 days 00:01:33.540000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+Analyzing Evento 98  Mujeres 14-15 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 17
+Average time: 0 days 00:01:43.762352941
+Fastest time: 0 days 00:01:24.840000
+Slowest time: 0 days 00:02:07.610000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time '2:13,50 18'. Returning NaT.
+Warning: Unable to parse time '4) Vidiella, Federica W17'. Returning NaT.
+Warning: Unable to parse time '2:15,13 14'. Returning NaT.
+Warning: Unable to parse time '4) Demaria, Aaron M17'. Returning NaT.
+Warning: Unable to parse time '2:17,22 12'. Returning NaT.
+Warning: Unable to parse time '4) Keiran, Pia W18'. Returning NaT.
+Warning: Unable to parse time '2:21,67 10'. Returning NaT.
+Warning: Unable to parse time '4) Flores, Chiara W17'. Returning NaT.
+Warning: Unable to parse time '2:32,09 8'. Returning NaT.
+Warning: Unable to parse time '4) Centurion, Matilde W18'. Returning NaT.
+Warning: Unable to parse time '4) Silveira, Valentin M17'. Returning NaT.
+
+Analyzing Evento 99  Hombres 14-15 100 CC Metro Estilo de Pecho,,,,,
+Number of participants: 15
+Average time: 0 days 00:01:35.667333333
+Fastest time: 0 days 00:01:22.440000
+Slowest time: 0 days 00:01:48.090000
+
+WARNING:matplotlib.legend:No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time 'X1:22,64'. Returning NaT.
+Warning: Unable to parse time '4) Urrutia, Francesca 10'. Returning NaT.
+Warning: Unable to parse time 'X1:31,13'. Returning NaT.
+Warning: Unable to parse time '4) Chiesa, Franchesca 10'. Returning NaT.
+Warning: Unable to parse time 'X1:50,66'. Returning NaT.
+Warning: Unable to parse time '4) Damasco, Bianca 10'. Returning NaT.
+
+Skipping analysis for Evento 101  Niñas 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 101  Niñas 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '1:19,57 18'. Returning NaT.
+Warning: Unable to parse time '4) Hernandez, Juliana 11'. Returning NaT.
+Warning: Unable to parse time '1:26,24 14'. Returning NaT.
+Warning: Unable to parse time '4) Lopez, Bianca 11'. Returning NaT.
+Warning: Unable to parse time '1:33,15 12'. Returning NaT.
+Warning: Unable to parse time '4) Sonneveld, Sofía 11'. Returning NaT.
+Warning: Unable to parse time '4) Dias, Francesca 11'. Returning NaT.
+
+Skipping analysis for Evento 101  Niñas 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 101  Niñas 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time 'X1:24,52'. Returning NaT.
+Warning: Unable to parse time '4) Imken, Vicente 10'. Returning NaT.
+Warning: Unable to parse time 'X1:27,55'. Returning NaT.
+Warning: Unable to parse time '4) Storace, Juan 10'. Returning NaT.
+Warning: Unable to parse time 'X1:41,79'. Returning NaT.
+Warning: Unable to parse time '4) Dati, Benicio 10'. Returning NaT.
+
+Skipping analysis for Evento 102  Niños 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 102  Niños 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+Warning: Unable to parse time 'Puntos'. Returning NaT.
+Warning: Unable to parse time '1:21,70 18'. Returning NaT.
+Warning: Unable to parse time '4) Rodriguez, Thiago 11'. Returning NaT.
+Warning: Unable to parse time '1:21,71 14'. Returning NaT.
+Warning: Unable to parse time '4) Schmidt, Bruce 11'. Returning NaT.
+Warning: Unable to parse time '1:26,92 12'. Returning NaT.
+Warning: Unable to parse time '4) Vendito, Ignacio 11'. Returning NaT.
+Warning: Unable to parse time '1:34,25 10'. Returning NaT.
+Warning: Unable to parse time '4) Castelli, Camilo 11'. Returning NaT.
+Warning: Unable to parse time 'X1:31,70'. Returning NaT.
+
+Skipping analysis for Evento 102  Niños 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
+
+Skipping plotting for Evento 102  Niños 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,, due to parsing issues.
