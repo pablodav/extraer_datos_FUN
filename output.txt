@@ -1,0 +1,2309 @@
+"1 Gallino, Camila",17,Piscinas Barriales DE Salto,Unnamed: 0,"2:27,63",9
+"2 Font, Valentina",16,Club Nacional Nueva Helvecia,,"2:35,49",7
+"3 Keiran, Pia",18,Centro Sportivo Laureles,,"2:36,06",6
+"4 Estol, Lucia",16,Carrasco Lawn Tennis Club,,"2:37,81",5
+"5 Delfino, Florencia",18,Centro Sportivo Laureles,,"2:42,32",4
+"6 Flores, Chiara",17,Club Social y Deportivo Delfin,,"2:43,02",3
+"7 Barrientos, Catalina",18,Club Social y Deportivo Delfin,,"2:43,90",2
+"8 Zecca, Natalia",16,Club Social y Deportivo Delfin,,"x2:44,90",
+"9 Sonderegger, Saskia",17,Club Nacional Nueva Helvecia,,"2:46,14",1
+"10 Silvera, Valentina",18,Club Nacional Nueva Helvecia,,"x2:48,31",
+"11 Keiran, Julieta",17,Centro Sportivo Laureles,,"x2:48,33",
+"12 De Los Santos, Delfina",17,Piscinas Barriales DE Salto,,"3:15,34",
+"13 Derregibus, Celeste",16,Piscinas Barriales DE Salto,,"x3:27,56",
+,,,,,
+Evento 2  Hombres 16-18 200 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Puyol, Caio",18,Club Social y Deportivo Delfin,,"2:12,77",9
+"2 Cuadra, Sebastian",18,Carrasco Lawn Tennis Club,,"2:13,97",7
+"3 Vittori, Giuliano",16,Club Social y Deportivo Delfin,,"2:17,29",6
+"4 Quincke, Bautista",18,Centro Sportivo Laureles,,"2:17,53",5
+"5 Rostan, Matias",18,Club Social y Deportivo Delfin,,"x2:22,54",
+"6 Morales, Tomas",16,Club Atletico Esparta,,"2:26,14",4
+"7 Cavalheiro, Federico",17,Piscinas Barriales DE Salto,,"2:28,14",3
+"8 Grassi, Valentin",16,Carrasco Lawn Tennis Club,,"2:30,11",2
+"9 Demaria, Aaron",17,Club Nacional Nueva Helvecia,,"2:38,85",1
+"10 Soto, Maximo",16,Piscinas Barriales DE Salto,,"2:39,55",
+"11 Hartwich, Ian",16,Nadadores DE Young,,"2:45,59",
+"12 Martinez, Alan",18,Club Atletico Esparta,,"2:49,01",
+"13 Silveira, Valentin",17,Piscinas Barriales DE Salto,,"x2:55,16",
+"14 Rodríguez, Juan Pablo",17,Club Nacional Nueva Helvecia,,"2:57,73",
+"15 Alvarez, Bruno",16,Club Atletico Esparta,,"x3:00,58",
+,,,,,
+Evento 3  Niñas 12 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"44,66",
+"2 Sagari, Belen",12,Centro Sportivo Laureles,,"48,29",
+"3 Bianchini, Anabela",12,Nadadores DE Young,,"48,36",
+"4 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"x48,57",
+"5 Flores, Luana",12,Club Social y Deportivo Delfin,,"x49,34",
+"6 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"x49,71",
+"7 Martens, Solange",12,Club Nacional Nueva Helvecia,,"50,62",
+"8 Colafrancheschi, Emilia",12,Centro Sportivo Laureles,,"50,64",
+"9 Zapata, Martina",12,Club Social y Deportivo Delfin,,"x51,85",
+"10 Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,"x52,28",
+"11 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x52,67",
+"12 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x52,74",
+"13 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"x53,85",
+"14 Caballero, Lara",12,Nadadores DE Young,,"x55,37",
+"15 Scorupsky, Maite",12,Nadadores DE Young,,"x56,97",
+"16 Gonzalez, Josefina",12,Club Atletico Esparta,,"59,29",
+
+"1 Stemphet, Nahiara",13,Club Atletico Esparta,Unnamed: 0,"42,77",9
+"2 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"44,66",7.0
+"3 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"45,78",6.0
+"4 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"46,09",5.0
+"5 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x46,46",
+"6 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x46,73",
+"7 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"46,81",4.0
+"8 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"48,04",3.0
+"9 Sagari, Belen",12,Centro Sportivo Laureles,,"48,29",2.0
+"10 Bianchini, Anabela",12,Nadadores DE Young,,"48,36",1.0
+"11 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"x48,57",
+"12 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x48,79",
+"13 Flores, Luana",12,Club Social y Deportivo Delfin,,"x49,34",
+"14 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"x49,71",
+"15 Medina, Angela",13,Nadadores DE Young,,"50,12",
+"16 Suarez, Emilia",13,Nadadores DE Young,,"x50,41",
+"17 Martens, Solange",12,Club Nacional Nueva Helvecia,,"50,62",
+"18 Colafrancheschi, Emilia",12,Centro Sportivo Laureles,,"50,64",
+"*19 Zapata, Martina",12,Club Social y Deportivo Delfin,,"x51,85",
+"*19 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"x51,85",
+"21 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x52,11",
+"22 Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,"x52,28",
+"23 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x52,67",
+"24 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x52,74",
+"25 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"x53,85",
+"26 Caballero, Lara",12,Nadadores DE Young,,"x55,37",
+"27 Scorupsky, Maite",12,Nadadores DE Young,,"x56,97",
+"28 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"58,17",
+"29 Gonzalez, Josefina",12,Club Atletico Esparta,,"59,29",
+"--- Timote, Priscila",13,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 3  Niñas 13 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Stemphet, Nahiara",13,Club Atletico Esparta,,"42,77",
+"2 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"45,78",
+"3 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"46,09",
+"4 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x46,46",
+"5 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x46,73",
+"6 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"46,81",
+"7 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"48,04",
+"8 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x48,79",
+"9 Medina, Angela",13,Nadadores DE Young,,"50,12",
+"10 Suarez, Emilia",13,Nadadores DE Young,,"x50,41",
+"11 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"x51,85",
+"12 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x52,11",
+"13 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"58,17",
+"--- Timote, Priscila",13,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 4  Niños 12 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"42,90",
+
+"2 Fuentes, Geronimo",12,Club Atletico Esparta,Unnamed: 0,"45,37",Unnamed: 1
+"3 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,,"49,54",
+"4 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"49,73",
+"5 Espinosa, Ian",12,Club Atletico Esparta,,"50,38",
+"6 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"x50,45",
+"7 Abbate, Bautista",12,Club Social y Deportivo Delfin,,"50,87",
+"8 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x51,95",
+"9 Amarillo, Felipe",12,Club Social y Deportivo Delfin,,"x52,11",
+"10 Leguizamon, Axel",12,Club Social y Deportivo Delfin,,"x52,24",
+"11 Crevoisier, Bruno",12,Nadadores DE Young,,"x52,44",
+"12 Daruech, Stefano",12,Club Atletico Esparta,,"x53,09",
+"13 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x53,31",
+"14 Hernandez, Andres",12,Club Nacional Nueva Helvecia,,"x53,74",
+"15 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"54,69",
+"16 Heredia, Patic",12,Piscinas Barriales DE Salto,,"x57,01",
+"17 Brun, Elias",12,Centro Sportivo Laureles,,"x57,05",
+"18 Pereira, Anthony",12,Centro Sportivo Laureles,,"x1:01,28",
+"19 Wornicov, Bruno",12,Nadadores DE Young,,"x1:04,30",
+"--- Centena, Sebastian",12,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 4  Niños 12-13 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"42,12",9
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"42,13",7
+"3 Centurion, Maximo",12,Nadadores DE Young,,"42,90",6
+"4 Fuentes, Geronimo",12,Club Atletico Esparta,,"45,37",5
+"5 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"45,60",4
+"6 Ferres, Justino",13,Club Social y Deportivo Delfin,,"46,70",3
+"7 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"48,93",2
+"8 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,,"49,54",1
+"9 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"49,73",
+"10 Espinosa, Ian",12,Club Atletico Esparta,,"50,38",
+"11 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"x50,45",
+"12 Abbate, Bautista",12,Club Social y Deportivo Delfin,,"50,87",
+"13 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x51,95",
+"14 Amarillo, Felipe",12,Club Social y Deportivo Delfin,,"x52,11",
+"15 Leguizamon, Axel",12,Club Social y Deportivo Delfin,,"x52,24",
+"16 Stemphelet, Genaro",13,Nadadores DE Young,,"52,36",
+"17 Crevoisier, Bruno",12,Nadadores DE Young,,"x52,44",
+"18 Yohnatan, Casals",13,Club Atletico Esparta,,"x52,87",
+"19 Daruech, Stefano",12,Club Atletico Esparta,,"x53,09",
+"20 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x53,31",
+"21 Machado, Alan",13,Nadadores DE Young,,"x53,50",
+"22 Stemphelet, Bruno",13,Nadadores DE Young,,"x53,59",
+"23 Hernandez, Andres",12,Club Nacional Nueva Helvecia,,"x53,74",
+"24 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"54,69",
+"25 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x54,97",
+"26 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"56,61",
+"27 Heredia, Patic",12,Piscinas Barriales DE Salto,,"x57,01",
+"28 Brun, Elias",12,Centro Sportivo Laureles,,"x57,05",
+"29 Morales, Gael",13,Club Atletico Esparta,,"x57,23",
+"30 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x57,51",
+
+"31 Castillo, Mauricio",13,Club Social y Deportivo Delfin,Unnamed: 0,"x58,12",Unnamed: 1
+"32 Pereira, Anthony",12,Centro Sportivo Laureles,,"x1:01,28",
+"33 Wornicov, Bruno",12,Nadadores DE Young,,"x1:04,30",
+"--- Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,DQ,
+"--- Centena, Sebastian",12,Centro Sportivo Laureles,,DQ,
+"--- Quiroz, Max",13,Piscinas Barriales DE Salto,,DQ,
+"--- Torres, Luciano",13,Club Atletico Esparta,,DQ,
+"--- Bosco, Agustin",13,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 4  Niños 13 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"42,12",
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"42,13",
+"3 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"45,60",
+"4 Ferres, Justino",13,Club Social y Deportivo Delfin,,"46,70",
+"5 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"48,93",
+"6 Stemphelet, Genaro",13,Nadadores DE Young,,"52,36",
+"7 Yohnatan, Casals",13,Club Atletico Esparta,,"x52,87",
+"8 Machado, Alan",13,Nadadores DE Young,,"x53,50",
+"9 Stemphelet, Bruno",13,Nadadores DE Young,,"x53,59",
+"10 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x54,97",
+"11 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"56,61",
+"12 Morales, Gael",13,Club Atletico Esparta,,"x57,23",
+"13 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x57,51",
+"14 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x58,12",
+"--- Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,DQ,
+"--- Torres, Luciano",13,Club Atletico Esparta,,DQ,
+"--- Bosco, Agustin",13,Centro Sportivo Laureles,,DQ,
+"--- Quiroz, Max",13,Piscinas Barriales DE Salto,,DQ,
+,,,,,
+Evento 5  Mujeres 19 & Mayores 100 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Rovella, María Paz",25,Carrasco Lawn Tennis Club,,"1:17,09",9
+"2 Gonzalez, Lucia",27,Centro Sportivo Laureles,,"1:17,36",7
+"3 Mott, Priscila",27,Club Social y Deportivo Delfin,,"1:17,53",6
+"4 Rossotti, Lucia",21,Club Social y Deportivo Delfin,,"1:18,37",5
+"5 Perucca, Franggina",20,Centro Sportivo Laureles,,"1:19,40",4
+"6 Koster, Valentina",20,Club Social y Deportivo Delfin,,"x1:20,59",
+"7 Cufre, María Lucía",22,Club Nacional Nueva Helvecia,,"1:21,07",3
+"8 Jorcin, Valentina",24,Carrasco Lawn Tennis Club,,"1:25,10",2
+"9 Suarez, Aldana",19,Nadadores DE Young,,"1:26,23",1
+"10 Vila, Isabel",19,Nadadores DE Young,,"1:30,48",
+"11 Lepratti, Manuela",19,Club Nacional Nueva Helvecia,,"1:31,64",
+,,,,,
+Evento 6  Hombres 19 & Mayores 100 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Uria, Juan",32,Carrasco Lawn Tennis Club,,"59,75",9
+"2 Wansart, Erik",26,Carrasco Lawn Tennis Club,,"1:01,18",7
+"3 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"1:02,09",6
+"4 Sosa, Juan Pedro",19,Carrasco Lawn Tennis Club,,"x1:03,51",
+"5 Batiste, Nestor",29,Club Atletico Esparta,,"1:03,53",5
+"6 Font, Emanuel",20,Club Nacional Nueva Helvecia,,"1:05,74",4
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+7,"Quincke, Tomas  21",Centro Sportivo Laureles,,"1:09,70",3
+8,"Fanetti, Ignacio  20",Club Social y Deportivo Delfin,,"1:10,07",2
+9,"Batiste, Fabrizio  23",Club Atletico Esparta,,"1:10,60",1
+10,"Rodriguez, Santiago  22",Club Nacional Nueva Helvecia,,"1:11,10",
+11,"Ferreyra, Franco  24",Club Social y Deportivo Delfin,,"x1:13,20",
+12,"Acosta, Caio  32",Centro Sportivo Laureles,,"1:14,13",
+13,"Pessi, Lucas  19",Centro Sportivo Laureles,,"x1:14,70",
+nto 7  Mujeres 10 Años de Edad 50 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,
+1,"Bianchini, Giulianna  10",Nadadores DE Young,,"38,37",
+2,"Urrutia, Francesca  10",Club Nacional Nueva Helvecia,,"38,42",
+3,"Lemes, Matilda  10",Club Nacional Nueva Helvecia,,"40,05",
+4,"Centurion, Isabella  10",Nadadores DE Young,,"40,51",
+5,"Ameglio, Guadalupe  10",Carrasco Lawn Tennis Club,,"42,27",
+6,"Moreira, Luana  10",Club Social y Deportivo Delfin,,"42,36",
+7,"Baldomir, Mora  10",Carrasco Lawn Tennis Club,,"42,93",
+8,"Cubas, Catalina  10",Carrasco Lawn Tennis Club,,"x43,13",
+9,"Garbarino, Olivia  10",Centro Sportivo Laureles,,"47,30",
+10,"Martens, Fiorella  10",Club Nacional Nueva Helvecia,,"x47,61",
+11,"Bosco, Ana Julia  10",Centro Sportivo Laureles,,"51,01",
+12,"Krusse, Valentina  10",Nadadores DE Young,,"x52,25",
+13,"Castillo, Yuliana  10",Club Social y Deportivo Delfin,,"52,71",
+14,"Damasco, Bianca  10",Club Social y Deportivo Delfin,,"x53,17",
+15,"Mendiondo, Paula  10",Centro Sportivo Laureles,,"x1:01,87",
+16,"Malan, Clara  10",Club Atletico Esparta,,"1:10,25",
+nto 8  Hombres 10 Años de Edad 50 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,
+1,"Sonderegger, Thiago  10",Club Atletico Esparta,,"36,87",
+2,"Barrett, Joaquin  10",Club Social y Deportivo Delfin,,"37,42",
+3,"Picart, Emiliano  10",Club Social y Deportivo Delfin,,"38,68",
+4,"Sobrino, Lorenzo  10",Club Social y Deportivo Delfin,,"x39,00",
+5,"Kaplan, Lucas  10",Carrasco Lawn Tennis Club,,"40,14",
+6,"Sagari, Mateo  10",Centro Sportivo Laureles,,"40,71",
+7,"Masalles, Jacinto  10",Centro Sportivo Laureles,,"41,05",
+8,"Daghero, Genaro  10",Club Nacional Nueva Helvecia,,"41,18",
+9,"Vera Fostel, Santiago  10",Club Nacional Nueva Helvecia,,"44,88",
+10,"Pintos, Ignacio  10",Nadadores DE Young,,"45,55",
+11,"Frick, Cipriano  10",Carrasco Lawn Tennis Club,,"45,87",
+12,"Storace, Juan  10",Carrasco Lawn Tennis Club,,"x46,97",
+13,"Ferrer, Francisco  10",Centro Sportivo Laureles,,"x50,99",
+14,"Solari, Benjamin  10",Nadadores DE Young,,"56,93",
+15,"Madera, Santino  10",Club Nacional Nueva Helvecia,,"x1:00,11",
+nto 9  Mujeres 11 Años de Edad 50 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Frascheri, Lara  11",Centro Sportivo Laureles,,"33,89",9
+2,"Viera, Nataly  11",Club Nacional Nueva Helvecia,,"36,37",7
+3,"De Giovi, Sabrina  11",Centro Sportivo Laureles,,"36,96",6
+4,"Pacaluk, Josefina  11",Club Social y Deportivo Delfin,,"38,55",5
+5,"Trigo, Julia  11",Club Social y Deportivo Delfin,,"39,42",4
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+6,"Pacaluk, Camila  11",Club Social y Deportivo Delfin,,"x41,00",
+7,"Sonneveld, Sofía  11",Carrasco Lawn Tennis Club,,"41,28",3
+8,"Fleurquin, María  11",Carrasco Lawn Tennis Club,,"41,30",2
+9,"Shaw, Justina  11",Club Nacional Nueva Helvecia,,"42,00",1
+10,"Britos, Macarena  11",Piscinas Barriales DE Salto,,"43,43",
+11,"Young, Sara  11",Carrasco Lawn Tennis Club,,"x45,15",
+12,"Hoffman, Lara  11",Club Atletico Esparta,,"49,39",
+13,"Dias, Francesca  11",Centro Sportivo Laureles,,"x50,02",
+14,"Llovinsky, Juliana  11",Piscinas Barriales DE Salto,,"54,62",
+15,"Ciliuti, Eugenia  11",Club Atletico Esparta,,"1:01,44",
+,,,,,
+Evento 10  Hombres 11 Años de Edad 50 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Bertinat, Guillermo  11",Club Nacional Nueva Helvecia,,"34,92",9
+2,"Cairus, Valentino  11",Club Social y Deportivo Delfin,,"35,52",7
+3,"Schmidt, Bruce  11",Club Nacional Nueva Helvecia,,"38,06",6
+4,"Cruz, Diego  11",Club Social y Deportivo Delfin,,"38,11",5
+5,"Martinelli, Piero  11",Club Nacional Nueva Helvecia,,"x38,57",
+6,"Nunez, Tomas  11",Club Social y Deportivo Delfin,,"x39,14",
+7,"Faber, Francisco  11",Centro Sportivo Laureles,,"39,54",4
+8,"Hernandez, Juan Pedro  11",Club Atletico Esparta,,"40,23",3
+9,"Kobar, Benjamin  11",Piscinas Barriales DE Salto,,"40,47",2
+10,"Licio, Faustino  11",Carrasco Lawn Tennis Club,,"40,54",1
+11,"Terra, Francisco  11",Carrasco Lawn Tennis Club,,"40,98",
+12,"Canuti, Agustin  11",Carrasco Lawn Tennis Club,,"x41,35",
+13,"Gardiol, Juan  11",Club Atletico Esparta,,"41,80",
+14,"Alvarez, Federico  11",Centro Sportivo Laureles,,"43,50",
+15,"Castelli, Camilo  11",Centro Sportivo Laureles,,"x43,90",
+16,"Domini, Facundo  11",Club Atletico Esparta,,"x46,39",
+,,,,,
+Evento 11  Mujeres 14-15 100 CC Metro Estilo de Espalda,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Gonzalez, Sol  15",Centro Sportivo Laureles,,"1:19,58",9
+2,"Ruggiero, Giuliana  15",Carrasco Lawn Tennis Club,,"1:21,89",7
+3,"Bertinat, Fiorella  14",Club Nacional Nueva Helvecia,,"1:22,13",6
+4,"Ashby, Julieta  14",Centro Sportivo Laureles,,"1:22,67",5
+5,"Espindola, Aldana  15",Club Social y Deportivo Delfin,,"1:26,46",4
+6,"Mannise, Catalina  14",Nadadores DE Young,,"1:26,85",3
+7,"Salaberry, Ma. Pia  15",Club Nacional Nueva Helvecia,,"1:27,68",2
+8,"Gomensoro, Malena  15",Carrasco Lawn Tennis Club,,"1:28,72",1
+9,"Buscio, Emilia  14",Club Social y Deportivo Delfin,,"1:29,33",
+10,"Ferreira, Martina  15",Centro Sportivo Laureles,,"x1:29,89",
+11,"Amarillo, Lara  15",Club Social y Deportivo Delfin,,"x1:31,32",
+12,"Rodriguez, Luana  14",Club Atletico Esparta,,"1:34,36",
+13,"Garcia, Emilia  14",Club Nacional Nueva Helvecia,,"x1:34,37",
+14,"Sosa, Candela  14",Piscinas Barriales DE Salto,,"1:40,88",
+15,"Boutmy, Mercedes  14",Carrasco Lawn Tennis Club,,"x1:41,58",
+,,,,,
+Evento 12  Hombres 14-15 100 CC Metro Estilo de Espalda,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+
+"3 Martinez, Ignacio",14,Club Social y Deportivo Delfin,"1:17,29 6"
+"4 Biardo, Benjamin",15,Club Social y Deportivo Delfin,"1:17,44 5"
+"5 Sonderegger, Paulino",15,Club Nacional Nueva Helvecia,"1:18,18 4"
+"6 Sposito, Valentino",15,Carrasco Lawn Tennis Club,"1:20,38 3"
+"7 Dati, Genaro",15,Centro Sportivo Laureles,"1:20,95 2"
+"8 Irigoyen, Tomas",14,Club Nacional Nueva Helvecia,"1:22,98 1"
+"9 Rodriguez, Juan Segundo",15,Carrasco Lawn Tennis Club,"x1:23,14"
+"10 Lepratti, Benjamin",14,Club Nacional Nueva Helvecia,"x1:23,69"
+"11 Soto, Tiziano",14,Piscinas Barriales DE Salto,"1:24,94"
+"12 Vittori, Gino",15,Club Social y Deportivo Delfin,"x1:25,04"
+"13 Medina, Tomas",14,Nadadores DE Young,"1:33,05"
+"14 García, Santiago",15,Club Atletico Esparta,"1:34,86"
+"15 Laborda, Benjamin",14,Nadadores DE Young,"1:42,99"
+"--- Gandulfo, Mateo",15,Centro Sportivo Laureles,DQ
+,,,
+Evento 13  Mixto 16-18 4x50 CC Metro Estilo Libre Relevo,,,
+Equipo,,Relevo,Tiempo de Finales Puntos
+1 Carrasco Lawn Tennis Club,,A,"1:56,08 18"
+"1) Cuadra, Sebastian M18","2) Grassi, Valentin M16",,"3) Estol, Lucia W16 4) Vidiella, Federica W17"
+2 Club Social y Deportivo Delfin,,A,"1:57,30 14"
+"1) Cairus, Facundo M17","2) Flores, Chiara W17",,"3) Zecca, Natalia W16 4) Puyol, Caio M18"
+3 Club Nacional Nueva Helvecia,,A,"1:59,31 12"
+"1) Silvera, Emiliano M17","2) Demaria, Aaron M17",,"3) Velazquez, Federica W18 4) Sonderegger, Saskia W17"
+4 Centro Sportivo Laureles,,A,"2:00,73 10"
+"1) Keiran, Pia W18","2) Bordoli, Felipe M18",,"3) Keiran, Julieta W17 4) Quincke, Bautista M18"
+5 Piscinas Barriales DE Salto,,A,"2:06,26 8"
+"1) Soto, Maximo M16","2) De Los Santos, Delfina W17",,"3) Gallino, Camila W17 4) Cavalheiro, Federico M17"
+6 Club Atletico Esparta,,A,"2:12,51 6"
+"1) Stemphet, Iann Paul M17","2) Bizoza, Maia W17",,"3) Centurion, Matilde W18 4) Garcia, Rodrigo M17"
+,,,
+Evento 14  Mixto 12-13 4x50 CC Metro Combinado Relevo,,,
+Equipo,,Relevo,Tiempo de Finales Puntos
+1 Centro Sportivo Laureles,,A,"2:32,58 18"
+"1) Lagos, Mateo M13","2) Sagari, Belen W12",,"3) Timote, Priscila W13 4) Menini, Benjamin M13"
+2 Club Social y Deportivo Delfin,,A,"2:35,47 14"
+"1) Flores, Luana W12","2) Demasi, Giulia W13",,"3) Ferres, Justino M13 4) Beron, Joaquin M12"
+3 Carrasco Lawn Tennis Club,,A,"2:35,50 12"
+"1) Yaquinta, Guadalupe W12","2) Canuti, Tomas M13",,"3) Novak, Elena W13 4) Grassi, Jeronimo M13"
+4 Nadadores DE Young,,A,"2:39,89 10"
+"1) Suarez, Emilia W13","2) Medina, Angela W13",,"3) Centurion, Maximo M12 4) García, Joaquín M13"
+5 Club Atletico Esparta,,A,"2:59,19 8"
+"1) Soba, Agustin M12","2) Stemphet, Nahiara W13",,"3) Sonderegger, Ian M12 4) Gonzalez, Josefina W12"
+--- Club Nacional Nueva Helvecia,,A,DQ
+
+"1 Font, Valentina",16,Club Nacional Nueva Helvecia,Unnamed: 0,"1:18,35",9
+"2 Estol, Lucia",16,Carrasco Lawn Tennis Club,,"1:19,17",7
+"3 Sonderegger, Saskia",17,Club Nacional Nueva Helvecia,,"1:20,30",6
+"4 Keiran, Pia",18,Centro Sportivo Laureles,,"1:22,64",5
+"5 Vidiella, Federica",17,Carrasco Lawn Tennis Club,,"1:22,85",4
+"6 Velazquez, Federica",18,Club Nacional Nueva Helvecia,,"x1:23,26",
+"7 Keiran, Julieta",17,Centro Sportivo Laureles,,"1:24,98",3
+"8 Flores, Chiara",17,Club Social y Deportivo Delfin,,"1:26,61",2
+"9 Vidiella, Felicia",17,Carrasco Lawn Tennis Club,,"x1:26,77",
+"10 Zecca, Natalia",16,Club Social y Deportivo Delfin,,"1:27,79",1
+"11 Sonderegger, Anika",17,Club Atletico Esparta,,"1:32,06",
+"12 Delfante, Ana",18,Centro Sportivo Laureles,,"x1:33,01",
+"13 Bernardi, Alfonsina",16,Club Atletico Esparta,,"1:41,29",
+,,,,,
+Evento 18  Hombres 16-18 100 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Cuadra, Sebastian",18,Carrasco Lawn Tennis Club,,"1:03,32",9
+"2 Puyol, Caio",18,Club Social y Deportivo Delfin,,"1:11,02",7
+"3 Cavalheiro, Federico",17,Piscinas Barriales DE Salto,,"1:14,49",6
+"4 Quincke, Bautista",18,Centro Sportivo Laureles,,"1:15,25",5
+"5 Rostan, Matias",18,Club Social y Deportivo Delfin,,"1:16,02",4
+"6 Vittori, Giuliano",16,Club Social y Deportivo Delfin,,"x1:18,94",
+"7 Stemphet, Iann Paul",17,Club Atletico Esparta,,"1:21,60",3
+"8 Martinez, Alan",18,Club Atletico Esparta,,"1:21,65",2
+"9 Hartwich, Ian",16,Nadadores DE Young,,"1:24,04",1
+"10 Garcia, Rodrigo",17,Club Atletico Esparta,,"x1:25,07",
+
+1,Carrasco Lawn Tennis Club,A,Unnamed: 0,"4:17,25",18
+,"1) Chiancone, Federico 29","2) Chiancone, Nicolas 31","3) Uria, Juan 32","4) Wansart, Erik 26",
+2.0,Club Nacional Nueva Helvecia,A,,"4:25,24",14.0
+,"1) Rodriguez, Santiago 22","2) Iglesias, Darwin 30","3) Font, Emanuel 20","4) Urtazu, Agustín 25",
+3.0,Club Social y Deportivo Delfin,A,,"4:28,50",12.0
+,"1) Rostan, Gaston 29","2) Fanetti, Ignacio 20","3) Ferreira, Francisco 21","4) Puyol, Caio 18",
+4.0,Club Atletico Esparta,A,,"4:43,35",10.0
+,"1) Bizoza, Joaquin 25","2) Batiste, Fabrizio 23","3) Batiste, Nestor 29","4) Morales, Tomas 16",
+5.0,Centro Sportivo Laureles,A,,"4:48,44",8.0
+,"1) Quincke, Bautista 18","2) Acosta, Caio 32","3) Quincke, Tomas 21","4) Pessi, Lucas 19",
+6.0,Nadadores DE Young,A,,"4:51,42",6.0
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+3,"Gonzalez, Sol  15",Centro Sportivo Laureles,,"1:21,23",6
+4,"Bertinat, Fiorella  14",Club Nacional Nueva Helvecia,,"1:28,69",5
+5,"Gomensoro, Malena  15",Carrasco Lawn Tennis Club,,"1:33,12",4
+6,"Buscio, Emilia  14",Club Social y Deportivo Delfin,,"1:33,23",3
+7,"Espindola, Aldana  15",Club Social y Deportivo Delfin,,"1:33,37",2
+8,"Martens, Eloisa  14",Club Nacional Nueva Helvecia,,"1:36,48",1
+9,"Salaberry, Ma. Pia  15",Club Nacional Nueva Helvecia,,"x1:36,57",
+10,"Ferreira, Martina  15",Centro Sportivo Laureles,,"x1:37,10",
+11,"Amarillo, Lara  15",Club Social y Deportivo Delfin,,"x1:38,09",
+12,"Rodriguez, Luana  14",Club Atletico Esparta,,"1:46,63",
+nto 20  Hombres 14-15 100 CC Metro Estilo de Mariposa,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Coll, Sebastian  15",Centro Sportivo Laureles,,"1:11,30",9
+2,"Sonderegger, Paulino  15",Club Nacional Nueva Helvecia,,"1:16,17",7
+3,"Paez, Juan Pedro  15",Carrasco Lawn Tennis Club,,"1:16,23",6
+4,"Martinez, Ignacio  14",Club Social y Deportivo Delfin,,"1:18,35",5
+5,"Cubas, Baltasar  14",Carrasco Lawn Tennis Club,,"1:22,97",4
+6,"Leivas, Mauro  15",Club Social y Deportivo Delfin,,"1:25,79",3
+7,"Llovinsky, Juan  15",Piscinas Barriales DE Salto,,"1:26,67",2
+8,"Gandulfo, Mateo  15",Centro Sportivo Laureles,,"1:29,86",1
+9,"Voelker, Felipe  15",Centro Sportivo Laureles,,"x1:33,28",
+10,"Irigoyen, Tomas  14",Club Nacional Nueva Helvecia,,"1:35,15",
+---,"Demasi, Valentino  15",Club Social y Deportivo Delfin,,DQ,
+nto 21  Niñas 12 Años de Edad 100 CC Metro CI,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,
+1,"Flores, Luana  12",Club Social y Deportivo Delfin,,"1:30,64",
+2,"Yaquinta, Guadalupe  12",Carrasco Lawn Tennis Club,,"x1:31,07",
+3,"Dornel, Matilda  12",Club Social y Deportivo Delfin,,"1:31,08",
+4,"Dondo, Federica  12",Carrasco Lawn Tennis Club,,"x1:33,63",
+5,"Sagari, Belen  12",Centro Sportivo Laureles,,"1:33,89",
+6,"DE Souza, Guadalupe  12",Centro Sportivo Laureles,,"1:37,72",
+7,"Bianchini, Anabela  12",Nadadores DE Young,,"1:38,30",
+8,"Gerfauo, Aitana  12",Club Social y Deportivo Delfin,,"x1:41,94",
+9,"Vieito, Luzmila  12",Club Nacional Nueva Helvecia,,"x1:42,09",
+10,"Monterroso, Ines  12",Carrasco Lawn Tennis Club,,"x1:42,30",
+11,"Ingold, Luisina  12",Club Nacional Nueva Helvecia,,"x1:42,64",
+12,"Piriz, Ines  12",Club Nacional Nueva Helvecia,,"x1:46,16",
+13,"Gonzalez, Emilia  12",Nadadores DE Young,,"x1:58,27",
+nto 21  Niñas 12-13 100 CC Metro CI,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Novak, Elena  13",Carrasco Lawn Tennis Club,,"1:29,35",9
+2,"Ithurralde, Josefina  13",Carrasco Lawn Tennis Club,,"1:30,62",7
+3,"Flores, Luana  12",Club Social y Deportivo Delfin,,"1:30,64",6
+4,"Yaquinta, Guadalupe  12",Carrasco Lawn Tennis Club,,"x1:31,07",
+5,"Dornel, Matilda  12",Club Social y Deportivo Delfin,,"1:31,08",5
+6,"Suarez, Emilia  13",Nadadores DE Young,,"1:32,19",4
+7,"Demasi, Giulia  13",Club Social y Deportivo Delfin,,"x1:33,58",
+8,"Dondo, Federica  12",Carrasco Lawn Tennis Club,,"x1:33,63",
+9,"Sagari, Belen  12",Centro Sportivo Laureles,,"1:33,89",3
+
+"10 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,Unnamed: 0,"1:34,77",2
+"11 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x1:35,73",
+"12 Stemphet, Nahiara",13,Club Atletico Esparta,,"1:35,81",1.0
+"13 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"1:37,18",
+"14 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"1:37,72",
+"15 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x1:38,21",
+"16 Bianchini, Anabela",12,Nadadores DE Young,,"1:38,30",
+"17 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x1:39,48",
+"18 Gerfauo, Aitana",12,Club Social y Deportivo Delfin,,"x1:41,94",
+"19 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"x1:42,09",
+"20 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x1:42,26",
+"21 Monterroso, Ines",12,Carrasco Lawn Tennis Club,,"x1:42,30",
+"22 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x1:42,64",
+"23 Timote, Priscila",13,Centro Sportivo Laureles,,"x1:44,74",
+"24 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"x1:46,16",
+"25 Gonzalez, Emilia",12,Nadadores DE Young,,"x1:58,27",
+"26 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"2:03,73",
+,,,,,
+Evento 21  Niñas 13 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Novak, Elena",13,Carrasco Lawn Tennis Club,,"1:29,35",
+"2 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"1:30,62",
+"3 Suarez, Emilia",13,Nadadores DE Young,,"1:32,19",
+"4 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"x1:33,58",
+"5 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"1:34,77",
+"6 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x1:35,73",
+"7 Stemphet, Nahiara",13,Club Atletico Esparta,,"1:35,81",
+"8 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"1:37,18",
+"9 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x1:38,21",
+"10 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x1:39,48",
+"11 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x1:42,26",
+"12 Timote, Priscila",13,Centro Sportivo Laureles,,"x1:44,74",
+"13 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"2:03,73",
+,,,,,
+Evento 22  Niños 12 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"1:22,10",
+"2 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"1:32,81",
+"3 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"1:33,95",
+"4 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x1:34,59",
+"5 Fuentes, Geronimo",12,Club Atletico Esparta,,"1:35,22",
+"6 Terra, Matias",12,Carrasco Lawn Tennis Club,,"1:37,41",
+"7 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"1:38,60",
+"8 Amarillo, Felipe",12,Club Social y Deportivo Delfin,,"x1:38,81",
+"9 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"x1:43,14",
+"10 Centena, Sebastian",12,Centro Sportivo Laureles,,"x1:46,89",
+"11 Soba, Agustin",12,Club Atletico Esparta,,"1:47,74",
+"12 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x1:50,29",
+"13 Brun, Elias",12,Centro Sportivo Laureles,,"x1:50,42",
+"--- Daruech, Stefano",12,Club Atletico Esparta,,DQ,
+"--- Paez, Tomas",12,Carrasco Lawn Tennis Club,,DQ,
+"--- Carballo, Nicolas",12,Piscinas Barriales DE Salto,,DQ,
+
+"--- Pereira, Anthony",12,Centro Sportivo Laureles,Unnamed: 0,DQ,Unnamed: 1
+"--- Heredia, Patic",12,Piscinas Barriales DE Salto,,DQ,
+,,,,,
+Evento 22  Niños 12-13 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Menini, Benjamin",13,Centro Sportivo Laureles,,"1:18,94",9
+"2 Lagos, Mateo",13,Centro Sportivo Laureles,,"1:21,37",7
+"3 Centurion, Maximo",12,Nadadores DE Young,,"1:22,10",6
+"4 Faber, Joaquin",13,Centro Sportivo Laureles,,"x1:27,69",
+"5 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"1:27,96",5
+"6 Ferres, Justino",13,Club Social y Deportivo Delfin,,"1:28,29",4
+"7 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"1:32,81",3
+"8 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"1:33,95",2
+"9 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x1:34,59",
+"10 Fuentes, Geronimo",12,Club Atletico Esparta,,"1:35,22",1
+"11 Terra, Matias",12,Carrasco Lawn Tennis Club,,"1:37,41",
+"12 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"1:38,60",
+"13 Amarillo, Felipe",12,Club Social y Deportivo Delfin,,"x1:38,81",
+"14 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x1:39,52",
+"15 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x1:41,06",
+"16 García, Joaquín",13,Nadadores DE Young,,"1:42,16",
+"17 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"x1:43,14",
+"18 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x1:46,35",
+"19 Centena, Sebastian",12,Centro Sportivo Laureles,,"x1:46,89",
+"20 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x1:46,93",
+"21 Soba, Agustin",12,Club Atletico Esparta,,"1:47,74",
+"22 Stemphelet, Genaro",13,Nadadores DE Young,,"x1:49,83",
+"23 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x1:50,22",
+"24 Machado, Alan",13,Nadadores DE Young,,"x1:50,25",
+"25 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x1:50,29",
+"26 Brun, Elias",12,Centro Sportivo Laureles,,"x1:50,42",
+"27 Yohnatan, Casals",13,Club Atletico Esparta,,"x1:50,73",
+"28 Torres, Luciano",13,Club Atletico Esparta,,"x1:51,14",
+"--- Daruech, Stefano",12,Club Atletico Esparta,,DQ,
+"--- Carballo, Nicolas",12,Piscinas Barriales DE Salto,,DQ,
+"--- Paez, Tomas",12,Carrasco Lawn Tennis Club,,DQ,
+"--- Heredia, Patic",12,Piscinas Barriales DE Salto,,DQ,
+"--- Quiroz, Max",13,Piscinas Barriales DE Salto,,DQ,
+"--- Pereira, Anthony",12,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 22  Niños 13 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Menini, Benjamin",13,Centro Sportivo Laureles,,"1:18,94",
+"2 Lagos, Mateo",13,Centro Sportivo Laureles,,"1:21,37",
+"3 Faber, Joaquin",13,Centro Sportivo Laureles,,"x1:27,69",
+"4 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"1:27,96",
+"5 Ferres, Justino",13,Club Social y Deportivo Delfin,,"1:28,29",
+"6 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x1:39,52",
+"7 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x1:41,06",
+"8 García, Joaquín",13,Nadadores DE Young,,"1:42,16",
+"9 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x1:46,35",
+"10 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x1:46,93",
+
+"11 Stemphelet, Genaro",13,Nadadores DE Young,Unnamed: 0,"x1:49,83",Unnamed: 1
+"12 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x1:50,22",
+"13 Machado, Alan",13,Nadadores DE Young,,"x1:50,25",
+"14 Yohnatan, Casals",13,Club Atletico Esparta,,"x1:50,73",
+"15 Torres, Luciano",13,Club Atletico Esparta,,"x1:51,14",
+"--- Quiroz, Max",13,Piscinas Barriales DE Salto,,DQ,
+,,,,,
+Evento 23  Mujeres 10 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Bianchini, Giulianna",10,Nadadores DE Young,,"49,27",
+"2 Lemes, Matilda",10,Club Nacional Nueva Helvecia,,"49,69",
+"3 Ameglio, Guadalupe",10,Carrasco Lawn Tennis Club,,"51,85",
+"4 Cubas, Catalina",10,Carrasco Lawn Tennis Club,,"53,90",
+"5 Baldomir, Mora",10,Carrasco Lawn Tennis Club,,"x54,58",
+"6 Irigoyen, Ema",10,Club Nacional Nueva Helvecia,,"54,91",
+"7 Krusse, Valentina",10,Nadadores DE Young,,"56,01",
+"8 Centurion, Isabella",10,Nadadores DE Young,,"x56,21",
+"9 Benavides, Emilia",10,Club Social y Deportivo Delfin,,"1:00,20",
+"10 Zapata, Renata",10,Club Social y Deportivo Delfin,,"1:01,01",
+"11 Garbarino, Olivia",10,Centro Sportivo Laureles,,"1:01,24",
+"12 Gadea, Elena",10,Club Nacional Nueva Helvecia,,"x1:02,60",
+"13 Moreira, Luana",10,Club Social y Deportivo Delfin,,"x1:04,53",
+"14 Malan, Clara",10,Club Atletico Esparta,,"1:05,08",
+"15 Bosco, Ana Julia",10,Centro Sportivo Laureles,,"1:05,68",
+"16 Mendiondo, Paula",10,Centro Sportivo Laureles,,"x1:21,13",
+,,,,,
+Evento 24  Hombres 10 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Barrett, Joaquin",10,Club Social y Deportivo Delfin,,"51,00",
+"2 Frick, Cipriano",10,Carrasco Lawn Tennis Club,,"53,61",
+"3 Sonderegger, Thiago",10,Club Atletico Esparta,,"53,85",
+"4 Sobrino, Lorenzo",10,Club Social y Deportivo Delfin,,"53,94",
+"5 Daghero, Genaro",10,Club Nacional Nueva Helvecia,,"54,11",
+"6 Kaplan, Lucas",10,Carrasco Lawn Tennis Club,,"57,98",
+"7 Storace, Juan",10,Carrasco Lawn Tennis Club,,"x58,03",
+"8 Vera Fostel, Santiago",10,Club Nacional Nueva Helvecia,,"1:01,99",
+"9 Pintos, Ignacio",10,Nadadores DE Young,,"1:02,25",
+"10 Solari, Benjamin",10,Nadadores DE Young,,"1:07,08",
+"11 Tiscornia, Santino",10,Centro Sportivo Laureles,,"1:17,26",
+"12 Comando, Zuriel",10,Club Social y Deportivo Delfin,,"x1:17,68",
+"13 Burgos, Nicolas",10,Centro Sportivo Laureles,,"1:25,35",
+"14 Dati, Benicio",10,Centro Sportivo Laureles,,"x1:27,35",
+,,,,,
+Evento 25  Mujeres 11 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Viera, Nataly",11,Club Nacional Nueva Helvecia,,"47,87",9
+"2 Frascheri, Lara",11,Centro Sportivo Laureles,,"49,20",7
+"3 Diaz, Selene",11,Club Nacional Nueva Helvecia,,"49,52",6
+"4 Trigo, Julia",11,Club Social y Deportivo Delfin,,"50,30",5
+"5 De Giovi, Sabrina",11,Centro Sportivo Laureles,,"50,54",4
+"6 Hernandez, Juliana",11,Club Nacional Nueva Helvecia,,"x50,63",
+"7 Fleurquin, María",11,Carrasco Lawn Tennis Club,,"53,11",3
+
+"8 Young, Sara",11,Carrasco Lawn Tennis Club,Unnamed: 0,"59,47",2
+"9 Lopez, Bianca",11,Club Social y Deportivo Delfin,,"1:05,91",1
+"10 Llovinsky, Juliana",11,Piscinas Barriales DE Salto,,"1:07,38",
+"11 Ciliuti, Eugenia",11,Club Atletico Esparta,,"1:24,66",
+"--- Dias, Francesca",11,Centro Sportivo Laureles,,DQ,
+"--- Britos, Macarena",11,Piscinas Barriales DE Salto,,DQ,
+"--- Novak, Gabriela",11,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 26  Hombres 11 Años de Edad 50 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Bertinat, Guillermo",11,Club Nacional Nueva Helvecia,,"49,43",9
+"2 Cruz, Diego",11,Club Social y Deportivo Delfin,,"49,59",7
+"3 Cairus, Valentino",11,Club Social y Deportivo Delfin,,"51,79",6
+"4 Faber, Francisco",11,Centro Sportivo Laureles,,"54,82",5
+"5 Martinez, Felipe",11,Club Nacional Nueva Helvecia,,"55,18",4
+"6 Schmidt, Bruce",11,Club Nacional Nueva Helvecia,,"x56,24",
+"7 Licio, Faustino",11,Carrasco Lawn Tennis Club,,"56,81",3
+"8 Hernandez, Juan Pedro",11,Club Atletico Esparta,,"58,30",2
+"9 Canuti, Agustin",11,Carrasco Lawn Tennis Club,,"58,65",1
+"10 Terra, Francisco",11,Carrasco Lawn Tennis Club,,"x59,29",
+"11 Gauna, Toro",11,Club Social y Deportivo Delfin,,"x1:04,39",
+"12 Kobar, Benjamin",11,Piscinas Barriales DE Salto,,"1:05,71",
+"13 Domini, Facundo",11,Club Atletico Esparta,,"1:06,69",
+"--- Gardiol, Juan",11,Club Atletico Esparta,,DQ,
+"--- Mantinian, Timoteo",11,Centro Sportivo Laureles,,DQ,
+"--- Etcheverry, Clemente",11,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 27  Mujeres 19 & Mayores 200 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Rossotti, Lucia",21,Club Social y Deportivo Delfin,,"2:27,26",9
+"2 Kulik, Guadalupe",20,Centro Sportivo Laureles,,"2:31,14",7
+"3 Mott, Priscila",27,Club Social y Deportivo Delfin,,"2:31,87",6
+"4 Rovella, María Paz",25,Carrasco Lawn Tennis Club,,"2:32,61",5
+"5 Suarez, Aldana",19,Nadadores DE Young,,"2:33,32",4
+"6 Diaz, Lucia",19,Carrasco Lawn Tennis Club,,"2:33,36",3
+"7 Perucca, Franggina",20,Centro Sportivo Laureles,,"2:34,29",2
+"8 Jorcin, Valentina",24,Carrasco Lawn Tennis Club,,"x2:35,52",
+"9 Voelker, Julieta",22,Centro Sportivo Laureles,,"x2:36,13",
+"10 Hernandez, Florencia",29,Club Social y Deportivo Delfin,,"x2:37,45",
+"11 Tobia, Maria Eugenia",19,Piscinas Barriales DE Salto,,"2:41,15",1
+"12 Lopez, Selena",19,Club Nacional Nueva Helvecia,,"2:42,35",
+"13 Vila, Isabel",19,Nadadores DE Young,,"2:48,47",
+,,,,,
+Evento 28  Hombres 19 & Mayores 200 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Wansart, Erik",26,Carrasco Lawn Tennis Club,,"2:06,87",9
+"2 Uria, Juan",32,Carrasco Lawn Tennis Club,,"2:07,36",7
+"3 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"2:08,11",6
+"4 Sosa, Juan Pedro",19,Carrasco Lawn Tennis Club,,"x2:08,54",
+"5 Batiste, Nestor",29,Club Atletico Esparta,,"2:10,53",5
+"6 Acosta, Caio",32,Centro Sportivo Laureles,,"2:17,34",4
+"7 Rodriguez, Santiago",22,Club Nacional Nueva Helvecia,,"2:18,32",3
+
+"8 Ferreyra, Franco",24,Club Social y Deportivo Delfin,Unnamed: 0,"2:18,90",2
+"9 Pessi, Lucas",19.0,Centro Sportivo Laureles,,"2:20,17",1
+"10 Fanetti, Ignacio",20.0,Club Social y Deportivo Delfin,,"x2:20,26",
+"11 Castroman, Nicolas",20.0,Nadadores DE Young,,"2:20,34",
+"12 Bordoli, Manuel",21.0,Centro Sportivo Laureles,,"x2:21,55",
+"13 Batiste, Fabrizio",23.0,Club Atletico Esparta,,"2:23,50",
+"14 Estigarriba, Martin",35.0,Nadadores DE Young,,"2:24,88",
+"15 Pelaez, Cirilo",19.0,Club Nacional Nueva Helvecia,,"2:52,16",
+,,,,,
+Evento 29  Mujeres 16-18 4x100 CC Metro Combinado Relevo,,,,,
+Equipo,,Relevo,,Tiempo de Finales,Puntos
+1 Club Nacional Nueva Helvecia,,A,,"5:23,27",18
+
+1 Club Nacional Nueva Helvecia,A,Unnamed: 0,Unnamed: 1,"5:23,27 18"
+"1) Font, Valentina 16","2) Velazquez, Federica 18",,"3) Silvera, Valentina 18","4) Sonderegger, Saskia 17"
+2 Carrasco Lawn Tennis Club,A,,,"5:28,91 14"
+"1) Estol, Lucia 16","2) Vidiella, Felicia 17",,"3) Vidiella, Federica 17","4) Ruggiero, Giuliana 15"
+3 Centro Sportivo Laureles,A,,,"5:29,46 12"
+"1) Gonzalez, Sol 15","2) Keiran, Julieta 17",,"3) Ashby, Julieta 14","4) Keiran, Pia 18"
+4 Club Social y Deportivo Delfin,A,,,"5:44,16 10"
+"1) Flores, Chiara 17","2) Koster, Emilia 16",,"3) Barrientos, Catalina 18","4) Zecca, Natalia 16"
+--- Club Atletico Esparta,A,,,DQ
+"1) Bernardi, Alfonsina 16","2) Bizoza, Maia 17",,"3) Centurion, Matilde 18","4) Sonderegger, Anika 17"
+,,,,
+Evento 30  Hombres 16-18 4x100 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Social y Deportivo Delfin,A,,,"4:38,76 18"
+"1) Puyol, Caio 18","2) Buscio, Agustino 17",,"3) Vittori, Giuliano 16","4) Cairus, Facundo 17"
+2 Carrasco Lawn Tennis Club,A,,,"4:39,76 14"
+"1) Cuadra, Sebastian 18","2) Grassi, Valentin 16",,"3) Seigal, Pedro 18","4) Paez, Juan Pedro 15"
+3 Centro Sportivo Laureles,A,,,"4:57,16 12"
+"1) Coll, Sebastian 15","2) Bordoli, Felipe 18",,"3) Quincke, Bautista 18","4) Gandulfo, Mateo 15"
+4 Club Atletico Esparta,A,,,"5:23,35 10"
+"1) Martinez, Alan 18","2) Morales, Tomas 16",,"3) Stemphet, Iann Paul 17","4) Garcia, Rodrigo 17"
+5 Club Nacional Nueva Helvecia,A,,,"5:37,10 8"
+"1) Silvera, Emiliano 17","2) Demaria, Aaron 17",,"3) Rodríguez, Juan Pablo 17","4) Elizarzu, Tim 17"
+,,,,
+Evento 31  Mixto 14-15 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Nacional Nueva Helvecia,A,,,"2:15,86 18"
+"1) Bertinat, Fiorella W14","2) Hurst, Belen W14",,"3) Sonderegger, Paulino M15","4) Irigoyen, Tomas M14"
+2 Centro Sportivo Laureles,A,,,"2:19,90 14"
+"1) Coll, Sebastian M15","2) Ashby, Julieta W14",,"3) Gonzalez, Sol W15","4) Voelker, Felipe M15"
+3 Carrasco Lawn Tennis Club,A,,,"2:24,01 12"
+"1) Cubas, Baltasar M14","2) Gomensoro, Malena W15",,"3) Ruggiero, Giuliana W15","4) Paez, Juan Pedro M15"
+4 Club Social y Deportivo Delfin,A,,,"2:26,18 10"
+"1) Biardo, Benjamin M15","2) Demasi, Valentino M15",,"3) Buscio, Emilia W14","4) Espindola, Aldana W15"
+5 Piscinas Barriales DE Salto,A,,,"2:37,12 8"
+"1) Sosa, Candela W14","2) Machado, Eva W15",,"3) Llovinsky, Juan M15","4) Salayeta, Santiago M15"
+6 Nadadores DE Young,A,,,"2:50,88 6"
+"1) Medina, Tomas M14","2) Benitez, Clemente M14",,"3) Mannise, Catalina W14","4) Furtado, Camila W14"
+--- Club Atletico Esparta,A,,,DQ
+
+1 Carrasco Lawn Tennis Club,A,Unnamed: 0,Unnamed: 1,"2:19,39 18"
+"1) Rodriguez, Candelaria 13","2) Novak, Elena 13",,"3) Ithurralde, Josefina 13","4) Yaquinta, Guadalupe 12"
+2 Club Social y Deportivo Delfin,A,,,"2:20,34 14"
+"1) Flores, Luana 12","2) Perez, Danna 13",,"3) Taramasco, Barbara 13","4) Dornel, Matilda 12"
+3 Centro Sportivo Laureles,A,,,"2:26,62 12"
+"1) Frascheri, Lara 11","2) DE Souza, Guadalupe 12",,"3) Timote, Priscila 13","4) Sagari, Belen 12"
+4 Club Atletico Esparta,A,,,"2:26,63 10"
+"1) Stemphet, Nahiara 13","2) Gilles, Antonella 13",,"3) Hoffman, Lara 11","4) Gonzalez, Josefina 12"
+5 Club Nacional Nueva Helvecia,A,,,"2:30,31 8"
+"1) Cerrudo, Sol 13","2) Vespa, Olivia 13",,"3) Vieito, Luzmila 12","4) Salaberry, Ana Clara 13"
+6 Nadadores DE Young,A,,,"2:39,36 6"
+"1) Bianchini, Anabela 12","2) Gonzalez, Emilia 12",,"3) Medina, Angela 13","4) Suarez, Emilia 13"
+,,,,
+Evento 33  Niños 12-13 4x50 CC Metro Estilo Libre Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Centro Sportivo Laureles,A,,,"2:09,41 18"
+"1) Lagos, Mateo 13","2) Faber, Joaquin 13",,"3) Brun, Elias 12","4) Menini, Benjamin 13"
+2 Club Social y Deportivo Delfin,A,,,"2:17,14 14"
+"1) Ferres, Justino 13","2) Castellanos, Benjamin 12",,"3) Malsenido, Maximiliano 12","4) Beron, Joaquin 12"
+3 Carrasco Lawn Tennis Club,A,,,"2:24,47 12"
+"1) Terra, Matias 12","2) Canuti, Tomas 13",,"3) Paez, Tomas 12","4) Grassi, Jeronimo 13"
+4 Nadadores DE Young,A,,,"2:27,60 10"
+"1) García, Joaquín 13","2) Stemphelet, Genaro 13",,"3) Crevoisier, Bruno 12","4) Centurion, Maximo 12"
+5 Club Nacional Nueva Helvecia,A,,,"2:28,68 8"
+"1) Rodriguez, Joaquin 12","2) Vera, Sebastian 12",,"3) Hernandez, Andres 12","4) Alvarino, Ignacio 12"
+6 Club Atletico Esparta,A,,,"2:34,28 6"
+"1) Sonderegger, Ian 12","2) Fuentes, Geronimo 12",,"3) Daruech, Stefano 12","4) Torres, Luciano 13"
+7 Piscinas Barriales DE Salto,A,,,"2:39,53 4"
+"1) Quiroz, Max 13","2) Heredia, Patic 12",,"3) Carballo, Nicolas 12","4) Filipini, Miguel 13"
+,,,,
+Evento 34  Mixto 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+--- Club Nacional Nueva Helvecia,A,,,"X2:46,58"
+"1) Daghero, Genaro M10","2) Vera Fostel, Santiago M10",,"3) Lemes, Matilda W10","4) Urrutia, Francesca W10"
+--- Carrasco Lawn Tennis Club,A,,,"X2:52,58"
+"1) Kaplan, Lucas M10","2) Storace, Juan M10",,"3) Ameglio, Guadalupe W10","4) Cubas, Catalina W10"
+--- Club Social y Deportivo Delfin,A,,,"X2:57,53"
+"1) Sobrino, Lorenzo M10","2) Moreira, Luana W10",,"3) Damasco, Bianca W10","4) Barrett, Joaquin M10"
+--- Centro Sportivo Laureles,A,,,"X3:01,91"
+"1) Sagari, Mateo M10","2) Garbarino, Olivia W10",,"3) Masalles, Jacinto M10","4) Bosco, Ana Julia W10"
+--- Nadadores DE Young,A,,,"X3:10,88"
+"1) Centurion, Isabella W10","2) Solari, Benjamin M10",,"3) Bianchini, Giulianna W10","4) Pintos, Ignacio M10"
+,,,,
+Evento 34  Mixto 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Nacional Nueva Helvecia,A,,,"2:29,54 18"
+"1) Viera, Nataly W11","2) Arrambide, Matilda W11",,"3) Schmidt, Bruce M11","4) Bertinat, Guillermo M11"
+2 Club Social y Deportivo Delfin,A,,,"2:32,06 14"
+"1) Pacaluk, Josefina W11","2) Cruz, Diego M11",,"3) Trigo, Julia W11","4) Cairus, Valentino M11"
+3 Centro Sportivo Laureles,A,,,"2:37,88 12"
+"1) Faber, Francisco M11","2) De Giovi, Sabrina W11",,"3) Mantinian, Timoteo M11","4) Frascheri, Lara W11"
+4 Carrasco Lawn Tennis Club,A,,,"2:45,58 10"
+
+"1 Mott, Priscila",27,Club Social y Deportivo Delfin,Unnamed: 0,"2:50,95",9
+"2 Hernandez, Florencia",29,Club Social y Deportivo Delfin,,"2:53,02",7
+"3 Gonzalez, Lucia",27,Centro Sportivo Laureles,,"2:54,73",6
+"4 Voelker, Julieta",22,Centro Sportivo Laureles,,"2:54,95",5
+"5 Lopez, Selena",19,Club Nacional Nueva Helvecia,,"2:55,19",4
+"6 Koster, Valentina",20,Club Social y Deportivo Delfin,,"x2:55,84",
+"7 Jorcin, Valentina",24,Carrasco Lawn Tennis Club,,"2:56,39",3
+"8 Rovella, María Paz",25,Carrasco Lawn Tennis Club,,"2:57,33",2
+"9 Suarez, Aldana",19,Nadadores DE Young,,"3:01,01",1
+"10 Kulik, Guadalupe",20,Centro Sportivo Laureles,,"x3:03,32",
+"11 Cufre, María Lucía",22,Club Nacional Nueva Helvecia,,"3:03,37",
+"12 Tobia, Maria Eugenia",19,Piscinas Barriales DE Salto,,"3:03,58",
+,,,,,
+Evento 36  Hombres 19 & Mayores 200 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Uria, Juan",32,Carrasco Lawn Tennis Club,,"2:20,86",9
+"2 Wansart, Erik",26,Carrasco Lawn Tennis Club,,"2:25,92",7
+"3 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"2:26,00",6
+"4 Batiste, Nestor",29,Club Atletico Esparta,,"2:26,99",5
+"5 Font, Emanuel",20,Club Nacional Nueva Helvecia,,"2:31,82",4
+"6 Rostan, Gaston",29,Club Social y Deportivo Delfin,,"2:36,02",3
+"7 Batiste, Fabrizio",23,Club Atletico Esparta,,"2:36,92",2
+"8 Fanetti, Ignacio",20,Club Social y Deportivo Delfin,,"x2:36,94",
+"9 Rodriguez, Santiago",22,Club Nacional Nueva Helvecia,,"2:38,95",1
+"10 Sosa, Juan Pedro",19,Carrasco Lawn Tennis Club,,"x2:39,28",
+"11 Acosta, Caio",32,Centro Sportivo Laureles,,"2:41,70",
+"12 Castroman, Nicolas",20,Nadadores DE Young,,"2:42,50",
+"13 Pessi, Lucas",19,Centro Sportivo Laureles,,"2:44,00",
+"14 Plavan, Aaron",21,Club Nacional Nueva Helvecia,,"x2:45,76",
+"15 Estigarriba, Martin",35,Nadadores DE Young,,"2:49,47",
+"16 Mendiondo, Federico",22,Centro Sportivo Laureles,,"x3:31,40",
+,,,,,
+Evento 37  Mujeres 14-15 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Ashby, Julieta",14,Centro Sportivo Laureles,,"30,85",9
+"2 Ruggiero, Giuliana",15,Carrasco Lawn Tennis Club,,"31,87",7
+"3 Mannise, Catalina",14,Nadadores DE Young,,"32,11",6
+"4 Espindola, Aldana",15,Club Social y Deportivo Delfin,,"32,14",5
+"5 Gonzalez, Sol",15,Centro Sportivo Laureles,,"32,15",4
+"6 Hurst, Belen",14,Club Nacional Nueva Helvecia,,"33,16",3
+"7 Martens, Eloisa",14,Club Nacional Nueva Helvecia,,"33,42",2
+"8 Buscio, Emilia",14,Club Social y Deportivo Delfin,,"33,65",1
+"9 Gomensoro, Malena",15,Carrasco Lawn Tennis Club,,"33,85",
+"10 Borsani, Bianca",15,Centro Sportivo Laureles,,"x34,92",
+"11 Machado, Eva",15,Piscinas Barriales DE Salto,,"35,07",
+"12 Rodriguez, Luana",14,Club Atletico Esparta,,"35,14",
+"13 Acuna, Federica",14,Carrasco Lawn Tennis Club,,"x35,19",
+
+"14 Vazquez, Pierina",14,Club Social y Deportivo Delfin,Unnamed: 0,"x35,81",Unnamed: 1
+"15 Negrin, Martina",14,Club Atletico Esparta,,"37,51",
+"16 Sosa, Candela",14,Piscinas Barriales DE Salto,,"37,53",
+"17 Hernandez, Mia",14,Club Atletico Esparta,,"x41,40",
+"18 Casavalle, Nathali",14,Piscinas Barriales DE Salto,,"x41,99",
+"19 Piriz, Silvina",14,Club Nacional Nueva Helvecia,,"x44,09",
+"20 Furtado, Camila",14,Nadadores DE Young,,"48,48",
+,,,,,
+Evento 38  Hombres 14-15 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Paez, Juan Pedro",15,Carrasco Lawn Tennis Club,,"27,50",9
+"2 Coll, Sebastian",15,Centro Sportivo Laureles,,"27,69",7
+"3 Sonderegger, Paulino",15,Club Nacional Nueva Helvecia,,"29,01",6
+"4 Voelker, Felipe",15,Centro Sportivo Laureles,,"29,19",5
+"5 Martinez, Ignacio",14,Club Social y Deportivo Delfin,,"29,85",4
+"6 Llovinsky, Juan",15,Piscinas Barriales DE Salto,,"29,94",3
+"7 Gandulfo, Mateo",15,Centro Sportivo Laureles,,"x29,95",
+"8 Ferres, Benjamin",14,Club Social y Deportivo Delfin,,"30,14",2
+"9 Cubas, Baltasar",14,Carrasco Lawn Tennis Club,,"30,22",1
+"10 Soto, Tiziano",14,Piscinas Barriales DE Salto,,"30,31",
+"11 Demasi, Valentino",15,Club Social y Deportivo Delfin,,"x30,44",
+"12 Salayeta, Santiago",15,Piscinas Barriales DE Salto,,"x30,94",
+"13 Sposito, Valentino",15,Carrasco Lawn Tennis Club,,"x31,17",
+"14 Irigoyen, Tomas",14,Club Nacional Nueva Helvecia,,"32,06",
+"15 García, Santiago",15,Club Atletico Esparta,,"32,25",
+"16 Lepratti, Benjamin",14,Club Nacional Nueva Helvecia,,"x33,78",
+"17 García, Facundo",14,Club Atletico Esparta,,"34,57",
+"18 Benitez, Clemente",14,Nadadores DE Young,,"34,93",
+"19 Medina, Tomas",14,Nadadores DE Young,,"38,86",
+"20 Laborda, Benjamin",14,Nadadores DE Young,,"x38,89",
+,,,,,
+Evento 39  Niñas 12 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"37,92",
+"2 Flores, Luana",12,Club Social y Deportivo Delfin,,"39,64",
+"3 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"42,31",
+"4 Sagari, Belen",12,Centro Sportivo Laureles,,"43,07",
+"5 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x43,40",
+"6 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"44,06",
+"7 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"x46,51",
+"8 Monterroso, Ines",12,Carrasco Lawn Tennis Club,,"x48,13",
+"9 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"x48,43",
+"10 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x48,65",
+"11 Latorre, Julieta",12,Club Social y Deportivo Delfin,,"x49,81",
+"12 Bianchini, Anabela",12,Nadadores DE Young,,"50,79",
+"13 Martens, Solange",12,Club Nacional Nueva Helvecia,,"x51,23",
+"14 Gonzalez, Emilia",12,Nadadores DE Young,,"x1:03,85",
+"15 Caballero, Lara",12,Nadadores DE Young,,"x1:07,40",
+,,,,,
+Evento 39  Niñas 12-13 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+
+"2 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,Unnamed: 0,"37,92",7
+"3 Flores, Luana",12,Club Social y Deportivo Delfin,,"39,64",6.0
+"4 Timote, Priscila",13,Centro Sportivo Laureles,,"42,29",5.0
+"5 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"42,31",4.0
+"6 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x42,86",
+"7 Perez, Danna",13,Club Social y Deportivo Delfin,,"x42,88",
+"8 Sagari, Belen",12,Centro Sportivo Laureles,,"43,07",3.0
+"9 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x43,40",
+"10 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"44,06",2.0
+"11 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"44,42",1.0
+"12 Suarez, Emilia",13,Nadadores DE Young,,"44,50",
+"13 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x44,75",
+"14 De Leon, Emilia",13,Carrasco Lawn Tennis Club,,"x45,66",
+"15 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"x46,51",
+"16 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x48,09",
+"17 Monterroso, Ines",12,Carrasco Lawn Tennis Club,,"x48,13",
+"18 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"x48,43",
+"19 Stemphet, Nahiara",13,Club Atletico Esparta,,"48,47",
+"20 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x48,65",
+"21 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x49,46",
+"22 Latorre, Julieta",12,Club Social y Deportivo Delfin,,"x49,81",
+"23 Bianchini, Anabela",12,Nadadores DE Young,,"50,79",
+"24 Martens, Solange",12,Club Nacional Nueva Helvecia,,"x51,23",
+"25 Martinelli, Paulina",13,Club Nacional Nueva Helvecia,,"x56,51",
+"26 Gonzalez, Emilia",12,Nadadores DE Young,,"x1:03,85",
+"27 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"1:06,28",
+"28 Caballero, Lara",12,Nadadores DE Young,,"x1:07,40",
+,,,,,
+Evento 39  Niñas 13 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Novak, Elena",13,Carrasco Lawn Tennis Club,,"36,63",
+"2 Timote, Priscila",13,Centro Sportivo Laureles,,"42,29",
+"3 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"x42,86",
+"4 Perez, Danna",13,Club Social y Deportivo Delfin,,"x42,88",
+"5 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"44,42",
+"6 Suarez, Emilia",13,Nadadores DE Young,,"44,50",
+"7 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x44,75",
+"8 De Leon, Emilia",13,Carrasco Lawn Tennis Club,,"x45,66",
+"9 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x48,09",
+"10 Stemphet, Nahiara",13,Club Atletico Esparta,,"48,47",
+"11 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x49,46",
+"12 Martinelli, Paulina",13,Club Nacional Nueva Helvecia,,"x56,51",
+"13 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"1:06,28",
+,,,,,
+Evento 40  Niños 12 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"33,25",
+"2 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"39,33",
+"3 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"x40,55",
+"4 Terra, Matias",12,Carrasco Lawn Tennis Club,,"41,05",
+"5 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x44,40",
+"6 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"45,10",
+
+"7 Vera, Sebastian",12,Club Nacional Nueva Helvecia,Unnamed: 0,"47,45",Unnamed: 1
+"8 Sonderegger, Ian",12,Club Atletico Esparta,,"48,00",
+"9 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"x48,01",
+"10 Gardiol, Antonio",12,Club Atletico Esparta,,"48,25",
+"11 Soba, Agustin",12,Club Atletico Esparta,,"x49,23",
+"12 Pereira, Anthony",12,Centro Sportivo Laureles,,"x49,88",
+"13 Centena, Sebastian",12,Centro Sportivo Laureles,,"x55,54",
+"--- Brun, Elias",12,Centro Sportivo Laureles,,DQ,
+"--- Crevoisier, Bruno",12,Nadadores DE Young,,DQ,
+,,,,,
+Evento 40  Niños 12-13 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Centurion, Maximo",12,Nadadores DE Young,,"33,25",9
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"34,21",7
+"3 Ferres, Justino",13,Club Social y Deportivo Delfin,,"37,47",6
+"4 Lagos, Mateo",13,Centro Sportivo Laureles,,"38,30",5
+"5 Faber, Joaquin",13,Centro Sportivo Laureles,,"x38,50",
+"6 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"38,54",4
+"7 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"39,33",3
+"8 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"x40,55",
+"9 Terra, Matias",12,Carrasco Lawn Tennis Club,,"41,05",2
+"10 Quiroz, Max",13,Piscinas Barriales DE Salto,,"41,69",1
+"11 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x43,45",
+"12 García, Joaquín",13,Nadadores DE Young,,"44,26",
+"13 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x44,40",
+"14 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"45,10",
+"15 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x46,54",
+"16 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"47,45",
+"17 Sonderegger, Ian",12,Club Atletico Esparta,,"48,00",
+"18 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"x48,01",
+"19 Gardiol, Antonio",12,Club Atletico Esparta,,"48,25",
+"20 Soba, Agustin",12,Club Atletico Esparta,,"x49,23",
+"21 Pereira, Anthony",12,Centro Sportivo Laureles,,"x49,88",
+"22 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x50,25",
+"23 Yohnatan, Casals",13,Club Atletico Esparta,,"x55,07",
+"24 Centena, Sebastian",12,Centro Sportivo Laureles,,"x55,54",
+"--- Brun, Elias",12,Centro Sportivo Laureles,,DQ,
+"--- Torres, Luciano",13,Club Atletico Esparta,,DQ,
+"--- Crevoisier, Bruno",12,Nadadores DE Young,,DQ,
+,,,,,
+Evento 40  Niños 13 Años de Edad 50 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Menini, Benjamin",13,Centro Sportivo Laureles,,"34,21",
+"2 Ferres, Justino",13,Club Social y Deportivo Delfin,,"37,47",
+"3 Lagos, Mateo",13,Centro Sportivo Laureles,,"38,30",
+"4 Faber, Joaquin",13,Centro Sportivo Laureles,,"x38,50",
+"5 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"38,54",
+"6 Quiroz, Max",13,Piscinas Barriales DE Salto,,"41,69",
+"7 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x43,45",
+"8 García, Joaquín",13,Nadadores DE Young,,"44,26",
+"9 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x46,54",
+"10 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x50,25",
+
+"11 Yohnatan, Casals",13,Club Atletico Esparta,Unnamed: 0,"x55,07",Unnamed: 1
+"--- Torres, Luciano",13,Club Atletico Esparta,,DQ,
+,,,,,
+Evento 41  Mujeres 16-18 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Sonderegger, Saskia",17,Club Nacional Nueva Helvecia,,"31,04",9
+"2 Vidiella, Federica",17,Carrasco Lawn Tennis Club,,"31,15",7
+"3 Keiran, Pia",18,Centro Sportivo Laureles,,"31,32",6
+"4 Gallino, Camila",17,Piscinas Barriales DE Salto,,"31,51",5
+"5 Font, Valentina",16,Club Nacional Nueva Helvecia,,"31,73",4
+"6 Velazquez, Federica",18,Club Nacional Nueva Helvecia,,"x32,05",
+"7 Estol, Lucia",16,Carrasco Lawn Tennis Club,,"32,23",3
+"8 Keiran, Julieta",17,Centro Sportivo Laureles,,"33,15",2
+"9 Delfino, Florencia",18,Centro Sportivo Laureles,,"x33,34",
+"10 Vidiella, Felicia",17,Carrasco Lawn Tennis Club,,"x33,36",
+"11 Zecca, Natalia",16,Club Social y Deportivo Delfin,,"33,42",1
+"12 Flores, Chiara",17,Club Social y Deportivo Delfin,,"34,10",
+"13 Barrientos, Catalina",18,Club Social y Deportivo Delfin,,"x34,36",
+"14 Bizoza, Maia",17,Club Atletico Esparta,,"35,08",
+"15 Sonderegger, Anika",17,Club Atletico Esparta,,"35,65",
+"16 De Los Santos, Delfina",17,Piscinas Barriales DE Salto,,"36,19",
+"17 Centurion, Matilde",18,Club Atletico Esparta,,"x36,70",
+,,,,,
+Evento 42  Hombres 16-18 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Puyol, Caio",18,Club Social y Deportivo Delfin,,"25,50",9
+"2 Cuadra, Sebastian",18,Carrasco Lawn Tennis Club,,"26,06",7
+"3 Silvera, Emiliano",17,Club Nacional Nueva Helvecia,,"26,46",6
+"4 Cairus, Facundo",17,Club Social y Deportivo Delfin,,"26,74",5
+"5 Vittori, Giuliano",16,Club Social y Deportivo Delfin,,"x26,84",
+"6 Quincke, Bautista",18,Centro Sportivo Laureles,,"27,44",4
+"7 Grassi, Valentin",16,Carrasco Lawn Tennis Club,,"28,33",3
+"8 Seigal, Pedro",18,Carrasco Lawn Tennis Club,,"x28,65",
+"9 Soto, Maximo",16,Piscinas Barriales DE Salto,,"29,16",2
+"10 Demaria, Aaron",17,Club Nacional Nueva Helvecia,,"29,60",1
+"11 Hartwich, Ian",16,Nadadores DE Young,,"29,66",
+"12 Elizarzu, Tim",17,Club Nacional Nueva Helvecia,,"x29,78",
+"13 Stemphet, Iann Paul",17,Club Atletico Esparta,,"29,85",
+"14 Garcia, Rodrigo",17,Club Atletico Esparta,,"29,91",
+"15 Cavalheiro, Federico",17,Piscinas Barriales DE Salto,,"30,21",
+"16 Silveira, Valentin",17,Piscinas Barriales DE Salto,,"x30,51",
+"17 Morales, Tomas",16,Club Atletico Esparta,,"x30,69",
+"18 Bordoli, Felipe",18,Centro Sportivo Laureles,,"30,99",
+"19 Medina, Alfonso",18,Nadadores DE Young,,"31,25",
+"20 Indarte, Diego",17,Nadadores DE Young,,"x32,27",
+,,,,,
+Evento 43  Mujeres 10 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Gabriel, Ma Ines",10,Club Nacional Nueva Helvecia,,"48,86",
+"2 Moreira, Luana",10,Club Social y Deportivo Delfin,,"48,97",
+"3 Lemes, Matilda",10,Club Nacional Nueva Helvecia,,"49,00",
+"4 Baldomir, Mora",10,Carrasco Lawn Tennis Club,,"49,01",
+
+"5 Ameglio, Guadalupe",10,Carrasco Lawn Tennis Club,Unnamed: 0,"50,13",Unnamed: 1
+"6 Bianchini, Giulianna",10,Nadadores DE Young,,"50,47",
+"7 Cubas, Catalina",10,Carrasco Lawn Tennis Club,,"x51,98",
+"8 Garbarino, Olivia",10,Centro Sportivo Laureles,,"55,32",
+"9 Fernandez, Ma Paz",10,Club Nacional Nueva Helvecia,,"x56,70",
+"10 Bosco, Ana Julia",10,Centro Sportivo Laureles,,"1:01,21",
+"11 Castillo, Yuliana",10,Club Social y Deportivo Delfin,,"1:01,77",
+"12 Zapata, Renata",10,Club Social y Deportivo Delfin,,"x1:04,53",
+"13 Mendiondo, Paula",10,Centro Sportivo Laureles,,"x1:07,69",
+,,,,,
+Evento 44  Hombres 10 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Sonderegger, Thiago",10,Club Atletico Esparta,,"44,96",
+"2 Sobrino, Lorenzo",10,Club Social y Deportivo Delfin,,"45,39",
+"3 Kaplan, Lucas",10,Carrasco Lawn Tennis Club,,"47,99",
+"4 Masalles, Jacinto",10,Centro Sportivo Laureles,,"50,58",
+"5 Barrett, Joaquin",10,Club Social y Deportivo Delfin,,"51,71",
+"6 Sagari, Mateo",10,Centro Sportivo Laureles,,"51,75",
+"7 Storace, Juan",10,Carrasco Lawn Tennis Club,,"52,87",
+"8 Daghero, Genaro",10,Club Nacional Nueva Helvecia,,"54,01",
+"9 Vera Fostel, Santiago",10,Club Nacional Nueva Helvecia,,"55,58",
+"10 Imken, Vicente",10,Club Social y Deportivo Delfin,,"x59,20",
+"11 Sanchez Varela, Antonio",10,Carrasco Lawn Tennis Club,,"x1:00,26",
+"12 Ferrer, Francisco",10,Centro Sportivo Laureles,,"x1:02,71",
+,,,,,
+Evento 45  Mujeres 11 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Frascheri, Lara",11,Centro Sportivo Laureles,,"39,96",9
+"2 Viera, Nataly",11,Club Nacional Nueva Helvecia,,"43,89",7
+"3 Britos, Macarena",11,Piscinas Barriales DE Salto,,"45,32",6
+"4 Arrambide, Matilda",11,Club Nacional Nueva Helvecia,,"45,53",5
+"5 Pacaluk, Josefina",11,Club Social y Deportivo Delfin,,"48,49",4
+"6 Seigal, Helena",11,Carrasco Lawn Tennis Club,,"52,27",3
+"7 Ettlin, Kiara",11,Club Nacional Nueva Helvecia,,"x53,86",
+"8 Dias, Francesca",11,Centro Sportivo Laureles,,"58,87",2
+"9 Llovinsky, Juliana",11,Piscinas Barriales DE Salto,,"1:09,88",1
+"--- Hoffman, Lara",11,Club Atletico Esparta,,DQ,
+"--- De Giovi, Sabrina",11,Centro Sportivo Laureles,,DQ,
+"--- Pacaluk, Camila",11,Club Social y Deportivo Delfin,,DQ,
+"--- Sonneveld, Sofía",11,Carrasco Lawn Tennis Club,,DQ,
+"--- Lopez, Bianca",11,Club Social y Deportivo Delfin,,DQ,
+"--- Fleurquin, María",11,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 46  Hombres 11 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Martinelli, Piero",11,Club Nacional Nueva Helvecia,,"43,40",9
+"2 Bertinat, Guillermo",11,Club Nacional Nueva Helvecia,,"43,66",7
+"3 Cairus, Valentino",11,Club Social y Deportivo Delfin,,"44,51",6
+"4 Terra, Francisco",11,Carrasco Lawn Tennis Club,,"45,31",5
+"5 Nunez, Tomas",11,Club Social y Deportivo Delfin,,"46,43",4
+"6 Cruz, Diego",11,Club Social y Deportivo Delfin,,"x51,46",
+"7 Licio, Faustino",11,Carrasco Lawn Tennis Club,,"52,15",3
+
+"8 Kobar, Benjamin",11,Piscinas Barriales DE Salto,Unnamed: 0,"52,47",2
+"9 Gardiol, Juan",11,Club Atletico Esparta,,"52,76",1
+"10 Mantinian, Timoteo",11,Centro Sportivo Laureles,,"53,18",
+"11 Moris, Benjamin",11,Carrasco Lawn Tennis Club,,"x53,75",
+"12 Alvarez, Federico",11,Centro Sportivo Laureles,,"54,14",
+"13 Hernandez, Juan Pedro",11,Club Atletico Esparta,,"56,77",
+"14 Faber, Francisco",11,Centro Sportivo Laureles,,"x59,32",
+"--- Domini, Facundo",11,Club Atletico Esparta,,DQ,
+"--- Schmidt, Bruce",11,Club Nacional Nueva Helvecia,,DQ,
+,,,,,
+Evento 47  Mujeres 19 & Mayores 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Rossotti, Lucia",21,Club Social y Deportivo Delfin,,"29,79",9
+"*2 Mott, Priscila",27,Club Social y Deportivo Delfin,,"29,94",6  .50
+"*2 Gonzalez, Lucia",27,Centro Sportivo Laureles,,"29,94",6  .50
+"4 Rovella, María Paz",25,Carrasco Lawn Tennis Club,,"30,13",5
+"5 Kulik, Guadalupe",20,Centro Sportivo Laureles,,"30,14",4
+"6 Voelker, Julieta",22,Centro Sportivo Laureles,,"x30,67",
+"7 Hernandez, Florencia",29,Club Social y Deportivo Delfin,,"x31,30",
+"8 Vila, Isabel",19,Nadadores DE Young,,"31,55",3
+"9 Lopez, Selena",19,Club Nacional Nueva Helvecia,,"31,56",2
+"10 Diaz, Lucia",19,Carrasco Lawn Tennis Club,,"31,95",1
+"11 Tobia, Maria Eugenia",19,Piscinas Barriales DE Salto,,"32,06",
+"12 Salvatierra, Magdalena",20,Nadadores DE Young,,"32,13",
+"13 Jorcin, Valentina",24,Carrasco Lawn Tennis Club,,"x32,47",
+"14 Lepratti, Manuela",19,Club Nacional Nueva Helvecia,,"32,61",
+"15 Suarez, Aldana",19,Nadadores DE Young,,"x33,58",
+"16 Nocetti, Catalina",20,Club Nacional Nueva Helvecia,,"x34,05",
+"17 Nario, Antonella",19,Club Atletico Esparta,,"37,59",
+"18 Molina, Yania",19,Club Atletico Esparta,,"37,64",
+,,,,,
+Evento 48  Hombres 19 & Mayores 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Wansart, Erik",26,Carrasco Lawn Tennis Club,,"24,66",9
+"2 Chiancone, Federico",29,Carrasco Lawn Tennis Club,,"25,17",7
+"3 Uria, Juan",32,Carrasco Lawn Tennis Club,,"x25,46",
+"4 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"25,57",6
+"5 Castroman, Santiago",19,Nadadores DE Young,,"26,37",5
+"6 Rostan, Gaston",29,Club Social y Deportivo Delfin,,"26,86",4
+"7 Pessi, Lucas",19,Centro Sportivo Laureles,,"27,00",3
+"8 Quincke, Tomas",21,Centro Sportivo Laureles,,"27,32",2
+"9 Fanetti, Ignacio",20,Club Social y Deportivo Delfin,,"x27,51",
+"10 Iglesias, Darwin",30,Club Nacional Nueva Helvecia,,"27,73",1
+"11 Ritez, Mateo",22,Nadadores DE Young,,"27,76",
+"12 Cabrera, Miguel",24,Club Atletico Esparta,,"27,82",
+"13 Perez, Andres",26,Nadadores DE Young,,"x28,02",
+"14 Bordoli, Manuel",21,Centro Sportivo Laureles,,"x28,35",
+"15 Plavan, Aaron",21,Club Nacional Nueva Helvecia,,"28,80",
+"16 Peruchena, Nicolas",28,Piscinas Barriales DE Salto,,"28,81",
+"17 Quintana, Guzman",22,Club Atletico Esparta,,"31,47",
+"18 Bizoza, Joaquin",25,Club Atletico Esparta,,"x31,86",
+"--- Urtazu, Agustín",25,Club Nacional Nueva Helvecia,,DQ,
+
+"1 Gallino, Camila",17,Piscinas Barriales DE Salto,Unnamed: 0,"1:08,13",9
+"2 Keiran, Pia",18,Centro Sportivo Laureles,,"1:08,86",7
+"3 Vidiella, Federica",17,Carrasco Lawn Tennis Club,,"1:10,27",6
+"4 Font, Valentina",16,Club Nacional Nueva Helvecia,,"1:10,47",5
+"5 Estol, Lucia",16,Carrasco Lawn Tennis Club,,"1:10,70",4
+"6 Flores, Chiara",17,Club Social y Deportivo Delfin,,"1:12,45",3
+"7 Keiran, Julieta",17,Centro Sportivo Laureles,,"1:13,03",2
+"8 Velazquez, Federica",18,Club Nacional Nueva Helvecia,,"1:13,11",1
+"9 Delfino, Florencia",18,Centro Sportivo Laureles,,"x1:13,71",
+"10 Sonderegger, Saskia",17,Club Nacional Nueva Helvecia,,"x1:14,01",
+"11 Barrientos, Catalina",18,Club Social y Deportivo Delfin,,"1:14,56",
+"12 Zecca, Natalia",16,Club Social y Deportivo Delfin,,"x1:14,63",
+"13 Sonderegger, Anika",17,Club Atletico Esparta,,"1:20,06",
+"14 Centurion, Matilde",18,Club Atletico Esparta,,"1:20,87",
+"15 De Los Santos, Delfina",17,Piscinas Barriales DE Salto,,"1:24,31",
+"16 Bernardi, Alfonsina",16,Club Atletico Esparta,,"x1:28,97",
+"17 Derregibus, Celeste",16,Piscinas Barriales DE Salto,,"x1:31,71",
+,,,,,
+Evento 55  Hombres 16-18 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Cuadra, Sebastian",18,Carrasco Lawn Tennis Club,,"57,07",9
+"2 Puyol, Caio",18,Club Social y Deportivo Delfin,,"58,54",7
+"3 Quincke, Bautista",18,Centro Sportivo Laureles,,"1:00,51",6
+"4 Cairus, Facundo",17,Club Social y Deportivo Delfin,,"1:01,03",5
+"5 Vittori, Giuliano",16,Club Social y Deportivo Delfin,,"x1:01,19",
+"6 Silvera, Emiliano",17,Club Nacional Nueva Helvecia,,"1:03,46",4
+"7 Grassi, Valentin",16,Carrasco Lawn Tennis Club,,"1:03,73",3
+"8 Cavalheiro, Federico",17,Piscinas Barriales DE Salto,,"1:05,42",2
+"9 Demaria, Aaron",17,Club Nacional Nueva Helvecia,,"1:06,96",1
+"10 Stemphet, Iann Paul",17,Club Atletico Esparta,,"1:07,13",
+"11 Morales, Tomas",16,Club Atletico Esparta,,"1:07,16",
+"12 Soto, Maximo",16,Piscinas Barriales DE Salto,,"1:08,16",
+"13 Elizarzu, Tim",17,Club Nacional Nueva Helvecia,,"x1:09,02",
+
+1,Club Social y Deportivo Delfin,A,Unnamed: 0,"4:01,96 18"
+,"1) Cairus, Facundo 17","2) Vittori, Giuliano 16","3) Rostan, Matias 18","4) Puyol, Caio 18"
+2.0,Carrasco Lawn Tennis Club,A,,"4:09,09 14"
+,"1) Grassi, Valentin 16","2) Paez, Juan Pedro 15","3) Seigal, Pedro 18","4) Cuadra, Sebastian 18"
+3.0,Centro Sportivo Laureles,A,,"4:21,34 12"
+,"1) Coll, Sebastian 15","2) Voelker, Felipe 15","3) Bordoli, Felipe 18","4) Quincke, Bautista 18"
+4.0,Club Nacional Nueva Helvecia,A,,"4:25,49 10"
+,"1) Demaria, Aaron 17","2) Elizarzu, Tim 17","3) Sonderegger, Paulino 15","4) Silvera, Emiliano 17"
+5.0,Club Atletico Esparta,A,,"4:33,65 8"
+,"1) Morales, Tomas 16","2) Martinez, Alan 18","3) Garcia, Rodrigo 17","4) Stemphet, Iann Paul 17"
+6.0,Nadadores DE Young,A,,"5:04,48 6"
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+14,"Garcia, Rodrigo  17",Club Atletico Esparta,,"x1:09,13",
+15,"Hartwich, Ian  16",Nadadores DE Young,,"1:10,32",
+16,"Silveira, Valentin  17",Piscinas Barriales DE Salto,,"x1:10,50",
+17,"Medina, Alfonso  18",Nadadores DE Young,,"1:12,10",
+18,"Indarte, Diego  17",Nadadores DE Young,,"x1:15,74",
+nto 56  Mujeres 14-15 200 CC Metro CI,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Ashby, Julieta  14",Centro Sportivo Laureles,,"2:56,77",9
+2,"Bertinat, Fiorella  14",Club Nacional Nueva Helvecia,,"2:59,87",7
+3,"Gomensoro, Malena  15",Carrasco Lawn Tennis Club,,"3:03,09",6
+4,"Gonzalez, Sol  15",Centro Sportivo Laureles,,"3:04,34",5
+5,"Espindola, Aldana  15",Club Social y Deportivo Delfin,,"3:04,58",4
+6,"Mannise, Catalina  14",Nadadores DE Young,,"3:07,57",3
+7,"Hurst, Belen  14",Club Nacional Nueva Helvecia,,"3:08,42",2
+8,"Ferreira, Martina  15",Centro Sportivo Laureles,,"x3:14,16",
+9,"Buscio, Emilia  14",Club Social y Deportivo Delfin,,"3:17,64",1
+10,"Amarillo, Lara  15",Club Social y Deportivo Delfin,,"x3:20,78",
+11,"Rodriguez, Luana  14",Club Atletico Esparta,,"3:26,88",
+12,"Oyola, Constanza  14",Club Nacional Nueva Helvecia,,"x3:50,69",
+---,"Machado, Eva  15",Piscinas Barriales DE Salto,,DQ,
+nto 57  Hombres 14-15 200 CC Metro CI,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Coll, Sebastian  15",Centro Sportivo Laureles,,"2:36,03",9
+2,"Sonderegger, Paulino  15",Club Nacional Nueva Helvecia,,"2:45,46",7
+3,"Paez, Juan Pedro  15",Carrasco Lawn Tennis Club,,"2:46,51",6
+4,"Martinez, Ignacio  14",Club Social y Deportivo Delfin,,"2:50,81",5
+5,"Cubas, Baltasar  14",Carrasco Lawn Tennis Club,,"2:50,84",4
+6,"Llovinsky, Juan  15",Piscinas Barriales DE Salto,,"2:58,40",3
+7,"Dati, Genaro  15",Centro Sportivo Laureles,,"3:02,67",2
+8,"Gandulfo, Mateo  15",Centro Sportivo Laureles,,"x3:03,82",
+9,"Irigoyen, Tomas  14",Club Nacional Nueva Helvecia,,"3:15,62",1
+---,"Chivel, Thiago  15",Piscinas Barriales DE Salto,,DQ,
+---,"Biardo, Benjamin  15",Club Social y Deportivo Delfin,,DQ,
+---,"Salayeta, Santiago  15",Piscinas Barriales DE Salto,,DQ,
+---,"Demasi, Valentino  15",Club Social y Deportivo Delfin,,DQ,
+nto 58  Mujeres 19 & Mayores 100 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Rossotti, Lucia  21",Club Social y Deportivo Delfin,,"1:06,35",9
+2,"Mott, Priscila  27",Club Social y Deportivo Delfin,,"1:06,43",7
+3,"Rovella, María Paz  25",Carrasco Lawn Tennis Club,,"1:06,74",6
+4,"Kulik, Guadalupe  20",Centro Sportivo Laureles,,"1:07,39",5
+5,"Voelker, Julieta  22",Centro Sportivo Laureles,,"1:07,86",4
+6,"Perucca, Franggina  20",Centro Sportivo Laureles,,"x1:08,81",
+7,"Vila, Isabel  19",Nadadores DE Young,,"1:09,72",3
+8,"Jorcin, Valentina  24",Carrasco Lawn Tennis Club,,"1:10,38",2
+9,"Diaz, Lucia  19",Carrasco Lawn Tennis Club,,"x1:10,79",
+10,"Salvatierra, Magdalena  20",Nadadores DE Young,,"1:10,83",1
+11,"Lopez, Selena  19",Club Nacional Nueva Helvecia,,"1:11,30",
+12,"Tobia, Maria Eugenia  19",Piscinas Barriales DE Salto,,"1:12,22",
+
+"13 Cufre, María Lucía",22,Club Nacional Nueva Helvecia,Unnamed: 0,"1:13,67",Unnamed: 1
+"14 Lepratti, Manuela",19,Club Nacional Nueva Helvecia,,"x1:13,97",
+,,,,,
+Evento 59  Hombres 19 & Mayores 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Wansart, Erik",26,Carrasco Lawn Tennis Club,,"54,70",9
+"2 Uria, Juan",32,Carrasco Lawn Tennis Club,,"55,06",7
+"3 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"56,50",6
+"4 Urtazu, Agustín",25,Club Nacional Nueva Helvecia,,"56,75",5
+"5 Chiancone, Federico",29,Carrasco Lawn Tennis Club,,"x59,14",
+"6 Rostan, Gaston",29,Club Social y Deportivo Delfin,,"1:00,05",4
+"7 Castroman, Santiago",19,Nadadores DE Young,,"1:00,29",3
+"8 Castroman, Nicolas",20,Nadadores DE Young,,"1:00,42",2
+"9 Pessi, Lucas",19,Centro Sportivo Laureles,,"1:01,28",1
+"10 Acosta, Caio",32,Centro Sportivo Laureles,,"1:01,30",
+"11 Ferreyra, Franco",24,Club Social y Deportivo Delfin,,"x1:01,66",
+"12 Bordoli, Manuel",21,Centro Sportivo Laureles,,"x1:01,70",
+"13 Rodriguez, Santiago",22,Club Nacional Nueva Helvecia,,"1:01,89",
+"14 Ritez, Mateo",22,Nadadores DE Young,,"x1:02,57",
+"15 Iglesias, Darwin",30,Club Nacional Nueva Helvecia,,"x1:02,67",
+"16 Cabrera, Miguel",24,Club Atletico Esparta,,"1:03,27",
+"17 Peruchena, Nicolas",28,Piscinas Barriales DE Salto,,"1:08,44",
+"18 Bizoza, Joaquin",25,Club Atletico Esparta,,"1:11,55",
+,,,,,
+Evento 60  Niñas 12 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"33,98",
+"2 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"34,02",
+"3 Flores, Luana",12,Club Social y Deportivo Delfin,,"34,25",
+"4 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x36,58",
+"5 Sagari, Belen",12,Centro Sportivo Laureles,,"36,66",
+"6 Bianchini, Anabela",12,Nadadores DE Young,,"37,08",
+"7 Gerfauo, Aitana",12,Club Social y Deportivo Delfin,,"x37,60",
+"8 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"37,88",
+"9 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x38,10",
+"10 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"38,65",
+"11 Martens, Solange",12,Club Nacional Nueva Helvecia,,"x38,66",
+"12 Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,"x40,10",
+"13 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x40,95",
+"14 Gonzalez, Josefina",12,Club Atletico Esparta,,"41,30",
+"15 Gonzalez, Emilia",12,Nadadores DE Young,,"41,85",
+"16 Caballero, Lara",12,Nadadores DE Young,,"x45,53",
+,,,,,
+Evento 60  Niñas 12-13 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"33,89",9
+"2 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"33,98",7
+"3 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"34,02",6
+"4 Flores, Luana",12,Club Social y Deportivo Delfin,,"34,25",5
+"5 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x34,31",
+"6 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"x35,30",
+"7 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"35,75",4
+
+"8 Stemphet, Nahiara",13,Club Atletico Esparta,Unnamed: 0,"36,02",3
+"9 Perez, Danna",13,Club Social y Deportivo Delfin,,"x36,50",
+"10 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x36,58",
+"11 Sagari, Belen",12,Centro Sportivo Laureles,,"36,66",2.0
+"12 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"x36,97",
+"13 Bianchini, Anabela",12,Nadadores DE Young,,"37,08",1.0
+"14 Gerfauo, Aitana",12,Club Social y Deportivo Delfin,,"x37,60",
+"15 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"37,88",
+"16 Timote, Priscila",13,Centro Sportivo Laureles,,"x37,94",
+"17 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x38,10",
+"18 Barrios, Valentina",13,Club Social y Deportivo Delfin,,"x38,16",
+"19 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"38,65",
+"20 Martens, Solange",12,Club Nacional Nueva Helvecia,,"x38,66",
+"21 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"x39,73",
+"22 Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,"x40,10",
+"23 Martinelli, Paulina",13,Club Nacional Nueva Helvecia,,"x40,76",
+"24 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x40,95",
+"25 Gonzalez, Josefina",12,Club Atletico Esparta,,"41,30",
+"26 Gonzalez, Emilia",12,Nadadores DE Young,,"41,85",
+"27 Caballero, Lara",12,Nadadores DE Young,,"x45,53",
+"28 Medina, Angela",13,Nadadores DE Young,,"x45,89",
+"29 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"50,45",
+"--- Suarez, Emilia",13,Nadadores DE Young,,DQ,
+,,,,,
+Evento 60  Niñas 13 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"33,89",
+"2 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x34,31",
+"3 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"x35,30",
+"4 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"35,75",
+"5 Stemphet, Nahiara",13,Club Atletico Esparta,,"36,02",
+"6 Perez, Danna",13,Club Social y Deportivo Delfin,,"x36,50",
+"7 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"x36,97",
+"8 Timote, Priscila",13,Centro Sportivo Laureles,,"x37,94",
+"9 Barrios, Valentina",13,Club Social y Deportivo Delfin,,"x38,16",
+"10 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"x39,73",
+"11 Martinelli, Paulina",13,Club Nacional Nueva Helvecia,,"x40,76",
+"12 Medina, Angela",13,Nadadores DE Young,,"x45,89",
+"13 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"50,45",
+"--- Suarez, Emilia",13,Nadadores DE Young,,DQ,
+,,,,,
+Evento 61  Niños 12 Años de Edad 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"30,33",
+"2 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"33,26",
+"3 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x34,02",
+"4 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"34,13",
+"5 Terra, Matias",12,Carrasco Lawn Tennis Club,,"34,54",
+"6 Fuentes, Geronimo",12,Club Atletico Esparta,,"35,32",
+"7 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x35,95",
+"8 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"36,40",
+"9 Brun, Elias",12,Centro Sportivo Laureles,,"x36,60",
+
+"10 Paez, Tomas",12,Carrasco Lawn Tennis Club,Unnamed: 0,"x37,96",Unnamed: 1
+"11 Espinosa, Ian",12,Club Atletico Esparta,,"x38,64",
+"12 Hernandez, Andres",12,Club Nacional Nueva Helvecia,,"x39,18",
+"13 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,,"x40,06",
+"14 Centena, Sebastian",12,Centro Sportivo Laureles,,"x40,92",
+"15 Crevoisier, Bruno",12,Nadadores DE Young,,"x43,75",
+"16 Pereira, Anthony",12,Centro Sportivo Laureles,,"x45,47",
+"17 Hartwich, German",12,Nadadores DE Young,,"x46,33",
+"18 Reyes, Ignacio",12,Club Atletico Esparta,,"x50,33",
+"--- Carballo, Nicolas",12,Piscinas Barriales DE Salto,,DQ,
+,,,,,
+Evento 61  Niños 12-13 50 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Menini, Benjamin",13,Centro Sportivo Laureles,,"29,59",9
+"2 Lagos, Mateo",13,Centro Sportivo Laureles,,"30,00",7
+"3 Centurion, Maximo",12,Nadadores DE Young,,"30,33",6
+"4 Quiroz, Max",13,Piscinas Barriales DE Salto,,"31,98",5
+"5 Ferres, Justino",13,Club Social y Deportivo Delfin,,"33,21",4
+"6 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"33,26",3
+"7 Faber, Joaquin",13,Centro Sportivo Laureles,,"x33,73",
+"8 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"33,78",2
+"9 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x34,02",
+"10 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"34,13",1
+"11 Terra, Matias",12,Carrasco Lawn Tennis Club,,"34,54",
+"12 García, Joaquín",13,Nadadores DE Young,,"34,98",
+"13 Fuentes, Geronimo",12,Club Atletico Esparta,,"35,32",
+"14 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x35,95",
+"15 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"36,40",
+"16 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x36,45",
+"17 Brun, Elias",12,Centro Sportivo Laureles,,"x36,60",
+"18 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x37,78",
+"19 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x37,96",
+"20 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x38,30",
+"21 Torres, Luciano",13,Club Atletico Esparta,,"38,51",
+"22 Espinosa, Ian",12,Club Atletico Esparta,,"x38,64",
+"23 Yohnatan, Casals",13,Club Atletico Esparta,,"x39,01",
+"24 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x39,07",
+"25 Hernandez, Andres",12,Club Nacional Nueva Helvecia,,"x39,18",
+"26 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"39,46",
+"27 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,,"x40,06",
+"28 Stemphelet, Genaro",13,Nadadores DE Young,,"x40,33",
+"29 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x40,81",
+"30 Centena, Sebastian",12,Centro Sportivo Laureles,,"x40,92",
+"31 Machado, Alan",13,Nadadores DE Young,,"x42,02",
+"32 Crevoisier, Bruno",12,Nadadores DE Young,,"x43,75",
+"33 Morales, Gael",13,Club Atletico Esparta,,"x44,67",
+"34 Pereira, Anthony",12,Centro Sportivo Laureles,,"x45,47",
+"35 Hartwich, German",12,Nadadores DE Young,,"x46,33",
+"36 Reyes, Ignacio",12,Club Atletico Esparta,,"x50,33",
+"--- Carballo, Nicolas",12,Piscinas Barriales DE Salto,,DQ,
+
+"1 Menini, Benjamin",13,Centro Sportivo Laureles,Unnamed: 0,"29,59",Unnamed: 1
+"2 Lagos, Mateo",13,Centro Sportivo Laureles,,"30,00",
+"3 Quiroz, Max",13,Piscinas Barriales DE Salto,,"31,98",
+"4 Ferres, Justino",13,Club Social y Deportivo Delfin,,"33,21",
+"5 Faber, Joaquin",13,Centro Sportivo Laureles,,"x33,73",
+"6 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"33,78",
+"7 García, Joaquín",13,Nadadores DE Young,,"34,98",
+"8 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x36,45",
+"9 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x37,78",
+"10 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x38,30",
+"11 Torres, Luciano",13,Club Atletico Esparta,,"38,51",
+"12 Yohnatan, Casals",13,Club Atletico Esparta,,"x39,01",
+"13 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x39,07",
+"14 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"39,46",
+"15 Stemphelet, Genaro",13,Nadadores DE Young,,"x40,33",
+"16 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x40,81",
+"17 Machado, Alan",13,Nadadores DE Young,,"x42,02",
+"18 Morales, Gael",13,Club Atletico Esparta,,"x44,67",
+,,,,,
+Evento 62  Mujeres 16-18 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Vidiella, Felicia",17,Carrasco Lawn Tennis Club,,"1:32,12",9
+"2 Silvera, Valentina",18,Club Nacional Nueva Helvecia,,"1:32,40",7
+"3 Vidiella, Federica",17,Carrasco Lawn Tennis Club,,"1:33,16",6
+"4 Velazquez, Federica",18,Club Nacional Nueva Helvecia,,"1:35,18",5
+"5 Buffoni, Angelina",17,Club Nacional Nueva Helvecia,,"x1:36,77",
+"6 Keiran, Pia",18,Centro Sportivo Laureles,,"1:38,46",4
+"7 Bizoza, Maia",17,Club Atletico Esparta,,"1:40,25",3
+"8 Keiran, Julieta",17,Centro Sportivo Laureles,,"1:41,97",2
+"9 Koster, Emilia",16,Club Social y Deportivo Delfin,,"1:42,36",1
+"10 Centurion, Matilde",18,Club Atletico Esparta,,"1:42,53",
+"11 Sonderegger, Anika",17,Club Atletico Esparta,,"x1:42,69",
+"12 Zecca, Natalia",16,Club Social y Deportivo Delfin,,"1:42,79",
+"13 Delfino, Florencia",18,Centro Sportivo Laureles,,"x1:46,05",
+"14 Rodriguez Luis, Candelaria",16,Carrasco Lawn Tennis Club,,"x1:46,77",
+"15 De Los Santos, Delfina",17,Piscinas Barriales DE Salto,,"1:48,03",
+"16 Heredia, Magdalena",17,Piscinas Barriales DE Salto,,"1:55,63",
+"--- Derregibus, Celeste",16,Piscinas Barriales DE Salto,,DQ,
+,,,,,
+Evento 63  Hombres 16-18 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Puyol, Caio",18,Club Social y Deportivo Delfin,,"1:20,27",9
+"2 Silvera, Emiliano",17,Club Nacional Nueva Helvecia,,"1:20,41",7
+"3 Grassi, Valentin",16,Carrasco Lawn Tennis Club,,"1:22,26",6
+"4 Imken, Diego",18,Club Social y Deportivo Delfin,,"1:24,05",5
+"5 Buscio, Agustino",17,Club Social y Deportivo Delfin,,"x1:24,29",
+"6 Seigal, Pedro",18,Carrasco Lawn Tennis Club,,"1:24,52",4
+"7 Bordoli, Felipe",18,Centro Sportivo Laureles,,"1:27,76",3
+"8 Stemphet, Iann Paul",17,Club Atletico Esparta,,"1:28,98",2
+"9 Silveira, Valentin",17,Piscinas Barriales DE Salto,,"1:31,73",1
+"10 Demaria, Aaron",17,Club Nacional Nueva Helvecia,,"1:32,84",
+
+11,"Medina, Alfonso",18,Nadadores DE Young,"1:33,38"
+12,"Soto, Maximo",16,Piscinas Barriales DE Salto,"1:36,67"
+13,"Hartwich, Ian",16,Nadadores DE Young,"1:38,68"
+14,"Indarte, Diego",17,Nadadores DE Young,"x1:44,18"
+---,"Morales, Tomas",16,Club Atletico Esparta,DQ
+---,"Quincke, Bautista",18,Centro Sportivo Laureles,DQ
+---,"Alvarez, Bruno",16,Club Atletico Esparta,DQ
+
+1 Club Nacional Nueva Helvecia,A,Unnamed: 0,Unnamed: 1,"2:35,28 18"
+"1) Arrambide, Matilda 11","2) Shaw, Justina 11",,"3) Hernandez, Juliana 11","4) Viera, Nataly 11"
+2 Centro Sportivo Laureles,A,,,"2:40,11 14"
+"1) De Giovi, Sabrina 11","2) Dias, Francesca 11",,"3) Frascheri, Lara 11","4) Delgrosso, Isabella 11"
+3 Club Social y Deportivo Delfin,A,,,"2:43,04 12"
+"1) Pacaluk, Josefina 11","2) Pacaluk, Camila 11",,"3) Lopez, Bianca 11","4) Trigo, Julia 11"
+4 Carrasco Lawn Tennis Club,A,,,"2:57,49 10"
+"1) Young, Sara 11","2) Sonneveld, Sofía 11",,"3) Novak, Gabriela 11","4) Fleurquin, María 11"
+,,,,
+Evento 65  Niños 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+--- Club Social y Deportivo Delfin,A,,,"X2:40,57"
+"1) Picart, Emiliano 10","2) Sobrino, Lorenzo 10",,"3) Imken, Vicente 10","4) Barrett, Joaquin 10"
+--- Carrasco Lawn Tennis Club,A,,,"X2:54,71"
+"1) Kaplan, Lucas 10","2) Storace, Juan 10",,"3) Frick, Cipriano 10","4) Sanchez Varela, Antonio 10"
+--- Centro Sportivo Laureles,A,,,"X3:09,43"
+"1) Sagari, Mateo 10","2) Ferrer, Francisco 10",,"3) Dati, Benicio 10","4) Masalles, Jacinto 10"
+,,,,
+Evento 65  Niños 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Social y Deportivo Delfin,A,,,"2:30,56 18"
+"1) Nunez, Tomas 11","2) Cruz, Diego 11",,"3) Rodriguez, Thiago 11","4) Cairus, Valentino 11"
+2 Club Nacional Nueva Helvecia,A,,,"2:30,85 14"
+"1) Schmidt, Bruce 11","2) Schusselin, Renzo 11",,"3) Martinelli, Piero 11","4) Bertinat, Guillermo 11"
+3 Carrasco Lawn Tennis Club,A,,,"2:45,57 12"
+"1) Terra, Francisco 11","2) Canuti, Agustin 11",,"3) Vendito, Ignacio 11","4) Licio, Faustino 11"
+4 Centro Sportivo Laureles,A,,,"2:58,49 10"
+"1) Alvarez, Federico 11","2) Faber, Francisco 11",,"3) Castelli, Camilo 11","4) Mantinian, Timoteo 11"
+--- Club Atletico Esparta,A,,,"X2:48,11"
+
+2 Club Nacional Nueva Helvecia,A,Unnamed: 0,Unnamed: 1,"2:03,90 14"
+"1) Bertinat, Fiorella W14","2) Irigoyen, Tomas M14",,"3) Hurst, Belen W14","4) Sonderegger, Paulino M15"
+3 Club Social y Deportivo Delfin,A,,,"2:04,30 12"
+"1) Ferres, Benjamin M14","2) Espindola, Aldana W15",,"3) Buscio, Emilia W14","4) Martinez, Ignacio M14"
+4 Carrasco Lawn Tennis Club,A,,,"2:04,97 10"
+"1) Cubas, Baltasar M14","2) Gomensoro, Malena W15",,"3) Ruggiero, Giuliana W15","4) Paez, Juan Pedro M15"
+5 Club Atletico Esparta,A,,,"2:21,07 8"
+"1) Rodriguez, Luana W14","2) García, Santiago M15",,"3) Negrin, Martina W14","4) García, Facundo M14"
+6 Piscinas Barriales DE Salto,A,,,"2:22,47 6"
+"1) Chivel, Thiago M15","2) Casavalle, Nathali W14",,"3) Machado, Eva W15","4) Salayeta, Santiago M15"
+--- Nadadores DE Young,A,,,DQ
+"1) Mannise, Catalina W14","2) Laborda, Benjamin M14",,"3) Furtado, Camila W14","4) Benitez, Clemente M14"
+,,,,
+Evento 67  Mixto 19 & Mayores 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Social y Deportivo Delfin,A,,,"2:07,60 18"
+"1) Rostan, Gaston M29","2) Hernandez, Florencia W29",,"3) Ferreira, Francisco M21","4) Rossotti, Lucia W21"
+2 Carrasco Lawn Tennis Club,A,,,"2:08,55 14"
+"1) Rovella, María Paz W25","2) Jorcin, Valentina W24",,"3) Uria, Juan M32","4) Wansart, Erik M26"
+3 Club Nacional Nueva Helvecia,A,,,"2:10,17 12"
+"1) Lepratti, Manuela W19","2) Lopez, Selena W19",,"3) Font, Emanuel M20","4) Urtazu, Agustín M25"
+4 Centro Sportivo Laureles,A,,,"2:11,76 10"
+"1) Voelker, Julieta W22","2) Acosta, Caio M32",,"3) Gonzalez, Lucia W27","4) Pessi, Lucas M19"
+5 Nadadores DE Young,A,,,"2:13,04 8"
+"1) Suarez, Aldana W19","2) Salvatierra, Magdalena W20",,"3) Castroman, Santiago M19","4) Castroman, Nicolas M20"
+--- Club Atletico Esparta,A,,,DQ
+"1) Batiste, Fabrizio M23","2) Batiste, Nestor M29",,"3) Jourdan, Carolina W36","4) Muniz, Soledad W26"
+,,,,
+Evento 68  Niñas 12-13 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Centro Sportivo Laureles,A,,,"2:47,52 18"
+"1) Sagari, Belen 12","2) Colafrancheschi, Emilia 12",,"3) Timote, Priscila 13","4) Frascheri, Lara 11"
+2 Club Social y Deportivo Delfin,A,,,"2:48,31 14"
+"1) Flores, Luana 12","2) Demasi, Giulia 13",,"3) Dornel, Matilda 12","4) Perez, Danna 13"
+3 Nadadores DE Young,A,,,"3:03,08 12"
+"1) Suarez, Emilia 13","2) Medina, Angela 13",,"3) Bianchini, Anabela 12","4) Gonzalez, Emilia 12"
+4 Club Atletico Esparta,A,,,"3:19,41 10"
+"1) Gonzalez, Josefina 12","2) Gilles, Antonella 13",,"3) Stemphet, Nahiara 13","4) Hoffman, Lara 11"
+--- Carrasco Lawn Tennis Club,A,,,DQ
+"1) Yaquinta, Guadalupe 12","2) Dondo, Federica 12",,"3) Novak, Elena 13","4) Rodriguez, Candelaria 13"
+--- Club Nacional Nueva Helvecia,A,,,DQ
+,,,,
+Evento 68  Niñas 13 Años de Edad 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,
+1 Centro Sportivo Laureles,A,,,"2:47,52"
+"1) Sagari, Belen 12","2) Colafrancheschi, Emilia 12",,"3) Timote, Priscila 13","4) Frascheri, Lara 11"
+2 Club Social y Deportivo Delfin,A,,,"2:48,31"
+"1) Flores, Luana 12","2) Demasi, Giulia 13",,"3) Dornel, Matilda 12","4) Perez, Danna 13"
+3 Nadadores DE Young,A,,,"3:03,08"
+"1) Suarez, Emilia 13","2) Medina, Angela 13",,"3) Bianchini, Anabela 12","4) Gonzalez, Emilia 12"
+4 Club Atletico Esparta,A,,,"3:19,41"
+"1) Gonzalez, Josefina 12","2) Gilles, Antonella 13",,"3) Stemphet, Nahiara 13","4) Hoffman, Lara 11"
+--- Carrasco Lawn Tennis Club,A,,,DQ
+
+1,"Gonzalez, Sol",15,Centro Sportivo Laureles,"2:35,35",9
+2,"Ashby, Julieta",14,Centro Sportivo Laureles,"2:38,46",7.0
+3,"Ruggiero, Giuliana",15,Carrasco Lawn Tennis Club,"2:38,71",6.0
+4,"Espindola, Aldana",15,Club Social y Deportivo Delfin,"2:43,08",5.0
+5,"Gomensoro, Malena",15,Carrasco Lawn Tennis Club,"2:45,94",4.0
+6,"Mannise, Catalina",14,Nadadores DE Young,"2:46,87",3.0
+7,"Buscio, Emilia",14,Club Social y Deportivo Delfin,"2:47,82",2.0
+8,"Martens, Eloisa",14,Club Nacional Nueva Helvecia,"2:51,64",1.0
+9,"Amarillo, Lara",15,Club Social y Deportivo Delfin,"x2:57,60",
+10,"Ferreira, Martina",15,Centro Sportivo Laureles,"x2:58,94",
+11,"Acuna, Federica",14,Carrasco Lawn Tennis Club,"x2:59,69",
+12,"Machado, Eva",15,Piscinas Barriales DE Salto,"3:01,19",
+13,"Rodriguez, Maria Pia",15,Club Nacional Nueva Helvecia,"3:03,35",
+14,"Rodriguez, Luana",14,Club Atletico Esparta,"3:05,21",
+15,"Sosa, Candela",14,Piscinas Barriales DE Salto,"3:08,01",
+16,"Garcia, Emilia",14,Club Nacional Nueva Helvecia,"x3:08,59",
+
+--- Club Nacional Nueva Helvecia,A,Unnamed: 0,Unnamed: 1,DQ
+,,,,
+Evento 69  Niños 12-13 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,,Tiempo de Finales Puntos
+1 Centro Sportivo Laureles,A,,,"2:34,32 18"
+"1) Lagos, Mateo 13","2) Faber, Joaquin 13",,"3) Menini, Benjamin 13","4) Brun, Elias 12"
+2 Club Social y Deportivo Delfin,A,,,"2:43,80 14"
+"1) Castellanos, Benjamin 12","2) Malsenido, Maximiliano 12",,"3) Ferres, Justino 13","4) Beron, Joaquin 12"
+3 Carrasco Lawn Tennis Club,A,,,"2:43,81 12"
+"1) Terra, Matias 12","2) Canuti, Tomas 13",,"3) Grassi, Jeronimo 13","4) Paez, Tomas 12"
+4 Club Nacional Nueva Helvecia,A,,,"2:54,97 10"
+"1) Alvarino, Ignacio 12","2) Mederos, Benjamin 12",,"3) Vera, Sebastian 12","4) Rodriguez, Joaquin 12"
+5 Nadadores DE Young,A,,,"2:55,38 8"
+"1) García, Joaquín 13","2) Stemphelet, Bruno 13",,"3) Centurion, Maximo 12","4) Stemphelet, Genaro 13"
+6 Club Atletico Esparta,A,,,"2:58,72 6"
+"1) Soba, Agustin 12","2) Fuentes, Geronimo 12",,"3) Sonderegger, Ian 12","4) Torres, Luciano 13"
+--- Piscinas Barriales DE Salto,A,,,DQ
+"1) Carballo, Nicolas 12","2) Heredia, Patic 12",,"3) Quiroz, Max 13","4) Filipini, Miguel 13"
+,,,,
+Evento 69  Niños 13 Años de Edad 4x50 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,,Tiempo de Finales
+1 Centro Sportivo Laureles,A,,,"2:34,32"
+"1) Lagos, Mateo 13","2) Faber, Joaquin 13",,"3) Menini, Benjamin 13","4) Brun, Elias 12"
+2 Club Social y Deportivo Delfin,A,,,"2:43,80"
+"1) Castellanos, Benjamin 12","2) Malsenido, Maximiliano 12",,"3) Ferres, Justino 13","4) Beron, Joaquin 12"
+3 Carrasco Lawn Tennis Club,A,,,"2:43,81"
+"1) Terra, Matias 12","2) Canuti, Tomas 13",,"3) Grassi, Jeronimo 13","4) Paez, Tomas 12"
+4 Club Nacional Nueva Helvecia,A,,,"2:54,97"
+"1) Alvarino, Ignacio 12","2) Mederos, Benjamin 12",,"3) Vera, Sebastian 12","4) Rodriguez, Joaquin 12"
+5 Nadadores DE Young,A,,,"2:55,38"
+"1) García, Joaquín 13","2) Stemphelet, Bruno 13",,"3) Centurion, Maximo 12","4) Stemphelet, Genaro 13"
+6 Club Atletico Esparta,A,,,"2:58,72"
+"1) Soba, Agustin 12","2) Fuentes, Geronimo 12",,"3) Sonderegger, Ian 12","4) Torres, Luciano 13"
+--- Piscinas Barriales DE Salto,A,,,DQ
+
+"1 Coll, Sebastian",15,Centro Sportivo Laureles,Unnamed: 0,"2:20,14",9
+"2 Paez, Juan Pedro",15,Carrasco Lawn Tennis Club,,"2:22,63",7
+"3 Martinez, Ignacio",14,Club Social y Deportivo Delfin,,"2:23,16",6
+"4 Cubas, Baltasar",14,Carrasco Lawn Tennis Club,,"2:26,73",5
+"5 Gandulfo, Mateo",15,Centro Sportivo Laureles,,"2:26,93",4
+"6 Biardo, Benjamin",15,Club Social y Deportivo Delfin,,"2:33,01",3
+"7 Sposito, Valentino",15,Carrasco Lawn Tennis Club,,"x2:33,06",
+"8 Ferres, Benjamin",14,Club Social y Deportivo Delfin,,"x2:35,47",
+"9 Salayeta, Santiago",15,Piscinas Barriales DE Salto,,"2:35,54",2
+"10 Sonderegger, Paulino",15,Club Nacional Nueva Helvecia,,"2:38,07",1
+"11 Llovinsky, Juan",15,Piscinas Barriales DE Salto,,"2:39,08",
+"12 Dati, Genaro",15,Centro Sportivo Laureles,,"x2:39,38",
+"13 Irigoyen, Tomas",14,Club Nacional Nueva Helvecia,,"2:43,03",
+"14 Chivel, Thiago",15,Piscinas Barriales DE Salto,,"x2:57,29",
+"15 Hernandez, Mateo",14,Club Nacional Nueva Helvecia,,"x3:06,69",
+,,,,,
+Evento 72  Mujeres 19 & Mayores 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Hernandez, Florencia",29,Club Social y Deportivo Delfin,,"1:25,93",9
+"2 Lopez, Selena",19,Club Nacional Nueva Helvecia,,"1:26,59",7
+"3 Salvatierra, Magdalena",20,Nadadores DE Young,,"1:29,84",6
+"4 Jorcin, Valentina",24,Carrasco Lawn Tennis Club,,"1:29,94",5
+"5 Rossotti, Lucia",21,Club Social y Deportivo Delfin,,"1:31,70",4
+"6 Quincke, Milena",23,Centro Sportivo Laureles,,"1:32,73",3
+"7 Voelker, Julieta",22,Centro Sportivo Laureles,,"1:32,75",2
+"8 Vila, Isabel",19,Nadadores DE Young,,"1:35,02",1
+"9 Sierra, Florencia",27,Centro Sportivo Laureles,,"x1:35,07",
+"10 Cufre, María Lucía",22,Club Nacional Nueva Helvecia,,"1:36,21",
+"11 Molina, Yania",19,Club Atletico Esparta,,"1:38,53",
+"12 Diaz, Lucia",19,Carrasco Lawn Tennis Club,,"1:39,16",
+,,,,,
+Evento 73  Hombres 19 & Mayores 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Batiste, Nestor",29,Club Atletico Esparta,,"1:08,07",9
+"2 Uria, Juan",32,Carrasco Lawn Tennis Club,,"1:11,33",7
+"3 Batiste, Fabrizio",23,Club Atletico Esparta,,"1:12,98",6
+"4 Jorcin, Santiago",19,Carrasco Lawn Tennis Club,,"1:15,40",5
+"5 Chiancone, Nicolas",31,Carrasco Lawn Tennis Club,,"x1:16,12",
+"6 Iglesias, Darwin",30,Club Nacional Nueva Helvecia,,"1:17,29",4
+"7 Rostan, Gaston",29,Club Social y Deportivo Delfin,,"1:17,43",3
+"8 Fanetti, Ignacio",20,Club Social y Deportivo Delfin,,"1:17,57",2
+"9 Ferreira, Francisco",21,Club Social y Deportivo Delfin,,"x1:17,83",
+"10 Font, Emanuel",20,Club Nacional Nueva Helvecia,,"1:18,66",1
+"11 Appoloni, Eduardo",37,Club Nacional Nueva Helvecia,,"x1:20,50",
+"12 Acosta, Caio",32,Centro Sportivo Laureles,,"1:20,78",
+"13 Mendiondo, Federico",22,Centro Sportivo Laureles,,"1:23,19",
+"14 Silveira, Agustin",23,Club Atletico Esparta,,"x1:24,67",
+"15 Ritez, Mateo",22,Nadadores DE Young,,"1:27,17",
+"16 Estigarriba, Martin",35,Nadadores DE Young,,"1:30,22",
+"17 Peruchena, Nicolas",28,Piscinas Barriales DE Salto,,"1:31,12",
+
+"1 Bianchini, Giulianna",10,Nadadores DE Young,Unnamed: 0,"1:41,65",Unnamed: 1
+"2 Urrutia, Francesca",10,Club Nacional Nueva Helvecia,,"1:44,88",
+"3 Lemes, Matilda",10,Club Nacional Nueva Helvecia,,"1:46,90",
+"4 Ameglio, Guadalupe",10,Carrasco Lawn Tennis Club,,"1:48,38",
+"5 Baldomir, Mora",10,Carrasco Lawn Tennis Club,,"1:49,28",
+"6 Cubas, Catalina",10,Carrasco Lawn Tennis Club,,"x1:51,34",
+"7 Gabriel, Ma Ines",10,Club Nacional Nueva Helvecia,,"x1:54,00",
+"8 Moreira, Luana",10,Club Social y Deportivo Delfin,,"1:58,68",
+"9 Centurion, Isabella",10,Nadadores DE Young,,"1:59,00",
+"10 Bosco, Ana Julia",10,Centro Sportivo Laureles,,"2:09,97",
+"11 Garbarino, Olivia",10,Centro Sportivo Laureles,,"2:13,77",
+"12 Castillo, Yuliana",10,Club Social y Deportivo Delfin,,"2:21,63",
+"13 Damasco, Bianca",10,Club Social y Deportivo Delfin,,"x2:25,20",
+"14 Mendiondo, Paula",10,Centro Sportivo Laureles,,"x2:37,17",
+,,,,,
+Evento 75  Hombres 10 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Kaplan, Lucas",10,Carrasco Lawn Tennis Club,,"1:41,00",
+"2 Sobrino, Lorenzo",10,Club Social y Deportivo Delfin,,"1:43,09",
+"3 Barrett, Joaquin",10,Club Social y Deportivo Delfin,,"1:43,49",
+"4 Sonderegger, Thiago",10,Club Atletico Esparta,,"1:43,88",
+"5 Sagari, Mateo",10,Centro Sportivo Laureles,,"1:48,89",
+"6 Picart, Emiliano",10,Club Social y Deportivo Delfin,,"x1:52,24",
+"7 Daghero, Genaro",10,Club Nacional Nueva Helvecia,,"1:54,98",
+"8 Storace, Juan",10,Carrasco Lawn Tennis Club,,"1:58,91",
+"9 Vera Fostel, Santiago",10,Club Nacional Nueva Helvecia,,"1:58,94",
+"10 Masalles, Jacinto",10,Centro Sportivo Laureles,,"1:59,39",
+"11 Sanchez Varela, Antonio",10,Carrasco Lawn Tennis Club,,"x2:01,19",
+"12 Burgos, Nicolas",10,Centro Sportivo Laureles,,"x2:35,23",
+,,,,,
+Evento 76  Mujeres 11 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Frascheri, Lara",11,Centro Sportivo Laureles,,"1:30,81",9
+"2 Viera, Nataly",11,Club Nacional Nueva Helvecia,,"1:37,87",7
+"3 De Giovi, Sabrina",11,Centro Sportivo Laureles,,"1:39,54",6
+"4 Trigo, Julia",11,Club Social y Deportivo Delfin,,"1:43,01",5
+"5 Arrambide, Matilda",11,Club Nacional Nueva Helvecia,,"1:43,16",4
+"6 Hernandez, Juliana",11,Club Nacional Nueva Helvecia,,"x1:44,03",
+"7 Fleurquin, María",11,Carrasco Lawn Tennis Club,,"1:53,57",3
+"8 Seigal, Helena",11,Carrasco Lawn Tennis Club,,"2:07,15",2
+"9 Novak, Gabriela",11,Carrasco Lawn Tennis Club,,"x2:14,01",
+"--- Pacaluk, Josefina",11,Club Social y Deportivo Delfin,,DQ,
+"--- Pacaluk, Camila",11,Club Social y Deportivo Delfin,,DQ,
+,,,,,
+Evento 77  Hombres 11 Años de Edad 100 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Bertinat, Guillermo",11,Club Nacional Nueva Helvecia,,"1:33,43",9
+"2 Cairus, Valentino",11,Club Social y Deportivo Delfin,,"1:36,73",7
+"3 Cruz, Diego",11,Club Social y Deportivo Delfin,,"1:45,30",6
+"4 Martinelli, Piero",11,Club Nacional Nueva Helvecia,,"1:45,68",5
+"5 Schmidt, Bruce",11,Club Nacional Nueva Helvecia,,"x1:46,30",
+"6 Canuti, Agustin",11,Carrasco Lawn Tennis Club,,"1:48,86",4
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+7,"Licio, Faustino  11",Carrasco Lawn Tennis Club,,"1:50,32",3
+8,"Terra, Francisco  11",Carrasco Lawn Tennis Club,,"x1:51,08",
+9,"Hernandez, Juan Pedro  11",Club Atletico Esparta,,"1:52,72",2
+10,"Castelli, Camilo  11",Centro Sportivo Laureles,,"1:54,35",1
+11,"Faber, Francisco  11",Centro Sportivo Laureles,,"1:59,27",
+---,"Gardiol, Juan  11",Club Atletico Esparta,,DQ,
+---,"Domini, Facundo  11",Club Atletico Esparta,,DQ,
+---,"Kobar, Benjamin  11",Piscinas Barriales DE Salto,,DQ,
+---,"Etcheverry, Clemente  11",Centro Sportivo Laureles,,DQ,
+---,"Rodriguez, Thiago  11",Club Social y Deportivo Delfin,,DQ,
+nto 78  Mujeres 16-18 100 CC Metro Estilo de Mariposa,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Barrientos, Catalina  18",Club Social y Deportivo Delfin,,"1:21,63",9
+2,"Vidiella, Federica  17",Carrasco Lawn Tennis Club,,"1:24,71",7
+3,"Flores, Chiara  17",Club Social y Deportivo Delfin,,"1:24,91",6
+4,"Silvera, Valentina  18",Club Nacional Nueva Helvecia,,"1:25,06",5
+5,"Estol, Lucia  16",Carrasco Lawn Tennis Club,,"1:26,05",4
+6,"Velazquez, Federica  18",Club Nacional Nueva Helvecia,,"1:26,84",3
+7,"Font, Valentina  16",Club Nacional Nueva Helvecia,,"x1:27,09",
+8,"Delfino, Florencia  18",Centro Sportivo Laureles,,"1:28,20",2
+9,"Keiran, Pia  18",Centro Sportivo Laureles,,"1:29,97",1
+10,"Centurion, Matilde  18",Club Atletico Esparta,,"1:39,44",
+nto 79  Hombres 16-18 100 CC Metro Estilo de Mariposa,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Cuadra, Sebastian  18",Carrasco Lawn Tennis Club,,"1:05,12",9
+2,"Puyol, Caio  18",Club Social y Deportivo Delfin,,"1:09,75",7
+3,"Vittori, Giuliano  16",Club Social y Deportivo Delfin,,"1:10,40",6
+4,"Seigal, Pedro  18",Carrasco Lawn Tennis Club,,"1:12,13",5
+5,"Quincke, Bautista  18",Centro Sportivo Laureles,,"1:15,07",4
+6,"Rostan, Matias  18",Club Social y Deportivo Delfin,,"x1:15,46",
+7,"Stemphet, Iann Paul  17",Club Atletico Esparta,,"1:20,06",3
+8,"Martinez, Alan  18",Club Atletico Esparta,,"1:21,94",2
+9,"Cavalheiro, Federico  17",Piscinas Barriales DE Salto,,"1:28,50",1
+10,"Garcia, Rodrigo  17",Club Atletico Esparta,,"x1:36,77",
+11,"Rodríguez, Juan Pablo  17",Club Nacional Nueva Helvecia,,"1:40,91",
+---,"Grassi, Valentin  16",Carrasco Lawn Tennis Club,,DQ,
+nto 80  Niñas 12 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,
+1,"Yaquinta, Guadalupe  12",Carrasco Lawn Tennis Club,,"37,82",
+2,"Flores, Luana  12",Club Social y Deportivo Delfin,,"40,23",
+3,"Sagari, Belen  12",Centro Sportivo Laureles,,"41,63",
+4,"Dornel, Matilda  12",Club Social y Deportivo Delfin,,"43,06",
+5,"Gerfauo, Aitana  12",Club Social y Deportivo Delfin,,"x43,12",
+6,"DE Souza, Guadalupe  12",Centro Sportivo Laureles,,"44,58",
+7,"Ferrer, Paulina  12",Centro Sportivo Laureles,,"x45,07",
+8,"Dondo, Federica  12",Carrasco Lawn Tennis Club,,"x45,99",
+9,"Vieito, Luzmila  12",Club Nacional Nueva Helvecia,,"x46,35",
+10,"Bianchini, Anabela  12",Nadadores DE Young,,"47,01",
+11,"Piriz, Ines  12",Club Nacional Nueva Helvecia,,"x48,14",
+
+"12 Ingold, Luisina",12,Club Nacional Nueva Helvecia,Unnamed: 0,"x50,54",Unnamed: 1
+"13 Gonzalez, Emilia",12,Nadadores DE Young,,"x53,36",
+"--- Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 80  Niñas 12-13 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Yaquinta, Guadalupe",12,Carrasco Lawn Tennis Club,,"37,82",9
+"2 Suarez, Emilia",13,Nadadores DE Young,,"39,16",7
+"3 Flores, Luana",12,Club Social y Deportivo Delfin,,"40,23",6
+"4 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"40,85",5
+"5 Sagari, Belen",12,Centro Sportivo Laureles,,"41,63",4
+"6 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"42,15",3
+"7 Dornel, Matilda",12,Club Social y Deportivo Delfin,,"43,06",2
+"8 Gerfauo, Aitana",12,Club Social y Deportivo Delfin,,"x43,12",
+"9 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"44,45",1
+"10 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"44,58",
+"11 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x45,07",
+"12 Timote, Priscila",13,Centro Sportivo Laureles,,"x45,49",
+"13 Barrios, Valentina",13,Club Social y Deportivo Delfin,,"x45,76",
+"14 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x45,87",
+"15 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x45,99",
+"16 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x46,01",
+"17 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"x46,35",
+"18 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x46,63",
+"19 Stemphet, Nahiara",13,Club Atletico Esparta,,"46,77",
+"20 Bianchini, Anabela",12,Nadadores DE Young,,"47,01",
+"21 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x47,53",
+"22 Piriz, Ines",12,Club Nacional Nueva Helvecia,,"x48,14",
+"23 Ingold, Luisina",12,Club Nacional Nueva Helvecia,,"x50,54",
+"24 Gonzalez, Emilia",12,Nadadores DE Young,,"x53,36",
+"--- Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,DQ,
+"--- De Leon, Emilia",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 80  Niñas 13 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Suarez, Emilia",13,Nadadores DE Young,,"39,16",
+"2 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"40,85",
+"3 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"42,15",
+"4 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"44,45",
+"5 Timote, Priscila",13,Centro Sportivo Laureles,,"x45,49",
+"6 Barrios, Valentina",13,Club Social y Deportivo Delfin,,"x45,76",
+"7 Rimoldi, Josefina",13,Club Social y Deportivo Delfin,,"x45,87",
+"8 Novak, Elena",13,Carrasco Lawn Tennis Club,,"x46,01",
+"9 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x46,63",
+"10 Stemphet, Nahiara",13,Club Atletico Esparta,,"46,77",
+"11 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x47,53",
+"--- De Leon, Emilia",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 81  Niños 12 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"38,36",
+"2 Terra, Matias",12,Carrasco Lawn Tennis Club,,"40,97",
+
+"3 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,Unnamed: 0,"41,89",Unnamed: 1
+"4 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"41,90",
+"5 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"x43,86",
+"6 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"44,99",
+"7 Leguizamon, Axel",12,Club Social y Deportivo Delfin,,"x45,51",
+"8 Brun, Elias",12,Centro Sportivo Laureles,,"x45,86",
+"9 Soba, Agustin",12,Club Atletico Esparta,,"45,92",
+"10 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x48,09",
+"11 Espinosa, Ian",12,Club Atletico Esparta,,"x48,71",
+"12 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"x49,45",
+"13 Pereira, Anthony",12,Centro Sportivo Laureles,,"x49,81",
+"14 Centena, Sebastian",12,Centro Sportivo Laureles,,"x50,48",
+"15 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x51,39",
+"16 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"56,71",
+"--- Sonderegger, Ian",12,Club Atletico Esparta,,DQ,
+,,,,,
+Evento 81  Niños 12-13 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"34,64",9
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"35,89",7
+"3 Centurion, Maximo",12,Nadadores DE Young,,"38,36",6
+"4 Faber, Joaquin",13,Centro Sportivo Laureles,,"x38,83",
+"5 Terra, Matias",12,Carrasco Lawn Tennis Club,,"40,97",5
+"6 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"41,41",4
+"*7 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"41,89",2 .50
+"*7 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"41,89",2 .50
+"9 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"41,90",1
+"10 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"x43,86",
+"11 Ferres, Justino",13,Club Social y Deportivo Delfin,,"x44,76",
+"12 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"44,99",
+"13 Leguizamon, Axel",12,Club Social y Deportivo Delfin,,"x45,51",
+"14 Brun, Elias",12,Centro Sportivo Laureles,,"x45,86",
+"15 Soba, Agustin",12,Club Atletico Esparta,,"45,92",
+"16 García, Joaquín",13,Nadadores DE Young,,"47,91",
+"17 Besson, Bautista",12,Carrasco Lawn Tennis Club,,"x48,09",
+"18 Yohnatan, Casals",13,Club Atletico Esparta,,"48,28",
+"19 Espinosa, Ian",12,Club Atletico Esparta,,"x48,71",
+"20 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"49,20",
+"21 Mederos, Benjamin",12,Club Nacional Nueva Helvecia,,"x49,45",
+"22 Pereira, Anthony",12,Centro Sportivo Laureles,,"x49,81",
+"23 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,"x49,93",
+"24 Centena, Sebastian",12,Centro Sportivo Laureles,,"x50,48",
+"25 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x51,33",
+"26 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x51,39",
+"27 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x51,58",
+"28 Torres, Luciano",13,Club Atletico Esparta,,"x55,38",
+"29 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"56,71",
+"--- Sonderegger, Ian",12,Club Atletico Esparta,,DQ,
+,,,,,
+Evento 81  Niños 13 Años de Edad 50 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"34,64",
+
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,"35,89"
+"3 Faber, Joaquin",13,Centro Sportivo Laureles,"x38,83"
+"4 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,"41,41"
+"5 Castillo, Mauricio",13,Club Social y Deportivo Delfin,"41,89"
+"6 Ferres, Justino",13,Club Social y Deportivo Delfin,"x44,76"
+"7 García, Joaquín",13,Nadadores DE Young,"47,91"
+"8 Yohnatan, Casals",13,Club Atletico Esparta,"48,28"
+"9 Filipini, Miguel",13,Piscinas Barriales DE Salto,"49,20"
+"10 Restano, Jose Juan",13,Carrasco Lawn Tennis Club,"x49,93"
+"11 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,"x51,33"
+"12 Canuti, Tomas",13,Carrasco Lawn Tennis Club,"x51,58"
+"13 Torres, Luciano",13,Club Atletico Esparta,"x55,38"
+,,,
+Evento 82  Mujeres 14-15 4x100 CC Metro Estilo Libre Relevo,,,
+Equipo,,Relevo,Tiempo de Finales Puntos
+1 Centro Sportivo Laureles,,A,"4:57,73 18"
+"1) Gonzalez, Sol 15","2) Ferreira, Martina 15",,"3) Borsani, Bianca 15 4) Ashby, Julieta 14"
+2 Carrasco Lawn Tennis Club,,A,"4:59,12 14"
+"1) Acuna, Federica 14","2) Yaquinta, Guadalupe 12",,"3) Gomensoro, Malena 15 4) Ruggiero, Giuliana 15"
+3 Club Nacional Nueva Helvecia,,A,"4:59,20 12"
+"1) Martens, Eloisa 14","2) Hurst, Belen 14",,"3) Rodriguez, Maria Pia 15 4) Bertinat, Fiorella 14"
+4 Club Social y Deportivo Delfin,,A,"5:06,30 10"
+"1) Buscio, Emilia 14","2) Amarillo, Lara 15",,"3) Espindola, Aldana 15 4) Vazquez, Pierina 14"
+5 Club Atletico Esparta,,A,"5:58,60 8"
+"1) Rodriguez, Luana 14","2) Stemphet, Nahiara 13",,"3) Negrin, Martina 14 4) Hernandez, Mia 14"
+,,,
+Evento 83  Hombres 14-15 4x100 CC Metro Estilo Libre Relevo,,,
+Equipo,,Relevo,Tiempo de Finales Puntos
+1 Centro Sportivo Laureles,,A,"4:19,65 18"
+"1) Gandulfo, Mateo 15","2) Menini, Benjamin 13",,"3) Voelker, Felipe 15 4) Coll, Sebastian 15"
+2 Carrasco Lawn Tennis Club,,A,"4:26,28 14"
+"1) Sposito, Valentino 15","2) Cubas, Baltasar 14",,"3) Rodriguez, Juan Segundo 15 4) Paez, Juan Pedro 15"
+3 Club Social y Deportivo Delfin,,A,"4:30,70 12"
+"1) Ferres, Benjamin 14","2) Demasi, Valentino 15",,"3) Biardo, Benjamin 15 4) Martinez, Ignacio 14"
+4 Club Nacional Nueva Helvecia,,A,"4:57,01 10"
+5 Club Atletico Esparta,,A,"5:30,72 8"
+6 Nadadores DE Young,,A,"5:33,01 6"
+--- Piscinas Barriales DE Salto,,A,DQ
+
+1,Carrasco Lawn Tennis Club,A,Unnamed: 0,"1:50,40 18"
+,"1) Chiancone, Federico M29","2) Wansart, Erik M26","3) Diaz, Lucia W19","4) Rovella, María Paz W25"
+2.0,Club Social y Deportivo Delfin,A,,"1:50,55 14"
+,"1) Rostan, Gaston M29","2) Rossotti, Lucia W21","3) Mott, Priscila W27","4) Ferreira, Francisco M21"
+3.0,Centro Sportivo Laureles,A,,"1:52,92 12"
+,"1) Gonzalez, Lucia W27","2) Quincke, Tomas M21","3) Kulik, Guadalupe W20","4) Pessi, Lucas M19"
+4.0,Nadadores DE Young,A,,"1:56,36 10"
+,"1) Ritez, Mateo M22","2) Vila, Isabel W19","3) Salvatierra, Magdalena W20","4) Castroman, Nicolas M20"
+5.0,Club Nacional Nueva Helvecia,A,,"1:56,55 8"
+,"1) Rodriguez, Santiago M22","2) Lepratti, Manuela W19","3) Lopez, Selena W19","4) Urtazu, Agustín M25"
+6.0,Club Atletico Esparta,A,,"2:11,88 6"
+
+1 Club Nacional Nueva Helvecia,A,Unnamed: 0,"1:16,36",18
+2 Club Social y Deportivo Delfin,A,,"1:20,69",14
+3 Carrasco Lawn Tennis Club,A,,"1:20,77",12
+4 Centro Sportivo Laureles,A,,"1:22,79",10
+5 Club Atletico Esparta,A,,"1:40,35",8
+--- Club Nacional Nueva Helvecia,B,,"X1:24,39",
+--- Carrasco Lawn Tennis Club,B,,"X1:25,50",
+--- Club Social y Deportivo Delfin,B,,"X1:29,90",
+--- Centro Sportivo Laureles,B,,"X1:35,47",
+--- Nadadores DE Young,B,,"X1:41,38",
+,,,,
+Evento 86  Mujeres 14-15 100 CC Metro Estilo Libre,,,,
+Nombre,Edad Equipo,,Tiempo de Finales,Puntos
+"1 Ruggiero, Giuliana",15 Carrasco Lawn Tennis Club,,"1:07,71",9
+"2 Gonzalez, Sol",15 Centro Sportivo Laureles,,"1:08,51",7
+"3 Ashby, Julieta",14 Centro Sportivo Laureles,,"1:09,37",6
+"4 Bertinat, Fiorella",14 Club Nacional Nueva Helvecia,,"1:11,59",5
+"5 Espindola, Aldana",15 Club Social y Deportivo Delfin,,"1:12,11",4
+"6 Mannise, Catalina",14 Nadadores DE Young,,"1:13,19",3
+"7 Martens, Eloisa",14 Club Nacional Nueva Helvecia,,"1:14,49",2
+"8 Buscio, Emilia",14 Club Social y Deportivo Delfin,,"1:15,17",1
+"9 Gomensoro, Malena",15 Carrasco Lawn Tennis Club,,"1:15,21",
+"10 Borsani, Bianca",15 Centro Sportivo Laureles,,"x1:17,21",
+"11 Acuna, Federica",14 Carrasco Lawn Tennis Club,,"x1:19,07",
+"12 Machado, Eva",15 Piscinas Barriales DE Salto,,"1:19,10",
+"13 Rodriguez, Luana",14 Club Atletico Esparta,,"1:19,55",
+"14 Vazquez, Pierina",14 Club Social y Deportivo Delfin,,"x1:20,04",
+"15 Oyola, Constanza",14 Club Nacional Nueva Helvecia,,"x1:26,39",
+"16 Sosa, Candela",14 Piscinas Barriales DE Salto,,"1:26,84",
+"17 Negrin, Martina",14 Club Atletico Esparta,,"1:31,24",
+"18 Casavalle, Nathali",14 Piscinas Barriales DE Salto,,"x1:39,50",
+"19 Furtado, Camila",14 Nadadores DE Young,,"1:45,10",
+,,,,
+Evento 87  Hombres 14-15 100 CC Metro Estilo Libre,,,,
+Nombre,Edad Equipo,,Tiempo de Finales,Puntos
+"1 Paez, Juan Pedro",15 Carrasco Lawn Tennis Club,,"59,48",9
+"2 Coll, Sebastian",15 Centro Sportivo Laureles,,"59,99",7
+"3 Martinez, Ignacio",14 Club Social y Deportivo Delfin,,"1:05,54",6
+"4 Sonderegger, Paulino",15 Club Nacional Nueva Helvecia,,"1:06,08",5
+"5 Cubas, Baltasar",14 Carrasco Lawn Tennis Club,,"1:06,10",4
+"6 Voelker, Felipe",15 Centro Sportivo Laureles,,"1:06,58",3
+"7 Demasi, Valentino",15 Club Social y Deportivo Delfin,,"1:07,08",2
+"8 Gandulfo, Mateo",15 Centro Sportivo Laureles,,"x1:07,66",
+"9 Sposito, Valentino",15 Carrasco Lawn Tennis Club,,"x1:08,11",
+"10 Llovinsky, Juan",15 Piscinas Barriales DE Salto,,"1:08,18",1
+"11 Salayeta, Santiago",15 Piscinas Barriales DE Salto,,"1:09,14",
+"12 Biardo, Benjamin",15 Club Social y Deportivo Delfin,,"x1:09,68",
+"13 Irigoyen, Tomas",14 Club Nacional Nueva Helvecia,,"1:10,37",
+"14 Soto, Tiziano",14 Piscinas Barriales DE Salto,,"x1:11,48",
+"15 García, Santiago",15 Club Atletico Esparta,,"1:14,75",
+"16 Lepratti, Benjamin",14 Club Nacional Nueva Helvecia,,"x1:16,79",
+
+"17 Benitez, Clemente",14,Nadadores DE Young,Unnamed: 0,"1:19,71",Unnamed: 1
+"18 García, Facundo",14,Club Atletico Esparta,,"1:22,16",
+"19 Medina, Tomas",14,Nadadores DE Young,,"1:23,42",
+"20 Laborda, Benjamin",14,Nadadores DE Young,,"x1:29,19",
+,,,,,
+Evento 88  Mujeres 16-18 200 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Font, Valentina",16,Club Nacional Nueva Helvecia,,"2:53,49",9
+"2 Gallino, Camila",17,Piscinas Barriales DE Salto,,"2:54,98",7
+"3 Silvera, Valentina",18,Club Nacional Nueva Helvecia,,"3:01,46",6
+"4 Estol, Lucia",16,Carrasco Lawn Tennis Club,,"3:02,21",5
+"5 Keiran, Pia",18,Centro Sportivo Laureles,,"3:02,91",4
+"6 Flores, Chiara",17,Club Social y Deportivo Delfin,,"3:04,11",3
+"7 Vidiella, Felicia",17,Carrasco Lawn Tennis Club,,"3:06,22",2
+"8 Keiran, Julieta",17,Centro Sportivo Laureles,,"3:12,66",1
+"9 Delfino, Florencia",18,Centro Sportivo Laureles,,"x3:19,93",
+"10 Bizoza, Maia",17,Club Atletico Esparta,,"3:23,94",
+"11 Centurion, Matilde",18,Club Atletico Esparta,,"3:27,41",
+"12 Heredia, Magdalena",17,Piscinas Barriales DE Salto,,"3:42,92",
+,,,,,
+Evento 89  Hombres 16-18 200 CC Metro CI,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Cuadra, Sebastian",18,Carrasco Lawn Tennis Club,,"2:30,29",9
+"2 Puyol, Caio",18,Club Social y Deportivo Delfin,,"2:34,18",7
+"3 Rostan, Matias",18,Club Social y Deportivo Delfin,,"2:44,61",6
+"4 Vittori, Giuliano",16,Club Social y Deportivo Delfin,,"x2:45,42",
+"5 Quincke, Bautista",18,Centro Sportivo Laureles,,"2:46,12",5
+"6 Stemphet, Iann Paul",17,Club Atletico Esparta,,"2:49,86",4
+"7 Seigal, Pedro",18,Carrasco Lawn Tennis Club,,"2:51,24",3
+"8 Grassi, Valentin",16,Carrasco Lawn Tennis Club,,"x2:52,24",
+"9 Cavalheiro, Federico",17,Piscinas Barriales DE Salto,,"2:52,43",2
+"10 Morales, Tomas",16,Club Atletico Esparta,,"2:56,14",1
+"11 Martinez, Alan",18,Club Atletico Esparta,,"x3:04,81",
+"12 Soto, Maximo",16,Piscinas Barriales DE Salto,,"3:07,65",
+,,,,,
+Evento 90  Mujeres 10 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Irigoyen, Ema",10,Club Nacional Nueva Helvecia,,"19,65",
+"2 Bianchini, Giulianna",10,Nadadores DE Young,,"20,12",
+"3 Lemes, Matilda",10,Club Nacional Nueva Helvecia,,"21,80",
+"4 Ameglio, Guadalupe",10,Carrasco Lawn Tennis Club,,"21,86",
+"5 Baldomir, Mora",10,Carrasco Lawn Tennis Club,,"22,25",
+"6 Lopez, Celin",10,Club Nacional Nueva Helvecia,,"x22,48",
+"7 Moreira, Luana",10,Club Social y Deportivo Delfin,,"23,00",
+"8 Centurion, Isabella",10,Nadadores DE Young,,"23,58",
+"9 Cubas, Catalina",10,Carrasco Lawn Tennis Club,,"x23,76",
+"10 Garbarino, Olivia",10,Centro Sportivo Laureles,,"26,31",
+"11 Bosco, Ana Julia",10,Centro Sportivo Laureles,,"26,58",
+"12 Malan, Clara",10,Club Atletico Esparta,,"30,90",
+"13 Zapata, Renata",10,Club Social y Deportivo Delfin,,"31,11",
+"14 Mendiondo, Paula",10,Centro Sportivo Laureles,,"x34,73",
+
+"1 Picart, Emiliano",10,Club Social y Deportivo Delfin,Unnamed: 0,"20,74",Unnamed: 1
+"*2 Sobrino, Lorenzo",10,Club Social y Deportivo Delfin,,"21,01",
+"*2 Kaplan, Lucas",10,Carrasco Lawn Tennis Club,,"21,01",
+"4 Sonderegger, Thiago",10,Club Atletico Esparta,,"21,53",
+"5 Daghero, Genaro",10,Club Nacional Nueva Helvecia,,"21,86",
+"6 Barrett, Joaquin",10,Club Social y Deportivo Delfin,,"x23,74",
+"7 Vera Fostel, Santiago",10,Club Nacional Nueva Helvecia,,"24,85",
+"8 Sanchez Varela, Antonio",10,Carrasco Lawn Tennis Club,,"25,35",
+"9 Vidiella, Joaquin",10,Carrasco Lawn Tennis Club,,"x25,81",
+"10 Pintos, Ignacio",10,Nadadores DE Young,,"27,76",
+"11 Dati, Benicio",10,Centro Sportivo Laureles,,"30,65",
+"12 Ferrer, Francisco",10,Centro Sportivo Laureles,,"32,32",
+"13 Tiscornia, Santino",10,Centro Sportivo Laureles,,"x33,25",
+,,,,,
+Evento 92  Mujeres 11 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Frascheri, Lara",11,Centro Sportivo Laureles,,"17,65",9
+"2 Viera, Nataly",11,Club Nacional Nueva Helvecia,,"18,32",7
+"3 De Giovi, Sabrina",11,Centro Sportivo Laureles,,"20,03",6
+"4 Trigo, Julia",11,Club Social y Deportivo Delfin,,"20,06",5
+"5 Fleurquin, María",11,Carrasco Lawn Tennis Club,,"20,38",4
+"6 Pacaluk, Camila",11,Club Social y Deportivo Delfin,,"20,78",3
+"7 Arrambide, Matilda",11,Club Nacional Nueva Helvecia,,"20,87",2
+"8 Hernandez, Juliana",11,Club Nacional Nueva Helvecia,,"x22,38",
+"9 Pacaluk, Josefina",11,Club Social y Deportivo Delfin,,"x23,91",
+"10 Novak, Gabriela",11,Carrasco Lawn Tennis Club,,"25,01",1
+"11 Young, Sara",11,Carrasco Lawn Tennis Club,,"x27,59",
+"12 Llovinsky, Juliana",11,Piscinas Barriales DE Salto,,"32,78",
+,,,,,
+Evento 93  Hombres 11 Años de Edad 25 CC Metro Estilo de Mariposa,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Bertinat, Guillermo",11,Club Nacional Nueva Helvecia,,"17,98",9
+"2 Licio, Faustino",11,Carrasco Lawn Tennis Club,,"18,64",7
+"3 Cairus, Valentino",11,Club Social y Deportivo Delfin,,"19,03",6
+"4 Cruz, Diego",11,Club Social y Deportivo Delfin,,"19,53",5
+"5 Hernandez, Juan Pedro",11,Club Atletico Esparta,,"20,61",4
+"6 Schusselin, Renzo",11,Club Nacional Nueva Helvecia,,"20,69",3
+"7 Kobar, Benjamin",11,Piscinas Barriales DE Salto,,"21,47",2
+"8 Castelli, Camilo",11,Centro Sportivo Laureles,,"22,02",1
+"9 Schmidt, Bruce",11,Club Nacional Nueva Helvecia,,"x22,03",
+"10 Canuti, Agustin",11,Carrasco Lawn Tennis Club,,"22,60",
+"11 Terra, Francisco",11,Carrasco Lawn Tennis Club,,"x22,95",
+"12 Rodriguez, Thiago",11,Club Social y Deportivo Delfin,,"x23,29",
+"13 Gardiol, Juan",11,Club Atletico Esparta,,"25,98",
+"14 Mantinian, Timoteo",11,Centro Sportivo Laureles,,"26,70",
+"15 Domini, Facundo",11,Club Atletico Esparta,,"x29,35",
+"--- Faber, Francisco",11,Centro Sportivo Laureles,,DQ,
+,,,,,
+Evento 94  Mujeres 19 & Mayores 100 CC Metro Estilo de Espalda,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+
+Unnamed: 0,Nombre Edad,Equipo,Unnamed: 1,Tiempo de Finales,Puntos
+3,"Voelker, Julieta  22",Centro Sportivo Laureles,,"1:18,61",6
+4,"Mott, Priscila  27",Club Social y Deportivo Delfin,,"1:18,75",5
+5,"Rovella, María Paz  25",Carrasco Lawn Tennis Club,,"1:19,22",4
+6,"Jorcin, Valentina  24",Carrasco Lawn Tennis Club,,"1:19,88",3
+7,"Salvatierra, Magdalena  20",Nadadores DE Young,,"1:20,11",2
+8,"Lopez, Selena  19",Club Nacional Nueva Helvecia,,"1:22,21",1
+9,"Rossotti, Lucia  21",Club Social y Deportivo Delfin,,"x1:22,84",
+10,"Lepratti, Manuela  19",Club Nacional Nueva Helvecia,,"1:25,63",
+11,"Perucca, Franggina  20",Centro Sportivo Laureles,,"1:26,49",
+12,"Sierra, Florencia  27",Centro Sportivo Laureles,,"x1:28,31",
+nto 95  Hombres 19 & Mayores 100 CC Metro Estilo de Espalda,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Ferreira, Francisco  21",Club Social y Deportivo Delfin,,"1:03,33",9
+2,"Uria, Juan  32",Carrasco Lawn Tennis Club,,"1:04,14",7
+3,"Chiancone, Federico  29",Carrasco Lawn Tennis Club,,"1:06,00",6
+4,"Sanz, Valentin  24",Carrasco Lawn Tennis Club,,"x1:06,96",
+5,"Urtazu, Agustín  25",Club Nacional Nueva Helvecia,,"1:08,78",5
+6,"Rostan, Gaston  29",Club Social y Deportivo Delfin,,"1:10,26",4
+7,"Font, Emanuel  20",Club Nacional Nueva Helvecia,,"1:10,30",3
+8,"Batiste, Fabrizio  23",Club Atletico Esparta,,"1:11,49",2
+9,"Batiste, Nestor  29",Club Atletico Esparta,,"1:11,84",1
+10,"Estigarriba, Martin  35",Nadadores DE Young,,"1:11,88",
+11,"Fanetti, Ignacio  20",Club Social y Deportivo Delfin,,"x1:12,69",
+12,"Rodriguez, Santiago  22",Club Nacional Nueva Helvecia,,"x1:13,54",
+13,"Acosta, Caio  32",Centro Sportivo Laureles,,"1:18,57",
+14,"Bizoza, Joaquin  25",Club Atletico Esparta,,"x1:20,37",
+nto 96  Niñas 12 Años de Edad 100 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,
+1,"Yaquinta, Guadalupe  12",Carrasco Lawn Tennis Club,,"1:18,49",
+2,"Dornel, Matilda  12",Club Social y Deportivo Delfin,,"1:18,67",
+3,"Flores, Luana  12",Club Social y Deportivo Delfin,,"1:19,15",
+4,"Bianchini, Anabela  12",Nadadores DE Young,,"1:23,23",
+5,"Dondo, Federica  12",Carrasco Lawn Tennis Club,,"x1:23,27",
+6,"Sagari, Belen  12",Centro Sportivo Laureles,,"1:24,96",
+7,"DE Souza, Guadalupe  12",Centro Sportivo Laureles,,"x1:25,01",
+8,"Ferrer, Paulina  12",Centro Sportivo Laureles,,"x1:25,25",
+9,"Vieito, Luzmila  12",Club Nacional Nueva Helvecia,,"x1:28,72",
+10,"Aguilera, Agustina  12",Carrasco Lawn Tennis Club,,"x1:30,08",
+11,"Martens, Solange  12",Club Nacional Nueva Helvecia,,"x1:32,24",
+12,"Latorre, Julieta  12",Club Social y Deportivo Delfin,,"x1:34,83",
+13,"Gonzalez, Emilia  12",Nadadores DE Young,,"x1:42,55",
+14,"Caballero, Lara  12",Nadadores DE Young,,"x1:43,73",
+nto 96  Niñas 12-13 100 CC Metro Estilo Libre,,,,,
+,Nombre Edad,Equipo,,Tiempo de Finales,Puntos
+1,"Rodriguez, Candelaria  13",Carrasco Lawn Tennis Club,,"1:17,65",9
+2,"Yaquinta, Guadalupe  12",Carrasco Lawn Tennis Club,,"1:18,49",7
+3,"Ithurralde, Josefina  13",Carrasco Lawn Tennis Club,,"x1:18,57",
+4,"Dornel, Matilda  12",Club Social y Deportivo Delfin,,"1:18,67",6
+5,"Flores, Luana  12",Club Social y Deportivo Delfin,,"1:19,15",5
+
+"6 Suarez, Emilia",13,Nadadores DE Young,Unnamed: 0,"1:19,58",4
+"7 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x1:21,94",
+"8 Stemphet, Nahiara",13,Club Atletico Esparta,,"1:23,16",3.0
+"9 Bianchini, Anabela",12,Nadadores DE Young,,"1:23,23",2.0
+"10 Dondo, Federica",12,Carrasco Lawn Tennis Club,,"x1:23,27",
+"11 Timote, Priscila",13,Centro Sportivo Laureles,,"1:23,77",1.0
+"12 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"x1:23,94",
+"13 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"1:24,16",
+"14 Sagari, Belen",12,Centro Sportivo Laureles,,"1:24,96",
+"15 DE Souza, Guadalupe",12,Centro Sportivo Laureles,,"x1:25,01",
+"16 Ferrer, Paulina",12,Centro Sportivo Laureles,,"x1:25,25",
+"17 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"1:28,02",
+"18 Vieito, Luzmila",12,Club Nacional Nueva Helvecia,,"x1:28,72",
+"19 Aguilera, Agustina",12,Carrasco Lawn Tennis Club,,"x1:30,08",
+"20 Martens, Solange",12,Club Nacional Nueva Helvecia,,"x1:32,24",
+"21 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x1:32,41",
+"22 Latorre, Julieta",12,Club Social y Deportivo Delfin,,"x1:34,83",
+"23 Gonzalez, Emilia",12,Nadadores DE Young,,"x1:42,55",
+"24 Magallanes, Sophie",13,Club Social y Deportivo Delfin,,"x1:43,60",
+"25 Caballero, Lara",12,Nadadores DE Young,,"x1:43,73",
+"26 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"1:58,26",
+"--- Novak, Elena",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 96  Niñas 13 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Rodriguez, Candelaria",13,Carrasco Lawn Tennis Club,,"1:17,65",
+"2 Ithurralde, Josefina",13,Carrasco Lawn Tennis Club,,"x1:18,57",
+"3 Suarez, Emilia",13,Nadadores DE Young,,"1:19,58",
+"4 Taramasco, Barbara",13,Club Social y Deportivo Delfin,,"x1:21,94",
+"5 Stemphet, Nahiara",13,Club Atletico Esparta,,"1:23,16",
+"6 Timote, Priscila",13,Centro Sportivo Laureles,,"1:23,77",
+"7 Demasi, Giulia",13,Club Social y Deportivo Delfin,,"x1:23,94",
+"8 Salaberry, Ana Clara",13,Club Nacional Nueva Helvecia,,"1:24,16",
+"9 Cerrudo, Sol",13,Club Nacional Nueva Helvecia,,"1:28,02",
+"10 Vespa, Olivia",13,Club Nacional Nueva Helvecia,,"x1:32,41",
+"11 Magallanes, Sophie",13,Club Social y Deportivo Delfin,,"x1:43,60",
+"12 Acosta, Stefania",13,Piscinas Barriales DE Salto,,"1:58,26",
+"--- Novak, Elena",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 97  Niños 12 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Centurion, Maximo",12,Nadadores DE Young,,"1:09,39",
+"2 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"1:16,08",
+"3 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"1:18,24",
+"4 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x1:18,42",
+"5 Fuentes, Geronimo",12,Club Atletico Esparta,,"1:19,47",
+"6 Terra, Matias",12,Carrasco Lawn Tennis Club,,"1:20,09",
+"7 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"1:22,04",
+"8 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x1:25,51",
+"9 Brun, Elias",12,Centro Sportivo Laureles,,"x1:27,56",
+"10 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"x1:30,61",
+"11 Centena, Sebastian",12,Centro Sportivo Laureles,,"x1:30,96",
+
+"12 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,Unnamed: 0,"x1:31,46",Unnamed: 1
+"13 Sonderegger, Ian",12,Club Atletico Esparta,,"1:31,99",
+"14 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x1:35,75",
+"15 Pereira, Anthony",12,Centro Sportivo Laureles,,"x1:44,14",
+"16 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"x1:44,97",
+"17 Reyes, Ignacio",12,Club Atletico Esparta,,"x1:55,53",
+"18 Heredia, Patic",12,Piscinas Barriales DE Salto,,"x1:58,47",
+,,,,,
+Evento 97  Niños 12-13 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"1:06,53",9
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"1:06,97",7
+"3 Centurion, Maximo",12,Nadadores DE Young,,"1:09,39",6
+"4 Quiroz, Max",13,Piscinas Barriales DE Salto,,"1:14,47",5
+"5 Ferres, Justino",13,Club Social y Deportivo Delfin,,"1:14,55",4
+"6 Beron, Joaquin",12,Club Social y Deportivo Delfin,,"1:16,08",3
+"7 Faber, Joaquin",13,Centro Sportivo Laureles,,"x1:16,33",
+"8 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,,"1:17,24",2
+"9 Alvarino, Ignacio",12,Club Nacional Nueva Helvecia,,"1:18,24",1
+"10 Malsenido, Maximiliano",12,Club Social y Deportivo Delfin,,"x1:18,42",
+"11 Fuentes, Geronimo",12,Club Atletico Esparta,,"1:19,47",
+"12 Terra, Matias",12,Carrasco Lawn Tennis Club,,"1:20,09",
+"13 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x1:20,62",
+"14 García, Joaquín",13,Nadadores DE Young,,"1:21,45",
+"15 Rodriguez, Joaquin",12,Club Nacional Nueva Helvecia,,"1:22,04",
+"16 Castellanos, Benjamin",12,Club Social y Deportivo Delfin,,"x1:25,51",
+"17 Brun, Elias",12,Centro Sportivo Laureles,,"x1:27,56",
+"18 Stemphelet, Bruno",13,Nadadores DE Young,,"x1:28,80",
+"19 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x1:29,10",
+"20 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"1:30,01",
+"21 Vera, Sebastian",12,Club Nacional Nueva Helvecia,,"x1:30,61",
+"22 Centena, Sebastian",12,Centro Sportivo Laureles,,"x1:30,96",
+"23 Yaquinta, Salvador",12,Carrasco Lawn Tennis Club,,"x1:31,46",
+"24 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x1:31,76",
+"25 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x1:31,80",
+"26 Sonderegger, Ian",12,Club Atletico Esparta,,"1:31,99",
+"27 Yohnatan, Casals",13,Club Atletico Esparta,,"x1:32,03",
+"28 Torres, Luciano",13,Club Atletico Esparta,,"x1:33,54",
+"29 Paez, Tomas",12,Carrasco Lawn Tennis Club,,"x1:35,75",
+"30 Pereira, Anthony",12,Centro Sportivo Laureles,,"x1:44,14",
+"31 Carballo, Nicolas",12,Piscinas Barriales DE Salto,,"x1:44,97",
+"32 Reyes, Ignacio",12,Club Atletico Esparta,,"x1:55,53",
+"33 Heredia, Patic",12,Piscinas Barriales DE Salto,,"x1:58,47",
+"--- Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 97  Niños 13 Años de Edad 100 CC Metro Estilo Libre,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,
+"1 Lagos, Mateo",13,Centro Sportivo Laureles,,"1:06,53",
+"2 Menini, Benjamin",13,Centro Sportivo Laureles,,"1:06,97",
+"3 Quiroz, Max",13,Piscinas Barriales DE Salto,,"1:14,47",
+"4 Ferres, Justino",13,Club Social y Deportivo Delfin,,"1:14,55",
+"5 Faber, Joaquin",13,Centro Sportivo Laureles,,"x1:16,33",
+
+"6 Grassi, Jeronimo",13,Carrasco Lawn Tennis Club,Unnamed: 0,"1:17,24",Unnamed: 1
+"7 Castillo, Mauricio",13,Club Social y Deportivo Delfin,,"x1:20,62",
+"8 García, Joaquín",13,Nadadores DE Young,,"1:21,45",
+"9 Stemphelet, Bruno",13,Nadadores DE Young,,"x1:28,80",
+"10 Canuti, Tomas",13,Carrasco Lawn Tennis Club,,"x1:29,10",
+"11 Filipini, Miguel",13,Piscinas Barriales DE Salto,,"1:30,01",
+"12 Chaquiriand, Mauro",13,Club Nacional Nueva Helvecia,,"x1:31,76",
+"13 Rodriguez, Sergio",13,Club Social y Deportivo Delfin,,"x1:31,80",
+"14 Yohnatan, Casals",13,Club Atletico Esparta,,"x1:32,03",
+"15 Torres, Luciano",13,Club Atletico Esparta,,"x1:33,54",
+"--- Restano, Jose Juan",13,Carrasco Lawn Tennis Club,,DQ,
+,,,,,
+Evento 98  Mujeres 14-15 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Hurst, Belen",14,Club Nacional Nueva Helvecia,,"1:24,84",9
+"2 Bertinat, Fiorella",14,Club Nacional Nueva Helvecia,,"1:30,08",7
+"3 Ashby, Julieta",14,Centro Sportivo Laureles,,"1:32,83",6
+"4 Gomensoro, Malena",15,Carrasco Lawn Tennis Club,,"1:33,24",5
+"5 Martinez, Mercedes",14,Carrasco Lawn Tennis Club,,"1:38,18",4
+"6 Espindola, Aldana",15,Club Social y Deportivo Delfin,,"1:39,40",3
+"7 Acuna, Federica",14,Carrasco Lawn Tennis Club,,"x1:39,79",
+"8 Hernandez, Mia",14,Club Atletico Esparta,,"1:43,12",2
+"9 Rodriguez, Maria Pia",15,Club Nacional Nueva Helvecia,,"x1:45,49",
+"10 Buscio, Emilia",14,Club Social y Deportivo Delfin,,"1:46,09",1
+"11 Machado, Eva",15,Piscinas Barriales DE Salto,,"1:46,48",
+"12 Ferreira, Martina",15,Centro Sportivo Laureles,,"1:48,20",
+"13 Rodriguez, Luana",14,Club Atletico Esparta,,"1:50,29",
+"14 Muela, Pilar",15,Centro Sportivo Laureles,,"x1:50,40",
+"15 Vazquez, Pierina",14,Club Social y Deportivo Delfin,,"x1:50,63",
+"16 Negrin, Martina",14,Club Atletico Esparta,,"x1:57,29",
+"17 Casavalle, Nathali",14,Piscinas Barriales DE Salto,,"2:07,61",
+"--- Mannise, Catalina",14,Nadadores DE Young,,DQ,
+,,,,,
+Evento 99  Hombres 14-15 100 CC Metro Estilo de Pecho,,,,,
+Nombre,Edad,Equipo,,Tiempo de Finales,Puntos
+"1 Paez, Juan Pedro",15,Carrasco Lawn Tennis Club,,"1:22,44",9
+"2 Sonderegger, Paulino",15,Club Nacional Nueva Helvecia,,"1:29,48",7
+"3 Voelker, Felipe",15,Centro Sportivo Laureles,,"1:30,14",6
+"4 Ferres, Benjamin",14,Club Social y Deportivo Delfin,,"1:30,66",5
+"5 Demasi, Valentino",15,Club Social y Deportivo Delfin,,"1:32,62",4
+"6 Martinez, Ignacio",14,Club Social y Deportivo Delfin,,"x1:33,97",
+"7 Cubas, Baltasar",14,Carrasco Lawn Tennis Club,,"1:34,42",3
+"*8 Benitez, Clemente",14,Nadadores DE Young,,"1:35,47",2
+"*8 Stella, Juan Diego",14,Carrasco Lawn Tennis Club,,"x1:35,47",
+"10 Llovinsky, Juan",15,Piscinas Barriales DE Salto,,"1:35,74",1
+"11 Dati, Genaro",15,Centro Sportivo Laureles,,"1:35,97",
+"12 Lepratti, Benjamin",14,Club Nacional Nueva Helvecia,,"1:39,03",
+"13 Hernandez, Mateo",14,Club Nacional Nueva Helvecia,,"x1:45,71",
+"14 García, Santiago",15,Club Atletico Esparta,,"1:45,80",
+"15 Chivel, Thiago",15,Piscinas Barriales DE Salto,,"1:48,09",
+"--- Coll, Sebastian",15,Centro Sportivo Laureles,,DQ,
+
+1 Carrasco Lawn Tennis Club,A,Unnamed: 0,Unnamed: 1,"2:13,50 18"
+"1) Cuadra, Sebastian M18","2) Vidiella, Felicia W17",,"3) Seigal, Pedro M18","4) Vidiella, Federica W17"
+2 Club Nacional Nueva Helvecia,A,,,"2:15,13 14"
+"1) Sonderegger, Saskia W17","2) Silvera, Emiliano M17",,"3) Silvera, Valentina W18","4) Demaria, Aaron M17"
+3 Centro Sportivo Laureles,A,,,"2:17,22 12"
+"1) Keiran, Julieta W17","2) Bordoli, Felipe M18",,"3) Quincke, Bautista M18","4) Keiran, Pia W18"
+4 Club Social y Deportivo Delfin,A,,,"2:21,67 10"
+"1) Puyol, Caio M18","2) Buscio, Agustino M17",,"3) Barrientos, Catalina W18","4) Flores, Chiara W17"
+5 Club Atletico Esparta,A,,,"2:32,09 8"
+"1) Garcia, Rodrigo M17","2) Sonderegger, Anika W17",,"3) Stemphet, Iann Paul M17","4) Centurion, Matilde W18"
+--- Piscinas Barriales DE Salto,A,,,DQ
+"1) Gallino, Camila W17","2) De Los Santos, Delfina W17",,"3) Cavalheiro, Federico M17","4) Silveira, Valentin M17"
+,,,,
+Evento 101  Niñas 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+--- Club Nacional Nueva Helvecia,A,,,"X1:22,64"
+"1) Gabriel, Ma Ines 10","2) Lemes, Matilda 10",,"3) Irigoyen, Ema 10","4) Urrutia, Francesca 10"
+--- Carrasco Lawn Tennis Club,A,,,"X1:31,13"
+"1) Baldomir, Mora 10","2) Cubas, Catalina 10",,"3) Ameglio, Guadalupe 10","4) Chiesa, Franchesca 10"
+--- Club Social y Deportivo Delfin,A,,,"X1:50,66"
+"1) Moreira, Luana 10","2) Zapata, Renata 10",,"3) Castillo, Yuliana 10","4) Damasco, Bianca 10"
+,,,,
+Evento 101  Niñas 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Nacional Nueva Helvecia,A,,,"1:19,57 18"
+"1) Arrambide, Matilda 11","2) Diaz, Selene 11",,"3) Viera, Nataly 11","4) Hernandez, Juliana 11"
+2 Club Social y Deportivo Delfin,A,,,"1:26,24 14"
+"1) Pacaluk, Josefina 11","2) Trigo, Julia 11",,"3) Pacaluk, Camila 11","4) Lopez, Bianca 11"
+3 Carrasco Lawn Tennis Club,A,,,"1:33,15 12"
+"1) Seigal, Helena 11","2) Fleurquin, María 11",,"3) Novak, Gabriela 11","4) Sonneveld, Sofía 11"
+--- Centro Sportivo Laureles,A,,,DQ
+"1) Frascheri, Lara 11","2) Delgrosso, Isabella 11",,"3) De Giovi, Sabrina 11","4) Dias, Francesca 11"
+,,,,
+Evento 102  Niños 10 Años de Edad 4x25 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+--- Club Social y Deportivo Delfin,A,,,"X1:24,52"
+"1) Sobrino, Lorenzo 10","2) Barrett, Joaquin 10",,"3) Picart, Emiliano 10","4) Imken, Vicente 10"
+--- Carrasco Lawn Tennis Club,A,,,"X1:27,55"
+"1) Kaplan, Lucas 10","2) Frick, Cipriano 10",,"3) Sanchez Varela, Antonio 10","4) Storace, Juan 10"
+--- Centro Sportivo Laureles,A,,,"X1:41,79"
+"1) Ferrer, Francisco 10","2) Sagari, Mateo 10",,"3) Masalles, Jacinto 10","4) Dati, Benicio 10"
+,,,,
+Evento 102  Niños 11 Años de Edad 4x25 CC Metro Combinado Relevo,,,,
+Equipo,Relevo,,Tiempo de Finales,Puntos
+1 Club Social y Deportivo Delfin,A,,,"1:21,70 18"
+"1) Nunez, Tomas 11","2) Cruz, Diego 11",,"3) Cairus, Valentino 11","4) Rodriguez, Thiago 11"
+2 Club Nacional Nueva Helvecia,A,,,"1:21,71 14"
+"1) Martinelli, Piero 11","2) Martinez, Felipe 11",,"3) Bertinat, Guillermo 11","4) Schmidt, Bruce 11"
+3 Carrasco Lawn Tennis Club,A,,,"1:26,92 12"
+"1) Terra, Francisco 11","2) Canuti, Agustin 11",,"3) Licio, Faustino 11","4) Vendito, Ignacio 11"
+4 Centro Sportivo Laureles,A,,,"1:34,25 10"
+"1) Faber, Francisco 11","2) Mantinian, Timoteo 11",,"3) Alvarez, Federico 11","4) Castelli, Camilo 11"
+--- Club Atletico Esparta,A,,,"X1:31,70"
+

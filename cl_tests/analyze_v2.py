@@ -5,18 +5,21 @@ from io import StringIO
 import re
 
 def parse_time(time_str):
-    if pd.isna(time_str) or str(time_str).strip() in ['Tiempo de Finales', 'DQ', '']:
+    if pd.isna(time_str) or str(time_str).strip() in ['Tiempo de Finales', 'DQ', '', 'Puntos']:
         return pd.NaT
-    time_str = str(time_str).replace('x', '').strip()
+    time_str = str(time_str).replace('x', '').replace('X', '').strip()
     try:
         if ':' in time_str:
-            minutes, rest = time_str.split(':')
-            seconds, milliseconds = rest.split(',')
-            total_seconds = int(minutes) * 60 + int(seconds) + float(f"0.{milliseconds}")
-        else:
+            parts = time_str.replace(',', '.').split(':')
+            if len(parts) == 3:  # Format: hh:mm:ss.ms
+                return pd.Timedelta(hours=float(parts[0]), minutes=float(parts[1]), seconds=float(parts[2]))
+            elif len(parts) == 2:  # Format: mm:ss.ms
+                return pd.Timedelta(minutes=float(parts[0]), seconds=float(parts[1]))
+        elif ',' in time_str:
             seconds, milliseconds = time_str.split(',')
-            total_seconds = int(seconds) + float(f"0.{milliseconds}")
-        return pd.Timedelta(seconds=total_seconds)
+            return pd.Timedelta(seconds=float(seconds), milliseconds=float(milliseconds))
+        else:
+            return pd.Timedelta(seconds=float(time_str))
     except ValueError:
         print(f"Warning: Unable to parse time '{time_str}'. Returning NaT.")
         return pd.NaT
@@ -38,14 +41,6 @@ def parse_data(content):
     
     return events
 
-def identify_columns(df):
-    # Try to identify columns based on content
-    name_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+\s*"?[A-Za-z]').any()).idxmax()
-    time_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+[,.:]\d+').any()).idxmax()
-    team_col = df.apply(lambda x: x.astype(str).str.contains(r'Club|Centro|Piscinas').any()).idxmax()
-    
-    return name_col, time_col, team_col
-
 def create_dataframe(event):
     data = StringIO('\n'.join(event['data']))
     try:
@@ -56,11 +51,19 @@ def create_dataframe(event):
 
     df = df.dropna(how='all')  # Drop empty rows
     
-    name_col, time_col, team_col = identify_columns(df)
+    # Try to identify columns based on content
+    name_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+\s*"?[A-Za-z]').any()).idxmax()
+    time_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+[,.:]\d+').any()).idxmax()
+    team_col = df.apply(lambda x: x.astype(str).str.contains(r'Club|Centro|Piscinas').any()).idxmax()
     
-    if name_col is not None and time_col is not None and team_col is not None:
-        df = df[[name_col, team_col, time_col]]
-        df.columns = ['Name', 'Team', 'Time']
+    if name_col is not None and time_col is not None:
+        if team_col is not None:
+            df = df[[name_col, team_col, time_col]]
+            df.columns = ['Name', 'Team', 'Time']
+        else:
+            df = df[[name_col, time_col]]
+            df.columns = ['Name', 'Time']
+            df['Team'] = 'Unknown'
         
         # Clean and extract name and age
         df['Name'] = df['Name'].astype(str).str.replace(r'^\d+\s*', '', regex=True)
@@ -91,16 +94,22 @@ def plot_event(event, df):
         return
     
     plt.figure(figsize=(12, 6))
-    sns.boxplot(x='Team', y='Time', data=df)
-    plt.title(f"Time Distribution by Team - {event['title']}")
-    plt.xticks(rotation=45, ha='right')
+    if 'Team' in df.columns and df['Team'].nunique() > 1:
+        sns.boxplot(x='Team', y='Time', data=df)
+        plt.title(f"Time Distribution by Team - {event['title']}")
+        plt.xticks(rotation=45, ha='right')
+    else:
+        sns.histplot(df['Time'], kde=True)
+        plt.title(f"Time Distribution - {event['title']}")
     plt.tight_layout()
     plt.show()
 
     plt.figure(figsize=(10, 6))
-    sns.scatterplot(x='Age', y='Time', hue='Team', data=df)
-    plt.title(f"Time vs Age by Team - {event['title']}")
-    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    if 'Team' in df.columns and df['Team'].nunique() > 1:
+        sns.scatterplot(x='Age', y='Time', hue='Team', data=df)
+    else:
+        sns.scatterplot(x='Age', y='Time', data=df)
+    plt.title(f"Time vs Age - {event['title']}")
     plt.tight_layout()
     plt.show()
 
@@ -112,12 +121,7 @@ def main(content):
         analyze_event(event, df)
         plot_event(event, df)
 
-
 # Sample usage
-# if needed you can use:
-# sample_content = ''' 
-# content here
-# '''
 with open('output.txt', 'r') as file:
     sample_content = file.read()
 
