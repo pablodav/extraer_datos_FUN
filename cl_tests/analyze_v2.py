@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from io import StringIO
 import re
+import os
 
 def parse_time(time_str):
     if pd.isna(time_str) or str(time_str).strip() in ['Tiempo de Finales', 'DQ', '', 'Puntos']:
@@ -21,7 +22,6 @@ def parse_time(time_str):
         else:
             return pd.Timedelta(seconds=float(time_str))
     except ValueError:
-        print(f"Warning: Unable to parse time '{time_str}'. Returning NaT.")
         return pd.NaT
 
 def parse_data(content):
@@ -33,7 +33,7 @@ def parse_data(content):
             if current_event:
                 events.append(current_event)
             current_event = {'title': line.strip(), 'data': []}
-        elif current_event and ',' in line:
+        elif current_event:
             current_event['data'].append(line)
     
     if current_event:
@@ -51,30 +51,28 @@ def create_dataframe(event):
 
     df = df.dropna(how='all')  # Drop empty rows
     
-    # Try to identify columns based on content
-    name_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+\s*"?[A-Za-z]').any()).idxmax()
-    time_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+[,.:]\d+').any()).idxmax()
-    team_col = df.apply(lambda x: x.astype(str).str.contains(r'Club|Centro|Piscinas').any()).idxmax()
+    # Remove header rows and non-data rows
+    df = df[df[0].str.contains(r'^\d+\s*"?[A-Za-z]', na=False)]
     
-    if name_col is not None and time_col is not None:
-        if team_col is not None:
-            df = df[[name_col, team_col, time_col]]
-            df.columns = ['Name', 'Team', 'Time']
-        else:
-            df = df[[name_col, time_col]]
-            df.columns = ['Name', 'Time']
-            df['Team'] = 'Unknown'
+    # Identify the time column
+    time_col = df.apply(lambda x: x.astype(str).str.contains(r'\d+[,.:]\d+').sum()).idxmax()
+    
+    if time_col is not None:
+        # Assume the name is in the first column and the time is in the identified time column
+        df = df[[0, time_col]]
+        df.columns = ['Name', 'Time']
         
         # Clean and extract name and age
         df['Name'] = df['Name'].astype(str).str.replace(r'^\d+\s*', '', regex=True)
+        df['Name'] = df['Name'].str.replace('"', '')
         df[['Name', 'Age']] = df['Name'].str.extract(r'([^,]+),\s*(.+)')
         df['Age'] = pd.to_numeric(df['Age'], errors='coerce')
         
         df['Time'] = df['Time'].apply(parse_time)
-        df = df.dropna(subset=['Time'])
+        df = df.dropna(subset=['Time', 'Name'])
         return df
     else:
-        print(f"Warning: Could not identify required columns for event {event['title']}")
+        print(f"Warning: Could not identify time column for event {event['title']}")
         return pd.DataFrame()
 
 def analyze_event(event, df):
@@ -88,42 +86,52 @@ def analyze_event(event, df):
     print(f"Fastest time: {df['Time'].min()}")
     print(f"Slowest time: {df['Time'].max()}")
 
-def plot_event(event, df):
+def plot_event(event, df, output_dir):
     if df.empty:
         print(f"\nSkipping plotting for {event['title']} due to parsing issues.")
         return
     
+    event_name = re.sub(r'[^\w\-_\. ]', '_', event['title'])
+    
     plt.figure(figsize=(12, 6))
-    if 'Team' in df.columns and df['Team'].nunique() > 1:
-        sns.boxplot(x='Team', y='Time', data=df)
-        plt.title(f"Time Distribution by Team - {event['title']}")
-        plt.xticks(rotation=45, ha='right')
-    else:
-        sns.histplot(df['Time'], kde=True)
-        plt.title(f"Time Distribution - {event['title']}")
+    sns.histplot(df['Time'], kde=True)
+    plt.title(f"Time Distribution - {event['title']}")
     plt.tight_layout()
-    plt.show()
+    plt.savefig(os.path.join(output_dir, f"{event_name}_distribution.png"))
+    plt.close()
 
     plt.figure(figsize=(10, 6))
-    if 'Team' in df.columns and df['Team'].nunique() > 1:
-        sns.scatterplot(x='Age', y='Time', hue='Team', data=df)
-    else:
-        sns.scatterplot(x='Age', y='Time', data=df)
+    sns.scatterplot(x='Age', y='Time', data=df)
     plt.title(f"Time vs Age - {event['title']}")
     plt.tight_layout()
-    plt.show()
+    plt.savefig(os.path.join(output_dir, f"{event_name}_scatter.png"))
+    plt.close()
 
-def main(content):
+def process_event(event, output_dir):
+    df = create_dataframe(event)
+    analyze_event(event, df)
+    plot_event(event, df, output_dir)
+    # Clear memory
+    del df
+    plt.close('all')
+
+def main(content, output_dir, max_events=None):
     events = parse_data(content)
     
-    for event in events:
-        df = create_dataframe(event)
-        analyze_event(event, df)
-        plot_event(event, df)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    for i, event in enumerate(events):
+        if max_events is not None and i >= max_events:
+            break
+        process_event(event, output_dir)
 
 # Sample usage
+output_directory = 'swimming_analysis_output'
+max_events_to_process = 10  # Set to None to process all events
+
 with open('output.txt', 'r') as file:
     sample_content = file.read()
 
 if __name__ == "__main__":
-    main(sample_content)
+    main(sample_content, output_directory, max_events_to_process)
