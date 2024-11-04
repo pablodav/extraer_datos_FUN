@@ -339,7 +339,7 @@ Nadadores DE Young  14 13 Medina, Tomas 1:33,05
 Club Atletico Esparta  15 14 Garcíáa, Santiago 1:34,86  
 Nadadores DE Young  14 15 Laborda, Benjamin 1:42,99  
 Centro Sportivo Laureles  15 --- Gandulfo, Mateo DQ"
-13,Mixto,"16-18 4x50 CC Metro Estilo Libre Relevo
+13,Relevo,"Evento 13  Mixto 16-18 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 1:56,08 18
 1) Cuadra, Sebastian M18 2) Grassi, Valentin M16 3) Estol, Lucia W16 4) Vidiella, Federica W17
@@ -353,7 +353,7 @@ Centro Sportivo Laureles  15 --- Gandulfo, Mateo DQ"
 1) Soto, Maximo M16 2) De Los Santos, Delfina W17 3) Gallino, Camila W17 4) Cavalheiro, Federico M17
     A 6Club Atletico Esparta 2:12,51 6
 1) Stemphet, Iann Paul M17 2) Bizoza, Maia W17 3) Centurion, Matilde W18 4) Garcia, Rodrigo M17"
-14,Mixto,"12-13 4x50 CC Metro Combinado Relevo
+14,Relevo,"Evento 14  Mixto 12-13 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 2:32,58 18
 1) Lagos, Mateo M13 2) Sagari, Belen W12 3) Timote, Priscila W13 4) Menini, Benjamin M13
@@ -367,7 +367,7 @@ Centro Sportivo Laureles  15 --- Gandulfo, Mateo DQ"
 1) Soba, Agustin M12 2) Stemphet, Nahiara W13 3) Sonderegger, Ian M12 4) Gonzalez, Josefina W12
     A --- Club Nacional Nueva Helvecia DQ  
 1) Salaberry, Ana Clara W13 2) Chaquiriand, Mauro M13 3) Vespa, Olivia W13 4) Alvarin ño, Ignacio M12"
-15,Mujeres,"19 & Mayores 4x100 CC Metro Combinado Relevo
+15,Relevo,"Evento 15  Mujeres 19 & Mayores 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 5:08,81 18
 1) Koster, Valentina 20 2) Hernandez, Florencia 29 3) Rossotti, Lucia 21 4) Mott, Priscila 27
@@ -378,13 +378,13 @@ Centro Sportivo Laureles  15 --- Gandulfo, Mateo DQ"
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados
 ("
-15,Mujeres,"19 & Mayores 4x100 CC Metro Combinado Relevo)
+15,Relevo,"Evento 15  Mujeres 19 & Mayores 4x100 CC Metro Combinado Relevo)
  Equipo Relevo Tiempo de Finales Puntos
     A 4Club Nacional Nueva Helvecia 5:24,67 10
 1) Font, Valentina 16 2) Lo ápez, Selena 19 3) Silvera, Valentina 18 4) Lepratti, Manuela 19
     A 5Club Atletico Esparta 6:27,24 8
 1) Sonderegger, Anika 17 2) Molina, Yania 19 3) Rodriguez, Luana 14 4) Nario, Antonella 19"
-16,Hombres,"19 & Mayores 4x100 CC Metro Combinado Relevo
+16,Relevo,"Evento 16  Hombres 19 & Mayores 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 4:17,25 18
 1) Chiancone, Federico 29 2) Chiancone, Nicolas 31 3) Uria, Juan 32 4) Wansart, Erik 26
@@ -714,7 +714,7 @@ Centro Sportivo Laureles  21 12 Bordoli, Manuel x2:21,55
 Club Atletico Esparta  23 13 Batiste, Fabrizio 2:23,50  
 Nadadores DE Young  35 14 Estigarriba, Martin 2:24,88  
 Club Nacional Nueva Helvecia  19 15 Pelaez, Cirilo 2:52,16"
-29,Mujeres,"16-18 4x100 CC Metro Combinado Relevo
+29,Relevo,"Evento 29  Mujeres 16-18 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 5:23,27 18
 1) Font, Valentina 16 2) Velazquez, Federica 18 3) Silvera, Valentina 18 4) Sonderegger, Saskia 17
@@ -726,7 +726,7 @@ Club Nacional Nueva Helvecia  19 15 Pelaez, Cirilo 2:52,16"
 1) Flores, Chiara 17 2) Koster, Emilia 16 3) Barrientos, Catalina 18 4) Zecca, Natalia 16
     A --- Club Atletico Esparta DQ  
 1) Bernardi, Alfonsina 16 2) Bizoza, Maia 17 3) Centurion, Matilde 18 4) Sonderegger, Anika 17"
-30,Hombres,"16-18 4x100 CC Metro Combinado Relevo
+30,Relevo,"Evento 30  Hombres 16-18 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 4:38,76 18
 1) Puyol, Caio 18 2) Buscio, Agustino 17 3) Vittori, Giuliano 16 4) Cairus, Facundo 17
@@ -738,7 +738,7 @@ Club Nacional Nueva Helvecia  19 15 Pelaez, Cirilo 2:52,16"
 1) Martinez, Alan 18 2) Morales, Tomas 16 3) Stemphet, Iann Paul 17 4) Garcia, Rodrigo 17
     A 5Club Nacional Nueva Helvecia 5:37,10 8
 1) Silvera, Emiliano 17 2) Demaria, Aaron 17 3) Rodríáguez, Juan Pablo 17 4) Elizarzu, Tim 17"
-31,Mixto,"14-15 4x50 CC Metro Combinado Relevo
+31,Relevo,"Evento 31  Mixto 14-15 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 2:15,86 18
 1) Bertinat, Fiorella W14 2) Hurst, Belen W14 3) Sonderegger, Paulino M15 4) Irigoyen, Tomas M14
@@ -756,7 +756,7 @@ Club Nacional Nueva Helvecia  19 15 Pelaez, Cirilo 2:52,16"
 1) Garcíáa, Santiago M15 2) Hernandez, Mia W14 3) Rodriguez, Luana W14 4) Garcíáa, Facundo M14Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 15
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados"
-32,Niñas,"12-13 4x50 CC Metro Estilo Libre Relevo
+32,Relevo,"Evento 32  Niñas 12-13 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 2:19,39 18
 1) Rodriguez, Candelaria 13 2) Novak, Elena 13 3) Ithurralde, Josefina 13 4) Yaquinta, Guadalupe 12
@@ -770,7 +770,7 @@ Resultados"
 1) Cerrudo, Sol 13 2) Vespa, Olivia 13 3) Vieito, Luzmila 12 4) Salaberry, Ana Clara 13
     A 6Nadadores DE Young 2:39,36 6
 1) Bianchini, Anabela 12 2) Gonzalez, Emilia 12 3) Medina, Angela 13 4) Sua árez, Emilia 13"
-33,Niños,"12-13 4x50 CC Metro Estilo Libre Relevo
+33,Relevo,"Evento 33  Niños 12-13 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 2:09,41 18
 1) Lagos, Mateo 13 2) Faber, Joaquin 13 3) Brun, Elias 12 4) Menini, Benjamin 13
@@ -786,7 +786,7 @@ Resultados"
 1) Sonderegger, Ian 12 2) Fuentes, Geronimo 12 3) Daruech, Stefano 12 4) Torres, Luciano 13
     A 7Piscinas Barriales DE Salto 2:39,53 4
 1) Quiroz, Max 13 2) Heredia, Patic 12 3) Carballo, Nicolas 12 4) Filipini, Miguel 13"
-34,Mixto,"10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+34,Relevo,"Evento 34  Mixto 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A --- Club Nacional Nueva Helvecia X2:46,58  
 1) Daghero, Genaro M10 2) Vera Fostel, Santiago M10 3) Lemes, Matilda W10 4) Urrutia, Francesca W10
@@ -798,7 +798,7 @@ Resultados"
 1) Sagari, Mateo M10 2) Garbarino, Olivia W10 3) Masalles, Jacinto M10 4) Bosco, Ana Julia W10
     A --- Nadadores DE Young X3:10,88  
 1) Centurio án, Isabella W10 2) Solari, Benjamin M10 3) Bianchini, Giulianna W10 4) Pintos, Ignacio M10"
-34,Mixto,"11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+34,Relevo,"Evento 34  Mixto 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 2:29,54 18
 1) Viera, Nataly W11 2) Arrambide, Matilda W11 3) Schmidt, Bruce M11 4) Bertinat, Guillermo M11
@@ -811,7 +811,7 @@ Resultados"
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados
 ("
-34,Mixto,"11 Años de Edad 4x50 CC Metro Estilo Libre Relevo)
+34,Relevo,"Evento 34  Mixto 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo)
  Equipo Relevo Tiempo de Finales Puntos
     A 5Club Atletico Esparta 3:19,05 8
 1) Gardiol, Juan M11 2) Hoffman, Lara W11 3) Ciliuti, Eugenia W11 4) Hernandez, Juan Pedro M11"
@@ -1191,7 +1191,7 @@ Club Atletico Esparta  25 18 Bizoza, Joaquin x31,86
 Club Nacional Nueva Helvecia  25 --- Urtazu, Agustíán DQ  Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 23
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados"
-49,Mujeres,"14-15 4x100 CC Metro Combinado Relevo
+49,Relevo,"Evento 49  Mujeres 14-15 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 5:39,83 18
 1) Salaberry, Ma. Pia 15 2) Hurst, Belen 14 3) Martens, Eloisa 14 4) Bertinat, Fiorella 14
@@ -1203,7 +1203,7 @@ Resultados"
 1) Stemphet, Nahiara 13 2) Hernandez, Mia 14 3) Rodriguez, Luana 14 4) Negrin, Martina 14
     A --- Club Social y Deportivo Delfin DQ  
 1) Amarillo, Lara 15 2) Espindola, Aldana 15 3) Buscio, Emilia 14 4) Vazquez, Pierina 14"
-50,Hombres,"14-15 4x100 CC Metro Combinado Relevo
+50,Relevo,"Evento 50  Hombres 14-15 4x100 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 5:07,85 18
 1) Lagos, Mateo 13 2) Voelker, Felipe 15 3) Coll, Sebastian 15 4) Menini, Benjamin 13
@@ -1217,7 +1217,7 @@ Resultados"
 1) Garcíáa, Santiago 15 2) Fuentes, Geronimo 12 3) Sonderegger, Ian 12 4) Garcíáa, Facundo 14
     A --- Piscinas Barriales DE Salto DQ  
 1) Soto, Tiziano 14 2) Chivel, Thiago 15 3) Salayeta, Santiago 15 4) Llovinsky, Juan 15"
-51,Mixto,"12-13 4x50 CC Metro Estilo Libre Relevo
+51,Relevo,"Evento 51  Mixto 12-13 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 2:14,92 18
 1) Dornel, Matilda W12 2) Beron, Joaquin M12 3) Flores, Luana W12 4) Ferres, Justino M13
@@ -1231,7 +1231,7 @@ Resultados"
 1) Salaberry, Ana Clara W13 2) Rodriguez, Joaquin M12 3) Cerrudo, Sol W13 4) Alvarin ño, Ignacio M12
     A 6Club Atletico Esparta 2:37,91 6
 1) Stemphet, Nahiara W13 2) Sonderegger, Ian M12 3) Gonzalez, Josefina W12 4) Daruech, Stefano M12"
-52,Mujeres,"16-18 4x100 CC Metro Estilo Libre Relevo
+52,Relevo,"Evento 52  Mujeres 16-18 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 4:41,89 18
 1) Keiran, Pia 18 2) Ashby, Julieta 14 3) Keiran, Julieta 17 4) Gonzalez, Sol 15
@@ -1246,11 +1246,11 @@ Resultados"
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados
 ("
-52,Mujeres,"16-18 4x100 CC Metro Estilo Libre Relevo)
+52,Relevo,"Evento 52  Mujeres 16-18 4x100 CC Metro Estilo Libre Relevo)
  Equipo Relevo Tiempo de Finales Puntos
     A 6Piscinas Barriales DE Salto 5:38,92 6
 1) Derregibus, Celeste 16 2) De Los Santos, Delfina 17 3) Heredia, Magdalena 17 4) Gallino, Camila 17"
-53,Hombres,"16-18 4x100 CC Metro Estilo Libre Relevo
+53,Relevo,"Evento 53  Hombres 16-18 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 4:01,96 18
 1) Cairus, Facundo 17 2) Vittori, Giuliano 16 3) Rostan, Matias 18 4) Puyol, Caio 18
@@ -1580,7 +1580,7 @@ Nadadores DE Young  17 14 Indarte, Diego x1:44,18
 Club Atletico Esparta  16 --- Morales, Tomas DQ  
 Centro Sportivo Laureles  18 --- Quincke, Bautista DQ  
 Club Atletico Esparta  16 --- Alvarez, Bruno DQ"
-64,Niñas,"10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+64,Relevo,"Evento 64  Niñas 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A --- Club Nacional Nueva Helvecia X2:46,23  
 1) Lemes, Matilda 10 2) Irigoyen, Ema 10 3) Gabriel, Ma Ines 10 4) Urrutia, Francesca 10
@@ -1588,7 +1588,7 @@ Club Atletico Esparta  16 --- Alvarez, Bruno DQ"
 1) Cubas, Catalina 10 2) Baldomir, Mora 10 3) Chiesa, Franchesca 10 4) Ameglio, Guadalupe 10
     A --- Club Social y Deportivo Delfin X3:26,27  
 1) Moreira, Luana 10 2) Damasco, Bianca 10 3) Castillo, Yuliana 10 4) Zapata, Renata 10"
-64,Niñas,"11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+64,Relevo,"Evento 64  Niñas 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 2:35,28 18
 1) Arrambide, Matilda 11 2) Shaw, Justina 11 3) Hernandez, Juliana 11 4) Viera, Nataly 11
@@ -1598,7 +1598,7 @@ Club Atletico Esparta  16 --- Alvarez, Bruno DQ"
 1) Pacaluk, Josefina 11 2) Pacaluk, Camila 11 3) Lopez, Bianca 11 4) Trigo, Julia 11
     A 4Carrasco Lawn Tennis Club 2:57,49 10
 1) Young, Sara 11 2) Sonneveld, Sofíìa 11 3) Novak, Gabriela 11 4) Fleurquin, Maríáa 11"
-65,Niños,"10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+65,Relevo,"Evento 65  Niños 10 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A --- Club Social y Deportivo Delfin X2:40,57  
 1) Picart, Emiliano 10 2) Sobrino, Lorenzo 10 3) Imken, Vicente 10 4) Barrett, Joaquin 10
@@ -1606,7 +1606,7 @@ Club Atletico Esparta  16 --- Alvarez, Bruno DQ"
 1) Kaplan, Lucas 10 2) Storace, Juan 10 3) Frick, Cipriano 10 4) Sanchez Varela, Antonio 10
     A --- Centro Sportivo Laureles X3:09,43  
 1) Sagari, Mateo 10 2) Ferrer, Francisco 10 3) Dati, Benicio 10 4) Masalles, Jacinto 10"
-65,Niños,"11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
+65,Relevo,"Evento 65  Niños 11 Años de Edad 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 2:30,56 18
 1) Nun ñez, Tomas 11 2) Cruz, Diego 11 3) Rodriguez, Thiago 11 4) Cairus, Valentino 11
@@ -1618,14 +1618,14 @@ Club Atletico Esparta  16 --- Alvarez, Bruno DQ"
 1) Alvarez, Federico 11 2) Faber, Francisco 11 3) Castelli, Camilo 11 4) Mantinian, Timoteo 11
     A --- Club Atletico Esparta X2:48,11  
 1) Hernandez, Juan Pedro 11 2) Domini, Facundo 11 3) Gardiol, Juan 11 4) Sonderegger, Thiago 10"
-66,Mixto,"14-15 4x50 CC Metro Estilo Libre Relevo
+66,Relevo,"Evento 66  Mixto 14-15 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 1:57,32 18
 1) Voelker, Felipe M15 2) Ashby, Julieta W14 3) Gonzalez, Sol W15 4) Coll, Sebastian M15Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 31
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados
 ("
-66,Mixto,"14-15 4x50 CC Metro Estilo Libre Relevo)
+66,Relevo,"Evento 66  Mixto 14-15 4x50 CC Metro Estilo Libre Relevo)
  Equipo Relevo Tiempo de Finales Puntos
     A 2Club Nacional Nueva Helvecia 2:03,90 14
 1) Bertinat, Fiorella W14 2) Irigoyen, Tomas M14 3) Hurst, Belen W14 4) Sonderegger, Paulino M15
@@ -1639,7 +1639,7 @@ Resultados
 1) Chivel, Thiago M15 2) Casavalle, Nathali W14 3) Machado, Eva W15 4) Salayeta, Santiago M15
     A --- Nadadores DE Young DQ  
 1) Mannise, Catalina W14 2) Laborda, Benjamin M14 3) Furtado, Camila W14 4) Benitez, Clemente M14"
-67,Mixto,"19 & Mayores 4x50 CC Metro Combinado Relevo
+67,Relevo,"Evento 67  Mixto 19 & Mayores 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 2:07,60 18
 1) Rostan, Gaston M29 2) Hernandez, Florencia W29 3) Ferreira, Francisco M21 4) Rossotti, Lucia W21
@@ -1653,7 +1653,7 @@ Resultados
 1) Suarez, Aldana W19 2) Salvatierra, Magdalena W20 3) Castroman, Santiago M19 4) Castroman, Nicolas M20
     A --- Club Atletico Esparta DQ  
 1) Batiste, Fabrizio M23 2) Batiste, Nestor M29 3) Jourdan, Carolina W36 4) Mun ñiz, Soledad W26"
-68,Niñas,"12-13 4x50 CC Metro Combinado Relevo
+68,Relevo,"Evento 68  Niñas 12-13 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 2:47,52 18
 1) Sagari, Belen 12 2) Colafrancheschi, Emilia 12 3) Timote, Priscila 13 4) Frascheri, Lara 11
@@ -1666,7 +1666,7 @@ Resultados
     A --- Carrasco Lawn Tennis Club DQ  
 1) Yaquinta, Guadalupe 12 2) Dondo, Federica 12 3) Novak, Elena 13 4) Rodriguez, Candelaria 13
     A --- Club Nacional Nueva Helvecia DQ"
-68,Niñas,"13 Años de Edad 4x50 CC Metro Combinado Relevo
+68,Relevo,"Evento 68  Niñas 13 Años de Edad 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales 
     A 1Centro Sportivo Laureles 2:47,52  
 1) Sagari, Belen 12 2) Colafrancheschi, Emilia 12 3) Timote, Priscila 13 4) Frascheri, Lara 11
@@ -1681,10 +1681,10 @@ Resultados
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados
 ("
-68,Niñas,"13 Años de Edad 4x50 CC Metro Combinado Relevo)
+68,Relevo,"Evento 68  Niñas 13 Años de Edad 4x50 CC Metro Combinado Relevo)
  Equipo Relevo Tiempo de Finales 
     A --- Club Nacional Nueva Helvecia DQ"
-69,Niños,"12-13 4x50 CC Metro Combinado Relevo
+69,Relevo,"Evento 69  Niños 12-13 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 2:34,32 18
 1) Lagos, Mateo 13 2) Faber, Joaquin 13 3) Menini, Benjamin 13 4) Brun, Elias 12
@@ -1700,7 +1700,7 @@ Resultados
 1) Soba, Agustin 12 2) Fuentes, Geronimo 12 3) Sonderegger, Ian 12 4) Torres, Luciano 13
     A --- Piscinas Barriales DE Salto DQ  
 1) Carballo, Nicolas 12 2) Heredia, Patic 12 3) Quiroz, Max 13 4) Filipini, Miguel 13"
-69,Niños,"13 Años de Edad 4x50 CC Metro Combinado Relevo
+69,Relevo,"Evento 69  Niños 13 Años de Edad 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales 
     A 1Centro Sportivo Laureles 2:34,32  
 1) Lagos, Mateo 13 2) Faber, Joaquin 13 3) Menini, Benjamin 13 4) Brun, Elias 12
@@ -2019,7 +2019,7 @@ Carrasco Lawn Tennis Club  13 10 Restano, Jose á Juan x49,93
 Club Social y Deportivo Delfin  13 11 Rodriguez, Sergio x51,33  
 Carrasco Lawn Tennis Club  13 12 Canuti, Tomas x51,58  
 Club Atletico Esparta  13 13 Torres, Luciano x55,38"
-82,Mujeres,"14-15 4x100 CC Metro Estilo Libre Relevo
+82,Relevo,"Evento 82  Mujeres 14-15 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 4:57,73 18
 1) Gonzalez, Sol 15 2) Ferreira, Martina 15 3) Borsani, Bianca 15 4) Ashby, Julieta 14
@@ -2031,7 +2031,7 @@ Club Atletico Esparta  13 13 Torres, Luciano x55,38"
 1) Buscio, Emilia 14 2) Amarillo, Lara 15 3) Espindola, Aldana 15 4) Vazquez, Pierina 14
     A 5Club Atletico Esparta 5:58,60 8
 1) Rodriguez, Luana 14 2) Stemphet, Nahiara 13 3) Negrin, Martina 14 4) Hernandez, Mia 14"
-83,Hombres,"14-15 4x100 CC Metro Estilo Libre Relevo
+83,Relevo,"Evento 83  Hombres 14-15 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 4:19,65 18
 1) Gandulfo, Mateo 15 2) Menini, Benjamin 13 3) Voelker, Felipe 15 4) Coll, Sebastian 15
@@ -2043,7 +2043,7 @@ Club Atletico Esparta  13 13 Torres, Luciano x55,38"
     A 5Club Atletico Esparta 5:30,72 8
     A 6Nadadores DE Young 5:33,01 6
     A --- Piscinas Barriales DE Salto DQ"
-84,Mixto,"19 & Mayores 4x50 CC Metro Estilo Libre Relevo
+84,Relevo,"Evento 84  Mixto 19 & Mayores 4x50 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 1:50,40 18
 1) Chiancone, Federico M29 2) Wansart, Erik M26 3) Diaz, Lucia W19 4) Rovella, Maríáa Paz W25
@@ -2059,7 +2059,7 @@ Club Atletico Esparta  13 13 Torres, Luciano x55,38"
 1) Batiste, Nestor M29 2) Molina, Yania W19 3) Cabrera, Miguel M24 4) Nario, Antonella W19Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 39
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados"
-85,Mixto,"10-11 4x25 CC Metro Combinado Relevo
+85,Relevo,"Evento 85  Mixto 10-11 4x25 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 1:16,36 18
     A 2Club Social y Deportivo Delfin 1:20,69 14
@@ -2436,7 +2436,7 @@ Piscinas Barriales DE Salto  15 15 Chivel, Thiago 1:48,09
 Centro Sportivo Laureles  15 --- Coll, Sebastian DQ  Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 46
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados"
-100,Mixto,"16-18 4x50 CC Metro Combinado Relevo
+100,Relevo,"Evento 100  Mixto 16-18 4x50 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 2:13,50 18
 1) Cuadra, Sebastian M18 2) Vidiella, Felicia W17 3) Seigal, Pedro M18 4) Vidiella, Federica W17
@@ -2450,7 +2450,7 @@ Resultados"
 1) Garcia, Rodrigo M17 2) Sonderegger, Anika W17 3) Stemphet, Iann Paul M17 4) Centurion, Matilde W18
     A --- Piscinas Barriales DE Salto DQ  
 1) Gallino, Camila W17 2) De Los Santos, Delfina W17 3) Cavalheiro, Federico M17 4) Silveira, Valentin M17"
-101,Niñas,"10 Años de Edad 4x25 CC Metro Combinado Relevo
+101,Relevo,"Evento 101  Niñas 10 Años de Edad 4x25 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A --- Club Nacional Nueva Helvecia X1:22,64  
 1) Gabriel, Ma Ines 10 2) Lemes, Matilda 10 3) Irigoyen, Ema 10 4) Urrutia, Francesca 10
@@ -2458,7 +2458,7 @@ Resultados"
 1) Baldomir, Mora 10 2) Cubas, Catalina 10 3) Ameglio, Guadalupe 10 4) Chiesa, Franchesca 10
     A --- Club Social y Deportivo Delfin X1:50,66  
 1) Moreira, Luana 10 2) Zapata, Renata 10 3) Castillo, Yuliana 10 4) Damasco, Bianca 10"
-101,Niñas,"11 Años de Edad 4x25 CC Metro Combinado Relevo
+101,Relevo,"Evento 101  Niñas 11 Años de Edad 4x25 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Nacional Nueva Helvecia 1:19,57 18
 1) Arrambide, Matilda 11 2) Diaz, Selene 11 3) Viera, Nataly 11 4) Hernandez, Juliana 11
@@ -2468,7 +2468,7 @@ Resultados"
 1) Seigal, Helena 11 2) Fleurquin, Maríáa 11 3) Novak, Gabriela 11 4) Sonneveld, Sofíìa 11
     A --- Centro Sportivo Laureles DQ  
 1) Frascheri, Lara 11 2) Delgrosso, Isabella 11 3) De Giovi, Sabrina 11 4) Dias, Francesca 11"
-102,Niños,"10 Años de Edad 4x25 CC Metro Combinado Relevo
+102,Relevo,"Evento 102  Niños 10 Años de Edad 4x25 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A --- Club Social y Deportivo Delfin X1:24,52  
 1) Sobrino, Lorenzo 10 2) Barrett, Joaquin 10 3) Picart, Emiliano 10 4) Imken, Vicente 10
@@ -2476,7 +2476,7 @@ Resultados"
 1) Kaplan, Lucas 10 2) Frick, Cipriano 10 3) Sanchez Varela, Antonio 10 4) Storace, Juan 10
     A --- Centro Sportivo Laureles X1:41,79  
 1) Ferrer, Francisco 10 2) Sagari, Mateo 10 3) Masalles, Jacinto 10 4) Dati, Benicio 10"
-102,Niños,"11 Años de Edad 4x25 CC Metro Combinado Relevo
+102,Relevo,"Evento 102  Niños 11 Años de Edad 4x25 CC Metro Combinado Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Club Social y Deportivo Delfin 1:21,70 18
 1) Nun ñez, Tomas 11 2) Cruz, Diego 11 3) Cairus, Valentino 11 4) Rodriguez, Thiago 11
@@ -2490,7 +2490,7 @@ Resultados"
 1) Gardiol, Juan 11 2) Hernandez, Juan Pedro 11 3) Sonderegger, Thiago 10 4) Domini, Facundo 11Club Uruguay de Natacion HY -TEK's MEET MANAGER 8.0 - 5:41 AM  22/2/2024  Pa ágina 47
 CAMPEONATO NACIONAL PISCINAS ABIERT AS 2024 - 16/2/2024 a 18/2/2024
 Resultados"
-103,Mujeres,"19 & Mayores 4x100 CC Metro Estilo Libre Relevo
+103,Relevo,"Evento 103  Mujeres 19 & Mayores 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Centro Sportivo Laureles 4:31,73 18
 1) Gonzalez, Lucia 27 2) Kulik, Guadalupe 20 3) Perucca, Franggina 20 4) Voelker, Julieta 22
@@ -2504,7 +2504,7 @@ Resultados"
 1) Centurion, Jessica 35 2) Vila, Isabel 19 3) Suarez, Aldana 19 4) Salvatierra, Magdalena 20
     A 6Club Atletico Esparta 5:55,49 6
 1) Bernardi, Alfonsina 16 2) Molina, Yania 19 3) Nario, Antonella 19 4) Mun ñiz, Soledad 26"
-104,Hombres,"19 & Mayores 4x100 CC Metro Estilo Libre Relevo
+104,Relevo,"Evento 104  Hombres 19 & Mayores 4x100 CC Metro Estilo Libre Relevo
  Equipo Relevo Tiempo de Finales Puntos
     A 1Carrasco Lawn Tennis Club 3:46,91 18
 1) Uria, Juan 32 2) Chiancone, Federico 29 3) Sanz, Valentin 24 4) Wansart, Erik 26
@@ -2518,3 +2518,6 @@ Resultados"
 1) Batiste, Nestor 29 2) Batiste, Fabrizio 23 3) Morales, Tomas 16 4) Cabrera, Miguel 24
     A --- Club Nacional Nueva Helvecia DQ  
 1) Iglesias, Darwin 30 2) Plavan, Aaron 21 3) Rodriguez, Santiago 22 4) Urtazu, Agustíán 25"
+19,Relevo,19 & Mayores 4x50 CC Metro Estilo Libre Relevo
+19,Relevo,19 & Mayores 4x100 CC Metro Estilo Libre Relevo
+19,Relevo,19 & Mayores 4x100 CC Metro Estilo Libre Relevo

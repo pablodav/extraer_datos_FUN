@@ -40,25 +40,45 @@ class SwimmingDataExtractor:
 
     def extract_events(self):
         """Extract all events from the content"""
-        event_pattern = r"\s*Evento\s+(\d+)\s+(Mujeres|Hombres|Niñas|Niños|Mixto)\s+(.+?)(?=\s*Evento|\Z)"
-        events = re.finditer(event_pattern, self.content, re.DOTALL)
-        #import pdb; pdb.set_trace()
+        # Pattern for both regular events and relay events
+        event_patterns = [
+            r"\s*Evento\s+(\d+)\s+(Mujeres|Hombres|Niñas|Niños|Mixto)\s+(.+?)(?=\s*Evento|\Z)",  # Regular events
+            r"\s*(\d+)\s+(?:&|y)\s+Mayores\s+4x\d+\s+CC\s+Metro\s+(?:Estilo\s+)?(?:Libre\s+)?Relevo\s*"  # Relay events
+        ]
         
-        for event in events:
-            event_num = int(event.group(1))
-            event_type = event.group(2)
-            event_details = event.group(3).strip()
-            self.events.append({
-                'number': event_num,
-                'type': event_type,
-                'details': event_details
-            })
+        for pattern in event_patterns:
+            events = re.finditer(pattern, self.content, re.DOTALL | re.IGNORECASE)
             
-            # Process event data based on type
-            if 'Relevo' in event_details or event_type == 'Mixto':
-                self._process_relay_event(event.group(0), event_num)
-            else:
-                self._process_individual_event(event.group(0), event_num)
+            for event in events:
+                try:
+                    event_num = int(event.group(1))
+                    if "Relevo" in event.group(0):
+                        event_type = "Relevo"
+                        event_details = event.group(0).strip()
+                    else:
+                        event_type = event.group(2)
+                        event_details = event.group(3).strip()
+                    
+                    print(f"\nFound event: {event_num}")
+                    print(f"Type: {event_type}")
+                    print(f"Details: {event_details[:100]}...")  # Show first 100 chars of details
+                    
+                    self.events.append({
+                        'number': event_num,
+                        'type': event_type,
+                        'details': event_details
+                    })
+                    
+                    # Process event data based on type
+                    full_event_text = event.group(0)
+                    if event_type == "Relevo" or "Relevo" in event_details:
+                        self._process_relay_event(full_event_text, event_num)
+                    else:
+                        self._process_individual_event(full_event_text, event_num)
+                        
+                except Exception as e:
+                    print(f"Error processing event: {str(e)}")
+                    print(f"Match text: {event.group(0)}")
 
     def _process_individual_event(self, event_text: str, event_num: int):
         """Process individual swimming event"""
@@ -139,19 +159,33 @@ class SwimmingDataExtractor:
 
     def _process_relay_event(self, event_text: str, event_num: int):
         """Process relay event data"""
-        # Extract relay team pattern
-        team_pattern = r"([A-Za-z\s]+?)\s+([0-9:,]+)\s+(\d+)"
-        swimmer_pattern = r"\d\)\s+([A-Za-zñáéíóúÁÉÍÓÚ\s,]+?)\s+([MW])(\d+)"
+        print(f"\nProcessing relay event {event_num}")  # Debug line
+        
+        # Extract relay team pattern - adjusted for the actual format
+        team_pattern = r"([A-Za-z\s&]+?)\s+([0-9:,]+)\s+(\d+)"
+        swimmer_pattern = r"\d\)\s+([^MW]+?)\s+([MW])(\d+)"
         
         lines = event_text.split('\n')
         current_team = None
         
         for line in lines:
+            print(f"Processing line: {line}")  # Debug line
+            
+            if "Equipo Relevo Tiempo" in line:
+                continue  # Skip header line
+                
             team_match = re.search(team_pattern, line)
             if team_match:
+                if current_team and len(current_team['swimmers']) == 4:
+                    # Save previous team if it's complete
+                    self._save_relay_team(current_team, event_num, lines[0].strip())
+                    
                 team_name = team_match.group(1).strip()
-                time = team_match.group(2)
-                points = float(team_match.group(3))
+                time = team_match.group(2).strip()
+                points = float(team_match.group(3)) if team_match.group(3) else None
+                
+                print(f"Found team: {team_name}, Time: {time}, Points: {points}")  # Debug line
+                
                 current_team = {
                     'name': team_name,
                     'time': time,
@@ -161,25 +195,31 @@ class SwimmingDataExtractor:
             
             swimmer_match = re.search(swimmer_pattern, line)
             if swimmer_match and current_team:
-                current_team['swimmers'].append({
+                swimmer = {
                     'name': swimmer_match.group(1).strip(),
                     'gender': 'F' if swimmer_match.group(2) == 'W' else 'M',
                     'age': int(swimmer_match.group(3))
-                })
-                
-                # If we have 4 swimmers, create the relay team
-                if len(current_team['swimmers']) == 4:
-                    relay_team = RelayTeam(
-                        team_name=current_team['name'],
-                        relay_order=len(self.relay_teams) + 1,
-                        swimmers=current_team['swimmers'],
-                        time=current_team['time'],
-                        points=current_team['points'],
-                        event_number=event_num,
-                        event_name=lines[0].strip()
-                    )
-                    self.relay_teams.append(relay_team)
-                    current_team = None
+                }
+                current_team['swimmers'].append(swimmer)
+                print(f"Added swimmer: {swimmer}")  # Debug line
+        
+        # Don't forget the last team
+        if current_team and len(current_team['swimmers']) == 4:
+            self._save_relay_team(current_team, event_num, lines[0].strip())
+
+    def _save_relay_team(self, team_data: dict, event_num: int, event_name: str):
+        """Helper method to save a complete relay team"""
+        relay_team = RelayTeam(
+            team_name=team_data['name'],
+            relay_order=len(self.relay_teams) + 1,
+            swimmers=team_data['swimmers'],
+            time=team_data['time'],
+            points=team_data['points'],
+            event_number=event_num,
+            event_name=event_name
+        )
+        self.relay_teams.append(relay_team)
+        print(f"Saved relay team: {team_data['name']}")  # Debug line
 
     def _determine_gender(self, event_header: str) -> str:
         """Determine gender from event header"""
@@ -286,18 +326,25 @@ class SwimmingDataExtractor:
         # Save relay teams
         with open(f'{base_filename}_relay_teams.csv', 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(['team_name', 'relay_order', 'time', 'points', 'event_number', 'event_name',
-                           'swimmer1', 'gender1', 'age1',
-                           'swimmer2', 'gender2', 'age2',
-                           'swimmer3', 'gender3', 'age3',
-                           'swimmer4', 'gender4', 'age4'])
+            writer.writerow(['event_number', 'event_name', 'team_name', 'time', 'points', 
+                            'swimmer1_name', 'swimmer1_gender', 'swimmer1_age',
+                            'swimmer2_name', 'swimmer2_gender', 'swimmer2_age',
+                            'swimmer3_name', 'swimmer3_gender', 'swimmer3_age',
+                            'swimmer4_name', 'swimmer4_gender', 'swimmer4_age'])
             
             for relay in self.relay_teams:
-                row = [relay.team_name, relay.relay_order, relay.time, relay.points,
-                      relay.event_number, relay.event_name]
+                row = [
+                    relay.event_number,
+                    relay.event_name,
+                    relay.team_name,
+                    relay.time,
+                    relay.points
+                ]
                 for swimmer in relay.swimmers:
                     row.extend([swimmer['name'], swimmer['gender'], swimmer['age']])
                 writer.writerow(row)
+                
+        print(f"Saved {len(self.relay_teams)} relay teams to CSV")  # Debug line
 
 def process_pdf(pdf_path: str):
     """Process a PDF file and extract swimming competition data"""

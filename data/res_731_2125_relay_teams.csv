@@ -1,1 +1,1 @@
-team_name,relay_order,time,points,event_number,event_name,swimmer1,gender1,age1,swimmer2,gender2,age2,swimmer3,gender3,age3,swimmer4,gender4,age4
+event_number,event_name,team_name,time,points,swimmer1_name,swimmer1_gender,swimmer1_age,swimmer2_name,swimmer2_gender,swimmer2_age,swimmer3_name,swimmer3_gender,swimmer3_age,swimmer4_name,swimmer4_gender,swimmer4_age
