@@ -10,3 +10,4 @@ PyPDF2==2.12.1
 pymupdf
 pdf2image
 pytesseract
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
